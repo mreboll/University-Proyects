@@ -1,0 +1,10 @@
+psycopg2-binary
+flask-login
+bootstrap-flask
+email-validator
+flask-sqlalchemy
+flask-wtf
+python-dotenv
+python-dateutil
+flask
+werkzeug

@@ -1,0 +1,6284 @@
+movie_id,person_id,character
+840464,17276,John Garrity
+840464,54882,Allison Garrity
+1368166,115440,Millie Calloway
+1368166,71070,Nina Winchester
+1368166,1855143,Andrew Winchester
+1368166,2349355,Enzo
+1168190,543530,James Hale
+1168190,117642,Jonny Hale
+1168190,54882,Valentina
+1315303,1295282,Lucy
+1084242,23532,Nick Wilde (voice)
+1084242,690,Gary De'Snake (voice)
+1084242,62861,Pawbert Lynxley (voice)
+1317288,1190668,Marty Mauser
+1317288,12052,Kay Stone
+1317288,1972166,Rachel Mizler
+1242898,18050,Thia / Tessa
+83533,65731,Jake
+83533,8691,Neytiri
+83533,10205,Kiri
+83533,32747,Quaritch
+1234731,70851,Doug McCallister
+1234731,22226,Ronald Griffin Jr.
+1234731,18324,Kenny Trent
+858024,1498158,Agnes
+1311031,9705,Giyu Tomioka (voice)
+1311031,81244,Akaza (voice)
+1311031,221773,Shinobu Kocho (voice)
+1198994,53714,Linda Liddle
+1198994,527393,Bradley Preston
+991494,6574,Mr. Krabs / Pirate / Narrator
+425274,44735,J. Daniel Atlas
+425274,10882,Veronika Vanderberg
+425274,57755,Merritt McKinney
+24428,3223,Tony Stark / Iron Man
+24428,16828,Steve Rogers / Captain America
+24428,103,Bruce Banner / The Hulk
+24428,74568,Thor
+24428,1245,Natasha Romanoff / Black Widow
+24428,17604,Clint Barton / Hawkeye
+157336,10297,Cooper
+157336,1813,Brand
+157336,3895,Professor Brand
+157336,83002,Murph
+575265,500,Ethan Hunt
+1246049,572541,Vlad / Dracula
+1246049,27319,Priest
+1246049,1589101,Maria
+1054867,6193,Bob
+1054867,2228,Col. Steven J. Lockjaw
+1054867,3914706,Willa
+1054867,1121,Sensei Sergio St. Carlos
+1054867,964679,Perfidia
+269149,23532,Nick Wilde (voice)
+269149,17605,Chief Bogo (voice)
+19995,65731,Jake Sully
+19995,8691,Neytiri
+19995,10205,Dr. Grace Augustine
+19995,32747,Colonel Miles Quaritch
+19995,1771,Parker Selfridge
+1061474,3292,Lex Luthor
+1061474,51797,Guy Gardner
+1061474,1428070,Hawkgirl
+1233413,135651,Smoke / Stack
+1233413,130640,Mary
+1233413,85065,Remmick
+76600,65731,Jake Sully
+76600,8691,Neytiri
+76600,10205,Kiri
+76600,32747,Colonel Miles Quaritch
+76600,204,Ronal
+156022,5292,Robert McCall
+156022,56734,Teri
+156022,35029,Masters
+1062722,25072,Victor Frankenstein
+1062722,2034418,The Creature
+1062722,27319,Harlander
+1062722,1137824,Elizabeth / Claire Frankenstein
+1062722,4391,Leopold Frankenstein
+1228246,27972,Mike
+1228246,2283930,Abby
+1234821,1245,Zora Bennett
+1234821,80860,Dr. Henry Loomis
+1234821,36669,Martin Krebs
+1234821,1168097,Reuben Delgado
+1272837,5469,Dr. Ian Kelson
+1272837,85065,Sir Lord Jimmy Crystal
+1291608,224223,Hamza Ali Mazari / Jaskirat Singh Rangi
+1291608,87328,Rehman Dakait
+617126,1253360,Reed Richards / Mister Fantastic
+617126,556356,Sue Storm / Invisible Woman
+617126,1597365,Johnny Storm / Human Torch
+27205,6193,Dom Cobb
+27205,24045,Arthur
+27205,2524,Eames
+27205,27578,Ariadne
+1218925,1296667,Angel Devil (voice)
+911430,287,Sonny Hayes
+1223601,32747,Yeagor Dragunov
+155,3894,Bruce Wayne
+155,1810,Joker
+155,3895,Alfred
+155,1579,Rachel
+155,64,Gordon
+533533,55089,Julian Dillinger
+533533,12214,Elisabeth Dillinger
+524047,17276,John Garrity
+524047,54882,Allison Garrity
+1214931,934,Hermann Göring
+1214931,17838,Douglas Kelley
+634649,1136406,Peter Parker / Spider-Man
+634649,505710,MJ
+634649,71580,Doctor Strange
+634649,15277,Happy Hogan
+634649,134,Max Dillon / Electro
+1236153,73457,Chris Raven
+1236153,933238,Judge Maddox
+1087192,2803710,Hiccup
+1087192,17276,Stoick
+569094,130640,Gwen Stacy (voice)
+569094,25072,Miguel O'Hara (voice)
+438631,1190668,Paul Atreides
+438631,933238,Lady Jessica Atreides
+438631,25072,Duke Leto Atreides
+438631,117642,Duncan Idaho
+438631,1640,Baron Vladimir Harkonnen
+798645,83271,Ben Richards
+798645,16851,Dan Killian
+798645,3905,Molie Jernigan
+335984,30614,'K'
+335984,3,Rick Deckard
+335984,224513,Joi
+335984,543530,Sapper Morton
+872585,2037,J. Robert Oppenheimer
+872585,5081,Kitty Oppenheimer
+872585,1892,Leslie Groves
+872585,3223,Lewis Strauss
+872585,1373737,Jean Tatlock
+693134,1190668,Paul Atreides
+693134,505710,Chani
+693134,933238,Jessica
+693134,16851,Gurney Halleck
+693134,86654,Feyd-Rautha
+315635,1136406,Peter Parker / Spider-Man
+315635,2232,Adrian Toomes / Vulture
+315635,3223,Tony Stark / Iron Man
+315635,3141,May Parker
+315635,15277,Happy Hogan
+315635,12052,Pepper Potts
+361743,500,Capt. Pete 'Maverick' Mitchell
+361743,6161,Penny Benjamin
+361743,65717,Adm. Beau 'Cyclone' Simpson
+533535,10859,Wade Wilson / Deadpool / Nicepool
+533535,6968,Logan / Wolverine
+533535,15576,Mr. Paradox
+533535,1464650,Laura / X-23
+533535,15277,Happy Hogan
+299534,3223,Tony Stark / Iron Man
+299534,16828,Steve Rogers / Captain America
+299534,103,Bruce Banner / Hulk
+299534,74568,Thor
+299534,1245,Natasha Romanoff / Black Widow
+299534,17604,Clint Barton / Hawkeye
+639988,25002,Yoo Man-su
+639988,93999,Choi Seon-chul
+639988,141548,Gu Bum-mo
+346698,234352,Barbie
+346698,30614,Ken
+99861,3223,Tony Stark / Iron Man
+99861,74568,Thor
+99861,103,Bruce Banner / Hulk
+99861,16828,Steve Rogers / Captain America
+99861,1245,Natasha Romanoff / Black Widow
+99861,17604,Clint Barton / Hawkeye
+1242419,38673,Jeffrey Manchester
+1242419,205,Leigh Wainscott
+402431,1620,Madame Morrible
+402431,80860,Fiyero
+1197306,976,Levon Cade
+1197306,454,Joe Garcia
+950387,117642,Garrett
+950387,70851,Steve
+950387,2604515,Natalie
+324857,130640,Gwen Stacy (voice)
+701387,54693,Michelle
+701387,88124,Teddy
+1078605,16851,Archer
+1078605,30082,Marcus
+986056,1373737,Yelena Belova
+986056,1700685,Robert Reynolds
+986056,35029,Alexei Shostakov
+1220564,52583,Armando / Marcelo / Adult Fernando
+216015,118545,Anastasia Steele
+1100988,27428,Jamie
+1100988,5469,Dr. Ian Kelson
+414906,11288,Bruce Wayne / The Batman
+414906,37153,Selina Kyle
+414906,2954,Lt. James Gordon
+414906,72466,Oz / The Penguin
+414906,1241,Carmine Falcone
+475557,73421,Arthur Fleck
+475557,380,Murray Franklin
+1241982,18918,Maui (voice)
+496243,556435,Yeon-kyo
+496243,1255881,Ki-woo
+198663,527393,Thomas
+198663,25663,Newt
+198663,93491,Gally
+541671,224513,Eve
+541671,6384,John Wick
+541671,6972,Winston
+552524,66193,Stitch (voice)
+552524,58225,Jumba
+109445,40462,Anna (voice)
+822119,3,President Thaddeus Ross
+822119,1462,Samuel Sterns
+122917,1327,Gandalf the Grey
+385687,12835,Dominic Toretto
+385687,56446,Jakob
+385687,1251069,Ramsey
+271110,16828,Steve Rogers / Captain America
+271110,3223,Tony Stark / Iron Man
+271110,1245,Natasha Romanoff / Black Widow
+210577,880,Nick Dunne
+210577,10882,Amy Dunne
+210577,80602,Tanner Bolt
+1197137,2803710,Finn
+1197137,569,The Grabber
+1197137,3586928,Ernesto
+447365,73457,Peter Quill / Star-Lord
+447365,8691,Gamora
+447365,543530,Drax
+447365,12835,Groot (voice)
+1038392,17178,Ed Warren
+1038392,21657,Lorraine Warren
+939243,206,Ivo Robotnik / Gerald Robotnik
+939243,6384,Shadow (voice)
+939243,17605,Knuckles (voice)
+939243,11006,Tom
+912649,2524,Eddie Brock / Venom
+912649,1115,Detective Mulligan
+1022789,1903874,Anxiety (voice)
+68718,134,Django Freeman
+68718,27319,Dr. King Schultz
+68718,6193,Calvin J. Candie
+68718,2231,Stephen
+68718,27740,Billy Crash
+967941,1620,Madame Morrible
+967941,80860,Fiyero / The Scarecrow
+106646,6193,Jordan Belfort
+106646,21007,Donnie Azoff
+106646,234352,Naomi Lapaglia
+106646,10297,Mark Hanna
+106646,3026,Max Belfort
+436969,234352,Harley Quinn
+436969,17605,Bloodsport
+436969,56446,Peacemaker
+436969,16483,King Shark (voice)
+436969,19492,Amanda Waller
+1035259,3896,Frank Drebin Jr.
+1184918,1267329,Roz / Rummage (voice)
+1184918,1253360,Fink (voice)
+1184918,2440,Longneck (voice)
+1259102,550843,Joan
+1259102,1371041,Luke
+76341,2524,Max Rockatansky
+76341,6885,Imperator Furiosa
+76341,3292,Nux
+502356,73457,Mario (voice)
+502356,1397778,Princess Peach (voice)
+502356,95101,Luigi (voice)
+502356,70851,Bowser (voice)
+502356,19274,Donkey Kong (voice)
+429617,1136406,Peter Parker / Spider-Man
+429617,131,Quentin Beck / Mysterio
+429617,2231,Nick Fury
+429617,3141,May Parker
+429617,15277,Happy Hogan
+429617,505710,MJ
+284054,135651,Erik Killmonger
+284054,1267329,Nakia
+284054,206919,W'Kabi
+519182,4495,Gru (voice)
+519182,23659,Maxime (voice)
+519182,63522,Valentina (voice)
+519182,17743,Margo (voice)
+228150,287,Don 'Wardaddy' Collier
+228150,10959,Boyd 'Bible' Swan
+228150,33235,Norman Ellison
+228150,454,Trini 'Gordo' Garcia
+228150,19498,Grady 'Coon-Ass' Travis
+558449,5292,Macrinus
+558449,1253360,General Acacius
+558449,935,Lucilla
+558449,1597365,Emperor Geta
+10681,60074,Captain (voice)
+49026,3894,Bruce Wayne
+49026,64,Commissioner Gordon
+49026,2524,Bane
+49026,24045,Blake
+49026,1813,Selina
+168259,12835,Dominic Toretto
+168259,8167,Brian O'Conner
+168259,18918,Luke Hobbs
+10138,3223,Tony Stark
+10138,12052,Pepper Potts
+10138,1245,Natalie Rushman / Natasha Romanoff
+10138,6807,Justin Hammer
+22949,8891,Charlie
+22949,2157,Dan
+507089,27972,Mike
+507089,2283930,Abby
+244786,18999,Fletcher
+263115,6968,Logan / X-24
+263115,1464650,Laura
+263115,39189,Caliban
+546554,8784,Benoit Blanc
+546554,16828,Ransom Drysdale
+546554,224513,Marta Cabrera
+546554,8944,Linda Drysdale
+507086,73457,Owen Grady
+507086,4784,Ellie Sattler
+447273,90633,Evil Queen
+575264,500,Ethan Hunt
+575264,933238,Ilsa Faust
+575264,556356,The White Widow
+297762,90633,Diana Prince / Wonder Woman
+297762,935,Hippolyta
+297762,11207,Sir Patrick / Ares
+718930,287,Ladybug
+718930,125025,Prince
+718930,27428,Tangerine
+11324,6193,Teddy Daniels
+11324,103,Chuck Aule
+11324,2282,Dr. Cawley
+11324,1812,Dolores
+321612,10990,Belle
+321612,7056,Mrs. Potts
+321612,3061,Lumière
+1726,3223,Tony Stark
+1726,12052,Pepper Potts
+38757,2372,Stabbington Brother (voice)
+329865,9273,Louise Banks
+329865,17604,Ian Donnelly
+329865,72873,Agent Halpern
+68721,3223,Tony Stark
+68721,12052,Pepper Potts
+68721,15277,Happy Hogan
+653346,3905,Trevathan
+675,10980,Harry Potter
+675,10989,Ron Weasley
+675,10990,Hermione Granger
+675,1283,Bellatrix Lestrange
+505642,1267329,Nakia
+945961,1428070,Kay
+283995,73457,Peter Quill / Star-Lord
+283995,8691,Gamora
+283995,543530,Drax
+283995,12835,Baby Groot (voice)
+283995,51329,Rocket (voice)
+283995,6856,Ego
+152601,73421,Theodore
+152601,1245,Samantha (voice)
+152601,73457,Paul
+299537,2231,Nick Fury
+453395,71580,Doctor Stephen Strange
+453395,550843,Wanda Maximoff / The Scarlet Witch
+453395,30082,Wong
+453395,53714,Dr. Christine Palmer
+49051,1327,Gandalf the Grey
+242582,131,Louis Bloom
+209112,880,Bruce Wayne / Batman
+209112,73968,Clark Kent / Superman
+209112,44735,Lex Luthor
+209112,90633,Diana Prince / Wonder Woman
+209112,9273,Lois
+209112,2882,Martha Kent
+257344,19292,Brenner
+257344,32895,Cooper
+257344,11705,Violet
+257344,22970,Eddie
+419430,206919,Chris Washington
+419430,572541,Jeremy Armitage
+1007734,59410,Hutch Mansell
+1007734,935,Becca Mansell
+1007734,150,Harry Mansell
+49013,887,Lightning McQueen (voice)
+49013,3895,Finn McMissile (voice)
+49013,1241,Francesco Bernoulli (voice)
+812583,8784,Benoit Blanc
+812583,16851,Mons. Jefferson Wicks
+812583,18973,Chief Geraldine Scott
+812583,17604,Dr. Nat Sharp
+1284120,3676023,Prince Julian
+545611,1620,Evelyn Wang
+545611,690,Waymond Wang
+545611,8944,Deirdre Beaubeirdre
+1175942,6807,Wolf (voice)
+786892,1397778,Furiosa
+786892,74568,Dementus
+181812,2,Luke Skywalker
+181812,25072,Poe Dameron
+1124620,587020,Hal / Bill
+1124620,109,Ted
+284053,74568,Thor
+284053,103,Bruce Banner / Hulk
+284053,91606,Loki
+284053,112,Hela
+284053,17605,Heimdall
+568124,5723,Bruno Madrigal (voice)
+16869,287,LT. Aldo Raine
+16869,27319,COL. Hans Landa
+16869,16847,SGT. Donny Donowitz
+16869,9824,Bridget von Hammersmark
+603692,6384,John Wick
+603692,1341,Caine
+603692,137905,Marquis
+603692,6972,Winston
+12445,10980,Harry Potter
+12445,10990,Hermione Granger
+12445,10989,Ron Weasley
+12445,5469,Lord Voldemort
+1327862,1172108,Clara Grant
+1327862,54697,Jonah Sullivan
+1327862,2803710,Miller Adams
+346364,1274508,Bill Denbrough
+346364,1481238,Beverly Marsh
+346364,1442069,Richie Tozier
+315162,3131,Puss in Boots (voice)
+315162,3136,Kitty Softpaws (voice)
+315162,52583,Wolf (voice)
+315162,1373737,Goldilocks (voice)
+2062,21198,Emile (voice)
+335983,2524,Eddie Brock / Venom
+335983,1812,Anne Weying
+351286,73457,Owen Grady
+290859,2713,Sarah Connor
+290859,1100,T-800 / Carl
+20352,4495,Gru (voice)
+20352,17743,Margo (voice)
+539972,27428,Sergei Kravinoff / Kraven the Hunter
+539972,934,Nikolai Kravinoff
+616037,74568,Thor
+616037,524,Jane Foster / The Mighty Thor
+616037,3894,Gorr
+616037,62561,King Valkyrie
+616037,55934,Korg / Old Kronan God (voice)
+616037,934,Zeus
+330457,40462,Anna (voice)
+207703,2231,Valentine
+573435,2888,Mike Lowrey
+324552,6384,John Wick
+1930,37625,Spider-Man / Peter Parker
+1930,54693,Gwen Stacy
+1084199,36669,Sergey
+298618,2232,Bruce Wayne / Batman
+550988,10859,Guy
+550988,1467219,Keys
+550988,55934,Antwan
+82690,165787,Sour Bill / Zangief (voice)
+324786,37625,Desmond T. Doss
+324786,65731,Captain Glover
+12444,10980,Harry Potter
+12444,10990,Hermione Granger
+12444,10989,Ron Weasley
+12444,1283,Bellatrix Lestrange
+767,10980,Harry Potter
+767,10989,Ron Weasley
+767,10990,Hermione Granger
+767,388,Horace Slughorn
+293660,10859,Wade Wilson / Deadpool
+293660,54882,Vanessa
+98566,64295,Raphael
+98566,19537,April O'Neil
+49521,73968,Clark Kent / Superman / Kal-El
+49521,9273,Lois Lane
+49521,934,Jor-El
+49521,1269,Jonathan Kent
+8966,37917,Bella Swan
+8966,11288,Edward Cullen
+1865,85,Jack Sparrow
+1865,955,Angelica
+1865,6972,"Edward ""Blackbeard"" Teach"
+1865,237455,Philip
+426063,1459885,Ellen Hutter
+426063,3292,Thomas Hutter
+426063,137905,Count Orlok
+426063,27428,Friedrich Harding
+426063,5293,Prof. Albin Eberhart von Franz
+296096,1223786,Louisa 'Lou' Clark
+296096,237455,William 'Will' Traynor
+296096,4391,Stephen Traynor
+36557,8784,James Bond
+36557,10912,Vesper Lynd
+36557,1019,Le Chiffre
+36557,2954,Felix Leiter
+181808,2,Luke Skywalker / Dobbu Scay (voice)
+181808,25072,Poe Dameron
+559,2219,Spider-Man / Peter Parker
+559,205,Mary Jane Watson
+559,17051,New Goblin / Harry Osborn
+508442,134,Joe Gardner (voice)
+866398,976,Adam Clay
+866398,27972,Derek Danforth
+866398,16940,Wallace Westwyld
+866398,1227776,Mickey Garnett
+313369,30614,Sebastian
+313369,54693,Mia
+150689,1016168,Cinderella
+150689,112,"Stepmother, Lady Tremaine"
+150689,1640,Grand Duke
+102651,11701,Maleficent
+102651,18050,Princess Aurora
+497698,1245,Natasha Romanoff / Black Widow
+497698,1373737,Yelena Belova
+497698,3293,Melina
+497698,35029,Alexei
+637649,976,H
+474350,83002,Beverly Marsh
+675353,11006,Tom Wachowski
+675353,17605,Knuckles (voice)
+675353,206,Dr. Robotnik
+205596,71580,Alan Turing
+205596,116,Joan Clarke
+205596,1247,Hugh Alexander
+1022787,8691,Olga Solís (voice)
+350,5064,Miranda Priestly
+350,1813,Andy Sachs
+350,5081,Emily
+350,2283,Nigel
+102899,22226,Scott Lang / Ant-Man
+140607,3,Han Solo
+140607,2,Luke Skywalker
+746036,30614,Colt Seavers
+746036,5081,Jody Moreno
+746036,27428,Tom Ryder
+746036,1278487,Gail Meyer
+131631,72129,Katniss Everdeen
+131631,27972,Peeta Mellark
+131631,57755,Haymitch Abernathy
+131631,9281,Effie Trinket
+131631,1231,President Alma Coin
+845781,18918,Callum Drift
+845781,16828,Jack O'Malley
+845781,140,Zoe
+845781,18999,Nick
+281338,1333,Caesar
+281338,57755,The Colonel
+281338,18324,Bad Ape
+374720,2524,Farrier
+374720,11181,Commander Bolton
+374720,2037,Shivering Soldier
+14836,501,Coraline Jones (voice)
+572802,117642,Arthur
+572802,17178,Orm
+572802,55085,Mera
+572802,2227,Atlanna
+1011477,18897,Mr. Han
+1011477,11866,Victor Lipani
+127585,6968,Logan / Wolverine
+127585,1327,Magneto
+127585,72129,Raven / Mystique
+120467,5469,M. Gustave
+120467,3490,Dmitri
+120467,5293,Jopling
+281957,6193,Hugh Glass
+281957,2524,John Fitzgerald
+281957,93210,Captain Andrew Henry
+281957,93491,Jim Bridger
+58,85,Jack Sparrow
+58,116,Elizabeth Swann
+58,2440,Davy Jones
+82507,569,Ellison Oswalt
+82507,928906,Tracy Oswalt
+82507,7132,Professor Jonas
+9502,70851,Po (voice)
+9502,11701,Tigress (voice)
+9502,4483,Shifu (voice)
+9502,6972,Tai Lung (voice)
+9502,18897,Monkey (voice)
+9502,140,Viper (voice)
+1072790,115440,Bea
+1072790,83271,Ben
+1124566,1640,Gustav Borg
+1124566,18050,Rachel Kemp
+87101,1223786,Sarah Connor
+87101,1100,Guardian / The Terminator
+87101,18999,O'Brien
+370172,8784,James Bond
+370172,121529,Madeleine
+370172,17838,Lyutsifer Safin
+370172,5469,M
+260513,18686,Helen Parr / Elastigirl (voice)
+10191,17276,Stoick (voice)
+10191,21007,Snotlout (voice)
+37799,44735,Mark Zuckerberg
+37799,37625,Eduardo Saverin
+138843,21657,Lorraine Warren
+138843,17178,Ed Warren
+524434,97576,Sersi
+524434,11701,Thena
+524434,3136,Ajak
+454619,1772,Kate Sullivan
+454619,239574,Leonardo Montenegro
+260346,3896,Bryan Mills
+260346,10696,Lenore St. John
+284052,71580,Dr. Stephen Strange
+284052,53714,Dr. Christine Palmer
+284052,30082,Wong
+284052,1019,Kaecilius
+68726,56365,Raleigh Becket
+68726,17605,Stacker Pentecost
+68726,2372,Hannibal Chau
+273248,2231,Major Marquis Warren
+273248,6856,John 'The Hangman' Ruth
+273248,10431,Daisy Domergue
+273248,27740,Sheriff Chris Mannix
+339403,1016168,Debora
+339403,65717,Buddy
+339403,134,Bats
+339403,19498,Griff
+12155,85,Tarrant Hightopp / Mad Hatter
+12155,1813,Mirana / White Queen
+12155,1283,Iracebeth / Red Queen
+423108,21657,Lorraine Warren
+423108,17178,Ed Warren
+458156,6384,John Wick
+458156,4587,Sofia
+458156,6972,Winston
+39254,6968,Charlie Kenton
+353081,500,Ethan Hunt
+353081,73968,August Walker
+353081,933238,Ilsa Faust
+316029,6968,P. T. Barnum
+316029,29222,Phillip Carlyle
+316029,1812,Charity Barnum
+316029,933238,Jenny Lind
+316029,505710,Anne Wheeler
+337167,118545,Anastasia Steele
+285,85,Jack Sparrow
+285,116,Elizabeth Swann
+285,2440,Davy Jones
+402900,18277,Debbie Ocean
+402900,112,Lou
+402900,1813,Daphne Kluger
+508883,585211,Gray Heron (voice)
+76492,19292,Count Dracula (voice)
+76492,62861,Jonathan Loughran (voice)
+76492,32895,Frankenstein (voice)
+57800,5723,Sid (voice)
+264660,93210,Caleb
+264660,227454,Ava
+264660,25072,Nathan
+566525,1489211,Shaun / Shang-Chi
+566525,1337,Xu Wenwu
+566525,2282,Trevor Slattery
+882569,131,Master Sergeant John Kinley
+436270,18918,Black Adam / Teth Adam
+436270,83860,Hawkman / Carter Hall
+436270,164945,Adrianna Tomaz
+146233,6968,Keller Dover
+146233,131,Detective Loki
+146233,19492,Nancy Birch
+37724,8784,James Bond
+37724,5469,Gareth Mallory
+47971,12835,Xander Cage
+47971,1341,Xiang
+47971,53975,Serena Unger
+47971,2231,Agent Augustus Gibbons
+75656,44735,J. Daniel Atlas
+75656,57755,Merritt McKinney
+75656,52848,Henley Reeves
+75656,54697,Jack Wilder
+75656,103,Dylan Rhodes
+286217,1892,Mark Watney
+286217,83002,Melissa Lewis
+286217,454,Rick Martinez
+337404,54693,Estella / Cruella
+337404,7056,The Baroness
+38365,19292,Lenny Feder
+38365,32895,Eric Lamonsoff
+38365,2632,Kurt McKenzie
+38365,60949,Rob Hilliard
+38365,3136,Roxanne Chase-Feder
+72190,287,Gerry Lane
+381288,1397778,Casey Cooke
+381288,1286328,Claire Benoit
+646385,974169,Tara Carpenter
+198184,76788,Deon Wilson
+198184,6968,Vincent Moore
+198184,10205,Michelle Bradley
+384018,18918,Luke Hobbs
+384018,976,Deckard Shaw
+384018,17605,Brixton
+384018,556356,Hattie Shaw
+384018,15735,Queenie Shaw
+384018,1222992,Madame M
+661374,8784,Benoit Blanc
+661374,819,Miles Bron
+661374,11661,Birdie Jay
+495764,234352,Harley Quinn
+495764,17628,Helena Bertinelli / Huntress
+495764,59017,Dinah Lance / Black Canary
+495764,3061,Roman Sionis
+454626,11006,Tom Wachowski
+454626,206,Dr. Robotnik
+787699,1190668,Willy Wonka
+110415,16828,Curtis
+110415,228,Wilford
+102382,37625,Spider-Man / Peter Parker
+102382,54693,Gwen Stacy
+102382,134,Electro / Max Dillon
+102382,122889,Green Goblin / Harry Osborn
+8681,3896,Bryan Mills
+8681,10696,Lenore St. John
+273481,5081,Kate Macer
+273481,1121,Alejandro Gillick
+273481,16851,Matt Graver
+273481,19498,Ted
+273481,206919,Reggie Wayne
+293167,91606,Captain James Conrad
+293167,2231,Lieutenant Colonel Preston Packard
+293167,1230,Bill Randa
+206647,8784,James Bond
+206647,27319,Blofeld
+206647,121529,Madeleine
+206647,5469,M
+206647,28782,Lucia
+1087891,17838,Heller
+1087891,72873,Schiller
+425909,1172108,Phoebe
+425909,1442069,Trevor
+425909,22226,Grooberson
+6977,2176,Ed Tom Bell
+6977,16851,Llewelyn Moss
+6977,57755,Carson Wells
+18785,51329,Phil Wenneck
+18785,58225,Alan Garner
+62177,7056,Elinor (voice)
+62177,477,The Witch (voice)
+420809,11701,Maleficent
+420809,18050,Princess Aurora
+420809,1716493,Prince Phillip
+301528,31,Woody (voice)
+419743,3293,Ronit Krushka
+419743,53714,Esti Kuperman
+337339,12835,Dominic Toretto
+337339,976,Deckard Shaw
+337339,18918,Luke Hobbs
+438148,4495,Gru (voice)
+438148,124747,Kevin / Stuart / Bob / Minions (voice)
+438148,15111,Jean Clawed (voice)
+299054,976,Lee Christmas
+299054,19537,Gina
+299054,16644,Gunner Jensen
+299054,57207,Decha
+466420,6193,Ernest Burkhart
+466420,380,William Hale
+466420,88124,Tom White
+792307,54693,Bella Baxter
+792307,103,Duncan Wedderburn
+792307,5293,Godwin Baxter
+615457,59410,Hutch Mansell
+615457,935,Becca Mansell
+417859,3131,Puss in Boots (voice)
+417859,3136,Kitty Softpaws (voice)
+417859,58225,Humpty Dumpty (voice)
+417859,879,Jack (voice)
+646380,6193,Dr. Randall Mindy
+646380,72129,Kate Dibiasky
+646380,5064,President Orlean
+646380,112,Brie Evantee
+646380,21007,Jason Orlean
+240832,1245,Lucy
+240832,192,Professor Norman
+527774,97576,Namaari (voice)
+527774,30082,Tong (voice)
+122906,93210,Tim Lake
+122906,53714,Mary
+122906,2440,Dad
+122906,234352,Charlotte
+530385,1373737,Dani
+530385,93491,Mark
+1422,6193,Billy
+1422,1892,Colin
+1422,514,Costello
+1422,13240,Dignam
+870028,880,Christian Wolff
+870028,19498,Braxton
+870028,18999,Ray King
+291805,44735,J. Daniel Atlas
+291805,103,Dylan Rhodes
+291805,57755,Merritt McKinney / Chase McKinney
+291805,54697,Jack Wilder
+291805,10980,Walter Mabry
+1124,6968,Robert Angier
+1124,3894,Alfred Borden
+1124,3895,Cutter
+1124,15555,Julia McCullough
+1124,1245,Olivia Wenscombe
+464052,90633,Diana Prince
+464052,1253360,Maxwell Lord
+464052,935,Hippolyta
+34851,3490,Royce
+34851,27740,Stans
+57158,1327,Gandalf the Grey
+57158,71580,Smaug / Sauron
+70981,6885,Meredith Vickers
+70981,17605,Janek
+1011985,70851,Po (voice)
+1011985,19492,The Chameleon (voice)
+1011985,4483,Shifu (voice)
+1011985,17419,Li (voice)
+166426,85,Jack Sparrow
+166426,229932,Shansa
+934433,974169,Tara Carpenter
+1160360,9827,Linda
+1160360,935669,Dr. Spring
+398978,380,Frank Sheeran
+398978,1158,Jimmy Hoffa
+398978,4517,Russell Bufalino
+398978,1037,Angelo Bruno
+166428,112,Valka (voice)
+166428,17276,Stoick (voice)
+177677,500,Ethan Hunt
+177677,17604,William Brandt
+177677,933238,Ilsa Faust
+82633,10959,Jack Bondurant
+82633,2524,Forrest Bondurant
+82633,64,Floyd Banner
+82633,83002,Maggie Beauford
+76338,74568,Thor
+76338,524,Jane Foster
+76338,91606,Loki
+76338,4173,Odin
+667538,2372,Optimus Primal (voice)
+667538,22970,Scourge (voice)
+667538,1620,Airazor (voice)
+840705,38673,Slater
+840705,1371297,Sarah
+976573,11514,Brook (voice)
+439079,17178,Ed Warren
+810,776,Donkey (voice)
+810,6941,Princess Fiona (voice)
+810,3131,Puss in Boots (voice)
+259316,998225,Queenie Goldstein
+259316,72466,Percival Graves
+135397,73457,Owen
+135397,7132,Hoskins
+339846,18918,Mitch Buchanan
+339846,29222,Matt Brody
+339846,77234,Victoria Leeds
+339846,109513,Summer Quinn
+10195,74568,Thor
+10195,524,Jane Foster
+10195,91606,Loki
+10195,4173,Odin
+10195,1640,Erik Selvig
+262543,3131,Jacq Vaucan
+262543,29369,Dr. Susan Dupré / Cleo (voice)
+537915,1753914,Tessa Young
+392044,11181,Hercule Poirot
+392044,85,Edward Ratchett
+392044,5293,Gerhard Hardman
+270946,18864,Skipper (voice)
+270946,12098,Kowalski (voice)
+270946,12080,Rico (voice)
+270946,6949,Dave (voice)
+270946,71580,Classified (voice)
+406997,1204,Isabel
+406997,887,Nate
+1371185,6968,Mike Sardina
+1371185,11661,Claire Sardina
+1371185,26473,Dr. Dave Watson
+46195,44735,Blu (voice)
+46195,1813,Jewel (voice)
+46195,41087,Linda (voice)
+38055,23659,Megamind (voice)
+38055,287,Metro Man (voice)
+38055,21007,Tighten (voice)
+38055,7399,Bernard (voice)
+141052,880,Batman / Bruce Wayne
+141052,73968,Superman / Clark Kent
+141052,9273,Lois Lane
+141052,90633,Wonder Woman / Diana Prince
+141052,117642,Aquaman / Arthur Curry
+580489,2524,Eddie Brock / Venom
+580489,57755,Cletus Kasady / Carnage
+580489,1812,Anne Weying
+580489,1115,Detective Mulligan
+1242011,54697,Tim
+490132,1817,Dolores
+51876,51329,Edward Morra
+51876,380,Carl Van Loon
+447332,5081,Evelyn Abbott
+447332,17697,Lee Abbott
+404368,90633,Shank (voice)
+396535,150903,Seok-woo
+396535,1255881,Yeong-gook
+225886,6941,Annie
+10193,31,Woody (voice)
+49444,70851,Po (voice)
+49444,11701,Tigress (voice)
+49444,4483,Shifu (voice)
+49444,64,Lord Shen (voice)
+49444,18897,Monkey (voice)
+49444,140,Viper (voice)
+44214,524,Nina Sayers / The Swan Queen
+44214,18973,Lily / The Black Swan
+44214,1920,Beth Macintyre / The Dying Swan
+259693,21657,Lorraine Warren
+259693,17178,Ed Warren
+75612,500,Jack
+75612,192,Beech
+75612,18182,Julia
+577922,11288,Neil
+577922,11181,Sator
+577922,3895,Crosby
+420817,2888,Genie / Mariner
+330459,1341,Chirrut Imwe
+330459,77301,Baze Malbus
+640146,22226,Scott Lang / Ant-Man
+383498,10859,Wade Wilson / Deadpool / Juggernaut (voice)
+383498,16851,Cable
+383498,54882,Vanessa
+635302,233590,Inosuke Hashibira (voice)
+635302,9705,Giyu Tomioka (voice)
+62835,8691,Cataleya Restrepo
+648878,73421,Joe Cross
+648878,54693,Louise Cross
+648878,1253360,Ted Garcia
+10192,776,Donkey (voice)
+10192,6941,Princess Fiona (voice)
+10192,3131,Puss in Boots (voice)
+10192,118489,Rumpelstiltskin / Priest / Krekraw Ogre (voice)
+48138,3896,Dr. Martin Harris
+48138,9824,Gina
+615777,234352,Nellie LaRoy
+615777,287,Jack Conrad
+639720,10859,Cal
+639720,17697,Dad / Marshmallow (voice)
+639720,4495,Blue (voice)
+13183,17178,Dan Dreiberg / Nite Owl II
+13183,1247,Adrian Veidt / Ozymandias
+13183,47296,Edward Blake / The Comedian
+1241436,93491,Erik
+1241436,1512452,John
+62211,1230,Sullivan (voice)
+62211,15735,Dean Hardscrabble (voice)
+62211,21198,Squishy (voice)
+93456,4495,Gru (voice)
+93456,17743,Margo (voice)
+12403,18324,Cliff
+12403,63,Cydney
+12403,18082,Nick
+12403,74568,Kale
+398818,1190668,Elio
+398818,72873,Mr. Perlman
+118340,73457,Peter Quill
+118340,8691,Gamora
+118340,543530,Drax
+118340,12835,Groot (voice)
+118340,51329,Rocket (voice)
+634492,118545,Cassandra Webb
+634492,115440,Julia Cornwall
+634492,1428070,Anya Corazón
+49530,71070,Sylvia Weis
+49530,2037,Raymond Leon
+49530,59315,Rachel Salas
+424694,17838,Freddie Mercury
+424694,49735,John Reid
+82702,112,Valka (voice)
+82702,17276,Stoick (voice)
+82702,21007,Snotlout (voice)
+14161,17867,Gordon Silberman
+348350,57755,Tobias Beckett
+348350,1223786,Qi'ra
+363088,22226,Scott Lang / Ant-Man
+776503,239574,Bernardo Villalobos
+493529,1481238,Doric
+493529,1628687,Xenk
+1949,131,Robert Graysmith
+1949,103,David Toschi
+1949,3223,Paul Avery
+297802,117642,Arthur Curry / Aquaman
+297802,55085,Mera
+297802,5293,Nuidis Vulko
+297802,17178,King Orm Marius / Ocean Master
+297802,2227,Atlanna
+297802,16644,King Nereus
+763215,1356210,Elodie
+324849,5469,Alfred Pennyworth (voice)
+324849,58225,Joker (voice)
+19913,24045,Tom
+19913,11664,Summer
+19913,56734,Rachel
+19913,9048,Vance
+585083,62861,Johnny (voice)
+341013,6885,Lorraine Broughton
+341013,1230,Emmett Kurzfeld
+427641,18918,Davis Okoye
+427641,47296,Harvey Russell
+307081,131,Billy 'The Great'  Hope
+307081,53714,Maureen Hope
+23483,27428,Dave Lizewski / Kick-Ass
+23483,56734,Mindy Macready / Hit Girl
+23483,2963,Damon Macready / Big Daddy
+241554,3896,Jimmy Conlon
+241554,228,Shawn Maguire
+241554,7132,Detective Harding
+241554,589162,Gabriela Conlon
+889737,73421,Arthur Fleck
+889737,2039,Jackie Sullivan
+753342,73421,Napoleon Bonaparte
+753342,556356,Josephine Bonaparte
+1097549,2227,Romy
+1097549,1716493,Samuel
+1097549,3131,Jacob
+300668,524,Lena
+300668,10431,Dr Ventress
+300668,62561,Josie Radek
+300668,25072,Kane
+345887,5292,Robert McCall
+345887,1253360,Dave York
+278927,2282,Bagheera (voice)
+278927,17605,Shere Khan (voice)
+278927,1245,Kaa (voice)
+260514,887,Lightning McQueen (voice)
+260514,51797,Sterling (voice)
+8355,5723,Sid (voice)
+1205515,2425998,Agnes
+360920,71580,Grinch (voice)
+696506,11288,Mickey Barnes
+696506,103,Kenneth Marshall
+696506,1021689,Kai Katz
+522938,16483,John Rambo
+335977,3,Indiana Jones
+335977,1019,Dr. Voller
+609681,2231,Nick Fury
+985939,47296,James Conner
+22970,74568,Curt Vaughn
+331482,10990,Meg March
+331482,1373737,Amy March
+331482,4784,Marmee March
+331482,1190668,Laurie
+80321,7399,Alex (voice)
+80321,2632,Marty (voice)
+80321,14409,Melman (voice)
+381284,1269,Al Harrison
+381284,205,Vivian Mitchell
+343668,1231,Poppy
+343668,4587,Ginger
+359724,1892,Carroll Shelby
+359724,3894,Ken Miles
+359724,19498,Lee Iacocca
+359724,6164,Leo Beebe
+140300,70851,Po (voice)
+140300,17419,Li (voice)
+140300,4483,Shifu (voice)
+140300,11701,Tigress (voice)
+140300,18999,Kai (voice)
+140300,18897,Monkey (voice)
+424783,527393,B-127 / Bumblebee (voice)
+424783,130640,Charlie Watson
+424783,56446,Jack Burns
+6479,2888,Robert Neville
+529203,2963,Grug (voice)
+529203,54693,Eep (voice)
+529203,10859,Guy (voice)
+940721,1516266,Noriko Oishi
+520763,5081,Evelyn Abbott
+520763,17697,Lee Abbott
+520763,2037,Emmett
+593643,1397778,Margot
+593643,5469,Chef Slowik
+593643,3292,Tyler
+61012,239019,Vincent Carter
+505026,11181,Hercule Poirot
+50620,37917,Bella Swan
+50620,11288,Edward Cullen
+1064028,19537,Alice
+1064028,2349355,Nick
+363676,31,Chesley 'Sully' Sullenberger
+339964,122889,Valerian
+339964,569,Jolly the Pimp
+1593,7399,Larry Daley
+335988,13240,Cade Yeager
+335988,4173,Sir Edmund Burton
+337401,1341,Commander Tung
+337401,1336,The Emperor
+72976,24045,Robert Lincoln
+72976,13548,W.N. Bilbo
+373571,21657,Emma Russell
+373571,1356210,Madison Russell
+624860,6384,Neo / Thomas Anderson
+8363,21007,Seth
+8363,19274,Officer Michaels
+245891,6384,John Wick
+245891,5293,Marcus
+516729,3131,Hunter Cabot
+310131,1397778,Thomasin
+698687,74568,Orion Pax / Optimus Prime (voice)
+698687,1245,Elita-1 (voice)
+698687,65717,Sentinel Prime (voice)
+399579,27319,Dr. Dyson Ido
+399579,6161,Chiren
+484641,15735,Olga
+484641,2037,Lenny Miller
+101299,72129,Katniss Everdeen
+101299,27972,Peeta Mellark
+101299,57755,Haymitch Abernathy
+101299,9281,Effie Trinket
+158852,1461,Frank Walker
+756999,2803710,Finney
+756999,569,The Grabber
+265208,976,Nick Wild
+940551,9281,Pam Mallard (voice)
+320288,1001657,Jean Grey / Dark Phoenix
+320288,3292,Hank McCoy / Beast
+23168,880,Doug MacRay
+23168,17604,"James ""Jem"" Coughlin"
+23168,65717,FBI S.A. Adam Frawley
+246655,72129,Raven / Mystique
+246655,3292,Hank McCoy / Beast
+246655,25072,En Sabah Nur / Apocalypse
+246655,9827,Moira MacTaggert
+204082,976,Phil Broker
+204082,17051,Morgan 'Gator' Bodine
+204082,7517,Cassie Bodine Klum
+204082,6574,Sheriff Keith Rodriguez
+181533,7399,Larry Daley / Laaa
+181533,2157,Theodore Roosevelt
+181533,887,Jedediah Smith
+181533,17835,Dr. McPhee
+629542,6807,Wolf (voice)
+334541,1812,Randi Chandler
+38700,2888,Mike
+194662,2232,Riggan
+194662,54693,Sam
+194662,58225,Jake
+194662,819,Mike
+119450,1333,Caesar
+119450,64,Dreyfus
+591,31,Robert Langdon
+591,1327,Sir Leigh Teabing
+591,658,Bishop Manuel Aringarosa
+20526,59315,Quorra
+91314,13240,Cade Yeager
+91314,2283,Joshua Joyce
+91314,7090,Harold Attinger
+38575,120724,Dre Parker
+38575,18897,Mr. Han
+7485,13240,Bob Lee Swagger
+7485,454,Nick Memphis
+7485,51072,Sarah Fenn
+45612,131,Colter Stevens
+45612,11705,Christina Warren
+45612,21657,Colleen Goodwin
+45612,2954,Dr. Rutledge
+748783,73457,Garfield (voice)
+748783,2231,Vic (voice)
+748783,1278487,Jinx (voice)
+748783,3292,Jon (voice)
+50619,37917,Bella Swan
+50619,11288,Edward Cullen
+84892,33235,Charlie
+84892,10990,Sam
+193756,13240,Petty Officer First Class Marcus Luttrell
+725201,30614,Six
+725201,16828,Lloyd Hansen
+725201,224513,Dani Miranda
+725201,879,Fitzroy
+929590,205,Lee
+929590,52583,Joel
+917496,2232,Beetlejuice
+917496,1920,Lydia
+917496,11514,Delia
+917496,974169,Astrid
+917496,5293,Jackson
+450465,62,David Dunn / The Overseer
+450465,2231,Elijah Price / Mr. Glass
+450465,1397778,Casey Cooke
+5559,9657,Ken (voice)
+5559,1230,Layton T. Montgomery (voice)
+5559,2632,Mooseblood (voice)
+338970,227454,Lara Croft
+338970,27740,Mathias Vogel
+762441,1267329,Samira
+762441,1597365,Eric
+184315,18918,Hercules
+184315,6972,Amphiarus
+41446,9206,Sidney Prescott
+41446,34847,Jill Roberts
+41446,14405,Gale Weathers-Riley
+49519,2963,Grug (voice)
+49519,54693,Eep (voice)
+49519,10859,Guy (voice)
+980489,35029,Jack Salter
+312221,135651,Adonis Johnson
+312221,16483,Rocky Balboa
+312221,62561,Bianca
+10527,7399,Alex (voice)
+10527,2632,Marty / Additional Zebras (voice)
+10527,14409,Melman (voice)
+920,887,Lightning McQueen (voice)
+105864,2954,Poppa (voice)
+105864,18324,Thunderclap (voice)
+105864,16431,Butch (voice)
+137113,500,Cage
+137113,5081,Rita
+137113,2039,General Brigham
+615656,976,Jonas Taylor
+615656,78871,Jiuming Zhang
+32657,33235,Percy Jackson
+32657,109513,Annabeth Chase
+32657,517,Mr. Brunner / Chiron
+1083433,1642789,Danica Richards
+1083433,33259,Julie James
+1571,62,John McClane
+1571,18082,Thomas Gabriel
+1571,15033,Matt Farrell
+1571,17628,Lucy McClane
+43074,74568,Kevin
+926393,5292,Robert McCall
+926393,501,Emma Collins
+926393,41527,Enzo Arisio
+480530,135651,Adonis Johnson
+480530,16483,Rocky Balboa
+480530,62561,Bianca
+345940,976,Jonas Taylor
+2503,1892,Jason Bourne
+451048,18918,Frank Wolff
+451048,5081,Dr. Lily Houghton
+451048,88124,Prince Joachim
+44896,85,Rango / Lars (voice)
+44896,52848,Beans (voice)
+44896,2440,Rattlesnake Jake (voice)
+44896,658,Roadkill (voice)
+55721,9827,Helen Harris
+28178,1205,Parker Wilson
+695721,1524100,Coriolanus Snow
+695721,22970,Dean Casca Highbottom
+695721,17881,Lucky Flickerman
+73723,29222,Ted Wiggins (voice)
+760104,1137824,Maxine / Pearl
+760104,974169,Lorraine
+588228,73457,Dan Forester
+588228,63312,Colonel Muri Forester
+588228,18999,James Forester
+10764,8784,James Bond
+10764,18182,Camille
+10764,59620,Strawberry Fields
+278154,5723,Sid (voice)
+249397,1640,Seligman
+249397,10959,Jerôme
+249397,5293,L
+27578,16483,Barney Ross
+27578,976,Lee Christmas
+27578,1336,Yin Yang
+27578,16644,Gunner Jensen
+27578,21315,James Monroe
+315837,1245,Major Mira Killian / Motoko Kusanagi
+512200,18918,Dr. Smolder Bravestone
+512200,55638,Franklin 'Mouse' Finbar
+512200,70851,Professor Sheldon 'Shelly' Oberon
+274855,17276,Jake Lawson
+274855,228,U.S. Secretary of State Leonard Dekkom
+274855,1271,U.S. President Andrew Palma
+399055,72873,Dr. Robert Hoffstetler
+212778,15277,Carl Casper
+212778,5723,Martin
+212778,1245,Molly
+212778,4483,Riva
+7445,2219,Capt. Sam Cahill
+7445,131,Tommy Cahill
+7445,524,Grace Cahill
+64690,30614,Driver
+64690,17419,Shannon
+64690,25072,Standard
+217,3,Indiana Jones
+217,112,Irina Spalko
+217,10959,Mutt Williams
+945729,11181,Hercule Poirot
+137106,73457,Emmet Brickowski (voice)
+137106,9281,Wyldstyle / Lucy (voice)
+137106,23659,Lord Business / President Business / The Man Upstairs
+137106,192,Vitruvius (voice)
+137106,3896,Bad Cop / Good Cop / Pa Cop (voice)
+61791,1333,Caesar
+61791,17051,Will Rodman
+61791,1248,John Landon
+974576,5469,Lawrence
+974576,2283,Bellini
+682507,2230991,Kya Clark
+682507,1716493,Chase Andrews
+542178,1121,Moses Rosenthaler
+542178,3490,Julian Cadazio
+542178,121529,Simone
+542178,1190668,Zeffirelli
+1417,16970,Ofelia
+1125257,8944,Tess Coleman
+1125257,1651362,Harper Coleman
+1125257,19728,Ryan
+718821,2230991,Kate
+718821,83271,Tyler
+228967,17051,Dave Skylark
+228967,19274,Aaron Rapaport
+530254,93999,Mr. Choi
+530254,1255881,Nobleman
+56292,500,Ethan Hunt
+56292,17604,Brandt
+318846,4495,Mark Baum
+318846,3894,Michael Burry
+318846,30614,Jared Vennett
+318846,287,Ben Rickert
+318846,3141,Cynthia Baum
+283366,10912,Miss Peregrine
+283366,2231,Barron
+214756,13240,John
+214756,52139,Ted (voice)
+214756,71070,Samantha
+214756,1771,Donny
+214756,192,Patrick Meighan
+333371,1230,Howard
+333371,17628,Michelle
+333371,51329,Ben (voice)
+507244,543530,Jake
+507244,18182,Drea
+507244,2231,Valentine
+395992,131,Dr. David Jordan
+395992,10859,Rory Adams
+395992,933238,Miranda North
+81188,52848,Tooth (voice)
+81188,6968,Bunny (voice)
+324852,4495,Gru / Dru (voice)
+324852,17743,Margo (voice)
+13448,31,Robert Langdon
+13448,3061,Camerlengo Patrick McKenna
+13448,1640,Commander Richter
+458897,37917,Sabina Wilson
+458897,9281,Boz
+438695,10297,Buster Moon (voice)
+438695,368,Rosita (voice)
+438695,1245,Ash (voice)
+458723,1267329,Adelaide Wilson / Red
+7512,51298,Frito
+364689,56446,Ferdinand (voice)
+72105,13240,John Bennett
+72105,18973,Lori Collins
+72105,52139,Ted (voice)
+72105,1771,Donny
+72105,9657,Guy
+50014,54693,Skeeter Phelan
+50014,19492,Aibileen Clark
+50014,83002,Celia Foote
+1034541,65769,Greg
+82695,6968,Jean Valjean
+82695,934,Javert
+82695,71070,Cosette
+82695,1813,Fantine
+752,524,Evey
+379686,505710,Lola Bunny (voice)
+75780,500,Jack Reacher
+75780,10882,Helen Rodin
+75780,6818,Zec Chelovek
+7446,7399,Tugg Speedman
+7446,3223,Kirk Lazarus
+7446,70851,Jeff Portnoy
+1226578,2963,Longlegs
+1126166,13240,Daryl Booth
+109418,19292,Lenny Feder
+109418,32895,Eric Lamonsoff
+109418,2632,Kurt McKenzie
+109418,3136,Roxanne Chase-Feder
+950,5723,Sid (voice)
+22803,134,Nick Rice
+22803,17276,Clyde Alexander Shelton
+324544,63,Gray Alys
+324544,543530,Boyce
+661539,1190668,Bob Dylan
+661539,819,Pete Seeger
+661539,18050,Sylvie Russo
+127380,3092,Jenny (voice)
+127380,26510,Charlie (voice)
+190859,51329,Chris Kyle
+333484,5292,Sam Chisolm
+333484,73457,Joshua Farraday
+333484,569,Goodnight Robicheaux
+333484,7132,Jack Horne
+333484,25002,Billy Rocks
+333484,1168097,Vasquez
+1128650,1341,Fok Chi Ho
+1579,17689,Middle Eye
+10528,3223,Sherlock Holmes
+10528,53714,Irene Adler
+76203,1267329,Patsey
+76203,71580,William Ford
+476669,5469,Orlando Oxford
+476669,59620,Polly
+476669,1247,Morton
+476669,1716493,Conrad Oxford
+308266,21007,Efraim Diveroli
+308266,224513,Iz
+308266,51329,Henry Girard
+842924,91606,Charles 'Chuck' Krantz
+50646,4495,Cal
+50646,30614,Jacob
+50646,1231,Emily
+50646,54693,Hannah
+592834,543530,J.J.
+353491,17605,Roland Deschain
+353491,10297,Walter O’Dim
+1102493,2037,Bill Furlong
+334524,10297,Kenny Wells
+124905,27428,Ford Brody
+124905,550843,Elle Brody
+124905,17419,Joe Brody
+459151,11006,Tim Templeton (voice)
+449443,17276,'Big Nick' O'Brien
+549509,3490,László Tóth
+479455,74568,Agent H
+479455,62561,Agent M
+479455,933238,Riza
+479455,7056,Agent O
+15512,368,Susan Murphy / Ginormica (voice)
+15512,19274,B.O.B. (voice)
+448119,3223,Dr. John Dolittle
+448119,388,Lord Thomas Badgley
+448119,3131,King Rassouli
+448119,17838,Chee-Chee (voice)
+1724,819,Bruce Banner
+1724,1462,Samuel Sterns
+335787,1136406,Nathan Drake
+335787,13240,Victor 'Sully' Sullivan
+335787,3131,Santiago Moncada
+400155,19292,Count Dracula (voice)
+400155,62861,Johnny Loughran (voice)
+400155,32895,Frankenstein (voice)
+188927,1372,Dr. Leonard 'Bones' McCoy
+188927,8691,Lieutenant Nyota Uhura
+1042834,224513,Eloise Bosquet de Wagner Wehrhorn
+1042834,115440,Margret Wittmer
+1042834,556356,Dore Strauch Ritter
+447404,10859,Detective Pikachu (voice)
+447404,2440,Howard Clifford
+974635,83271,Gary Johnson
+974635,1371297,Madison Figueroa Masters
+1217690,2203,Ian Ross
+274857,56365,Arthur
+274857,49735,"William ""Goosefat Bill"""
+395834,17604,Cory Lambert
+395834,550843,Jane Banner
+395834,19498,Matt Rayburn
+937287,505710,Tashi Donaldson
+445571,23532,Max
+445571,53714,Annie
+19908,44735,Columbus
+19908,57755,Tallahassee
+19908,54693,Wichita
+19908,55085,406
+378236,1772,Jailbreak (voice)
+70160,72129,Katniss Everdeen
+70160,27972,Peeta Mellark
+70160,57755,Haymitch Abernathy
+70160,9281,Effie Trinket
+343611,500,Jack Reacher
+343611,71189,Maj. Susan Turner
+343611,83860,Capt. Espin
+166424,135651,Johnny Storm
+166424,51072,Sue Storm
+670292,97576,Maya
+463821,70851,Jonathan Barnavelt
+463821,112,Florence Zimmerman
+717930,17276,Tom Harris
+717930,77700,Roman Chalmers
+18239,37917,Bella Swan
+18239,11288,Edward Cullen
+18239,501,Jane
+311324,1892,William
+311324,5293,Ballard
+311324,1253360,Tovar
+341174,118545,Anastasia Steele
+18240,18277,Margaret Tate
+18240,10859,Andrew Paxton
+257211,380,Ben Whitaker
+257211,1813,Jules Ostin
+713704,3128782,Kassie
+45243,51329,Phil Wenneck
+45243,58225,Alan Garner
+50359,11006,Fred
+50359,53862,Samantha O'Hare
+565770,7370,Alberto Reyes
+64682,6193,Jay Gatsby
+64682,2219,Nick Carraway
+64682,33192,Tom Buchanan
+64682,52848,Myrtle Wilson
+353486,18918,Dr. Smolder Bravestone
+353486,55638,Franklin 'Mouse' Finbar
+353486,70851,Professor Sheldon 'Shelly' Oberon
+254128,18918,Ray Gaines
+254128,109513,Blake Gaines
+893723,1172108,Skye (voice)
+24021,37917,Bella Swan
+24021,11288,Edward Cullen
+24021,501,Jane
+1402,2888,Chris Gardner
+1402,120724,Christopher
+335797,10297,Buster Moon (voice)
+335797,368,Rosita (voice)
+335797,52139,Mike (voice)
+335797,1245,Ash (voice)
+1271,17276,King Leonidas
+1271,17286,Gorgo
+1241921,72466,David
+1241921,234352,Sarah
+18360,7399,Larry Daley
+18360,9273,Amelia Earhart
+18360,887,Jedediah Smith
+18360,2157,Theodore Roosevelt
+18360,13524,Ivan the Terrible
+1265,27972,Jess Aarons
+1265,11664,Ms. Edmunds
+169917,3896,Matthew Scudder
+169917,35029,Ray
+1114967,6384,Gabriel
+1114967,86626,Arj / Delivery Robots (voice)
+1114967,19274,Jeff
+1114967,74688,Elena
+27576,11701,Evelyn Salt
+258509,15033,Alvin (voice)
+274167,23659,Brad Whitaker
+274167,13240,Dusty Mayron
+274167,1817,Sara
+274870,72129,Aurora Lane
+274870,73457,Jim Preston
+274870,1271,Captain Norris
+263472,6384,Evan Webber
+263472,224513,Bel
+100402,16828,Steve Rogers / Captain America
+100402,2231,Nick Fury
+100402,1245,Natasha Romanoff / Black Widow
+100402,4135,Alexander Pierce
+308531,64295,Raphael
+308531,19537,April O'Neil
+1181107,25072,Jesus Christ (voice)
+1181107,11181,Charles Dickens (voice)
+1181107,139,Catherine Dickens (voice)
+1181107,517,Pontius Pilate (voice)
+65754,8784,Mikael Blomkvist
+65754,1640,Martin Vanger
+724495,19492,Nanisca
+379149,517,Liam Hennessy
+379149,18897,Quan Ngoc Minh
+38579,887,Marmaduke (voice)
+38579,54693,Mazie (voice)
+1267,16842,Bowler Hat Guy / Grandpa Bud / Tallulah (voice)
+1267,15112,Cornelius Robinson (voice)
+17578,1333,Captain Haddock / Sir Francis Haddock (voice)
+17578,8784,Sakharine / Red Rackham (voice)
+302946,880,Christian Wolff
+302946,84223,Dana Cummings
+302946,18999,Ray King
+302946,19498,Brax
+1155281,128026,Jiang Ziya
+337170,500,Barry Seal
+337170,93210,Monty 'Schafer'
+337170,88124,Sheriff Downing
+337170,572541,JB
+22538,17628,Ramona Flowers
+22538,4451,Stephen Stills
+289720,2963,Gallain
+1083968,137905,Eddie Barrish
+1083968,4173,William
+205587,3223,Hank Palmer
+205587,21657,Samantha Powell
+205587,7132,Glen Palmer
+205587,51298,C.P. Kennedy
+332562,51329,Jackson Maine
+332562,16431,Bobby Maine
+64688,21007,Schmidt
+64688,38673,Jenko
+64688,54697,Eric Molson
+138832,4491,Rose O'Reilly
+138832,34847,Casey Mathis
+138832,93491,Kenny Rossmore
+300671,17697,Jack Silva
+412117,55638,Snowball (voice)
+412117,25703,Chloe (voice)
+381283,72129,Mother
+381283,228,Man
+381283,93210,Oldest Son
+1771,16828,Captain America / Steve Rogers
+1771,2176,Colonel Chester Phillips
+59860,1533,Pam
+1245993,86654,Hank Thompson
+1245993,37153,Yvonne
+1245993,7132,Shmully
+13053,8891,Bolt (voice)
+1255788,15111,Léo
+1255788,82304,Serge Shuster
+228165,6574,Mr. Krabs (voice)
+515001,1245,Rosie
+515001,55934,Adolf
+515001,6807,Captain Klenzendorf
+338953,1019,Gellert Grindelwald
+338953,998225,Queenie Goldstein
+762504,206919,OJ Haywood
+762504,74688,Emerald Haywood
+228161,16866,Lucy Tucci (voice)
+1035048,54882,Nina
+109414,17051,James Franco
+109414,21007,Jonah Hill
+109414,19274,Seth Rogen
+19994,19537,Jennifer
+19994,71070,Needy
+4982,5292,Frank Lucas
+4982,934,Richie Roberts
+4982,16851,Detective Trupo
+53182,10912,Artemisia
+53182,17286,Queen Gorgo
+6477,15033,Alvin (voice)
+375588,134,Yahya / John
+59967,24045,Joe
+59967,62,Old Joe
+59967,5081,Sara
+59967,15555,Suzie
+747188,17881,Augie Steenbeck
+747188,1245,Midge Campbell
+747188,31,Stanley Zak
+747188,2954,General Gibson
+747188,17419,The Host
+897087,56446,Mason Pettits
+897087,59860,Jenny Pettits
+262500,587020,Tobias 'Four' Eaton
+262500,204,Jeanine Matthews
+262500,37153,Christina
+455207,1620,Eleanor Young
+455207,97576,Astrid Young Teo
+228326,38673,Joaquin (voice)
+228326,8691,Maria (voice)
+228326,239574,Chato (voice)
+20504,5292,Eli
+20504,64,Carnegie
+20504,18973,Solara
+1328803,78110,Wing Commander James Wright
+576845,1397778,Sandie
+49040,17604,Aaron Cross
+49040,3293,Dr. Marta Shearing
+49040,819,Byer
+49040,25072,Outcome #3
+49049,1372,Judge Dredd
+49049,17286,Ma-Ma
+324668,1892,Jason Bourne
+324668,2176,CIA Director Robert Dewey
+324668,227454,Heather Lee
+157350,587020,Tobias 'Four' Eaton
+157350,37153,Christina
+77805,71070,Linda Lovelace
+77805,4430,Dorothy Boreman
+37931,11864,Piper
+340837,122889,Lockhart
+340837,1137824,Hannah
+937278,31,Otto Anderson
+937278,1168097,Tommy
+1242434,5292,David King
+1242434,2954,Paul Christopher
+54138,8691,Lieutenant Nyota Uhura
+54138,71580,John Harrison / Khan
+54138,1372,Dr. Leonard 'Bones' McCoy
+1232546,1972166,Nina Riley
+508439,1136406,Ian Lightfoot (voice)
+508439,73457,Barley Lightfoot (voice)
+385128,12835,Dominic Toretto
+385128,56446,Jakob Toretto
+385128,1251069,Ramsey
+399402,17276,Captain Joe Glass
+399402,64,CJCS Charles Donnegan
+399402,1817,Jane Norquist
+196867,134,"William ""Will"" Stacks"
+196867,9827,Grace Farell
+196867,6941,Miss Colleen Hannigan
+1267905,71580,Theo Rose
+1267905,62861,Barry
+401981,72129,Dominika Egorova
+401981,33192,"Nathaniel ""Natan"" Nash"
+401981,16940,Vladimir Korchnoi
+401981,8785,Alexei Zyuganov
+6557,11006,Kevin Doyle
+25793,60561,Mary
+400535,1121,Alejandro Gillick
+400535,16851,Matt Graver
+400535,1428070,Isabel Reyes
+400535,1168097,Gallo
+582014,115128,Ryan
+582014,6574,Stanley
+957452,137905,Eric
+1250,2963,Johnny Blaze / Ghost Rider
+1250,16431,Carter Slade / Phantom Rider
+1250,16839,Young Johnny Blaze
+587792,62861,Nyles
+587792,18999,Roy
+1280450,3967,Maureen
+70578,2963,Kyle Miller
+70578,2227,Sarah Miller
+336843,527393,Thomas
+336843,25663,Newt
+877269,131,Searcher Clade (voice)
+877269,140,Callisto Mal (voice)
+297761,2888,Deadshot
+297761,234352,Harley Quinn
+297761,19492,Amanda Waller
+153518,22970,Mighty Eagle (voice)
+839033,1248,Helm Hammerhand (voice)
+50546,19292,Danny Maccabee
+50546,4491,Katherine Murphy
+50546,2227,Devlin Adams
+1265063,1204,Alma Imhoff
+1265063,37625,Hank Gibson
+1265063,72873,Frederik Imhoff
+276907,2524,Ronald Kray / Reginald Kray
+276907,70456,Frances Shea
+276907,11207,Leslie Payne
+4347,116,Cecilia Tallis
+438689,6384,Lucas Hill
+533642,2,Chucky (voice)
+533642,119592,Karen Barclay
+7345,8785,Fletcher Hamilton
+241259,85,Tarrant Hightopp / Mad Hatter
+241259,1813,Mirana / White Queen
+241259,1283,Iracebeth / Red Queen
+64635,72466,Douglas Quaid / Hauser
+64635,10860,Melina
+64635,3967,Lori Quaid
+64635,2440,Matthias
+64635,17419,Cohaagen
+473033,19292,Howard Ratner
+282035,500,Nick Morton
+282035,934,Henry Jekyll / Edward Hyde
+213681,58225,David Ghantt
+213681,887,Steve Chambers
+614917,2888,Richard Williams
+614917,19498,Rick Macci
+274862,54697,Lloyd (voice)
+116745,7399,Walter Mitty
+116745,2228,Sean O'Connell
+774370,64149,Dog Man / Officer Knight / Harold's House (voice)
+774370,52848,Sarah Hatoff (voice)
+774370,17835,Flippy (voice)
+760329,18918,Mark Kerr
+760329,5081,Dawn Staples
+848538,73968,Argylle
+848538,6807,Aidan Wilde
+848538,17419,Director Ritter
+848538,11514,Ruth
+22794,1772,Sam Sparks (voice)
+22794,62861,"""Baby"" Brent (voice)"
+1337562,118545,Julie
+1337562,1371297,Ashley
+1337562,1983503,Carey
+1337562,1175743,Paul
+678512,17689,El Alacrán
+9757,776,Norbit / Rasputia / Mr. Wong
+87428,19292,Donny Berger
+87428,62861,Todd Peterson
+97020,64,Dr. Dennett Norton
+97020,2232,Raymond Sellars
+238615,10859,Young Damian
+238615,2282,Damian
+238615,1247,Albright
+785084,18269,Charlie
+785084,1590797,Ellie
+7555,16483,John Rambo
+567609,1372369,Grace MacCaulley
+567609,1533,Becky Le Domas
+791177,1190668,Lee
+791177,64141,Brad
+423204,17276,Mike Banning
+423204,192,Alan Trumbull
+423204,1733,Clay Banning
+423204,1462,VP Kirby
+23631,56731,Sartana Rivera
+23631,380,Senator John McLaughlin
+207932,31,Robert Langdon
+718789,16828,Buzz Lightyear (voice)
+718789,74688,Izzy Hawthorne (voice)
+718789,21198,SOX (voice)
+718789,55934,Mo Morrison (voice)
+254320,72466,David
+254320,3293,Short Sighted Woman
+254320,121529,Loner Leader
+534,3894,John Connor
+534,65731,Marcus Wright
+534,1283,Serena
+369972,30614,Neil Armstrong
+8338,1231,Doctor's Wife
+8338,103,Doctor
+359940,57755,Bill Willoughby
+359940,6807,Jason Dixon
+359940,572541,Red Welby
+13475,1372,Dr. Leonard 'Bones' McCoy
+22881,18277,Leigh Anne Tuohy
+639933,2227,Queen Gudrún
+639933,569,King Aurvandil War-Raven
+639933,1397778,Olga of the Birch Forest
+446894,38673,Migo (voice)
+446894,505710,Meechee (voice)
+522478,9827,Bea
+522478,93210,Mr. Thomas McGregor
+522478,234352,Flopsy Rabbit / The Narrator (voice)
+522627,10297,Michael Pearson
+522627,56365,Ray
+522627,72466,Coach
+1125,134,Curtis Taylor Jr.
+1125,776,James 'Thunder' Early
+884605,72129,Maddie Barker
+8909,11701,Fox
+8909,192,Sloan
+1233575,112,Kathryn St. Jean
+1233575,1628687,Col. James Stokes
+396371,83002,Molly Bloom
+396371,17605,Charlie Jaffey
+396371,1269,Larry Bloom
+68734,880,Tony Mendez
+68734,17419,Jack O'Donnell
+68734,1230,John Chambers
+11631,5064,Donna Sheridan
+11631,71070,Sophie Sheridan
+11631,517,Sam Carmichael
+11631,1640,Bill Anderson
+11631,477,Rosie Mulligan
+39514,62,Frank Moses
+39514,6949,Marvin Boggs
+39514,192,Joe Matheson
+39514,15735,Victoria
+39514,1372,William Cooper
+1041613,115440,Sister Cecilia
+49047,18277,Ryan Stone
+49047,1461,Matt Kowalski
+49047,228,Mission Control (voice)
+342473,18050,Félicie Milliner (voice)
+342473,122889,Victor (voice)
+76617,109513,Heather Miller
+76617,38666,Nikki
+507241,543530,Joe Flood
+507241,78110,Angus Mackenzie
+50544,18973,Jamie Rellis
+50544,57755,Tommy Bollinger
+62213,85,Barnabas Collins
+62213,10912,Angelique Bouchard
+62213,1283,Dr. Julia Hoffman
+62213,56734,Carolyn Stoddard
+1562,9827,Scarlet
+1562,17604,Sergeant Doyle
+1562,2462,Alice
+481848,3,John Thornton
+70435,38673,Aaron
+70435,3131,Rodrigo
+70435,3061,Kenneth
+68735,77700,Commander Anduin Lothar
+967847,1172108,Phoebe Spengler
+967847,22226,Gary Grooberson
+967847,1442069,Trevor Spengler
+4922,287,Benjamin Button
+4922,112,Daisy Fuller
+826749,62,Robert
+826749,62747,Balzary
+76163,16483,Barney Ross
+76163,976,Lee Christmas
+76163,1336,Yin Yang
+76163,16644,Gunner Jensen
+76163,15111,Jean Vilain
+170687,2282,Snatcher (voice)
+170687,18050,Winnie Portley-Rind (voice)
+346648,477,Mrs. Bird
+10315,1461,Mr. Fox (voice)
+10315,5064,Felicity Fox (voice)
+10315,17881,Ash Fox (voice)
+96721,74568,James Hunt
+96721,59315,Suzy Miller
+406990,5293,Terrence Settman
+223702,19274,Frank / Sergeant Pepper / Peanut Butter (voice)
+223702,21007,Carl (voice)
+223702,17051,Druggie (voice)
+280217,73457,Emmet Brickowski / Rex Dangervest (voice)
+280217,9281,Wyldstyle / Lucy (voice)
+10140,93491,Eustace Scrubb
+17979,206,Scrooge / Ghosts of Christmas (voice)
+17979,64,Bob Cratchit / Marley / Tiny Tim (voice)
+974950,8691,Rita
+225574,3896,Bill Marks
+225574,1231,Jen Summers
+225574,77277,Zack White
+512195,18918,John Hartley
+512195,10859,Nolan Booth
+512195,90633,Sarah Black / The Bishop
+82693,51329,Pat Solatano Jr.
+82693,72129,Tiffany Maxwell
+82693,380,Pat Solatano Sr.
+82693,66,Danny McDaniels
+114150,84223,Beca Mitchell
+77877,29222,Logan Thibault
+49529,8785,Tardos Mors
+72559,18918,Marvin Hinton / Roadblock
+72559,62,Joe Colton
+1735,18269,Rick O'Connell
+1735,1336,Han
+168672,3894,Irving Rosenfeld
+168672,51329,Richie DiMaso
+168672,9273,Sydney Prosser
+168672,17604,Mayor Carmine Polito
+168672,72129,Rosalyn Rosenfeld
+664469,3894,Burt Berendsen
+664469,234352,Valerie Voze
+664469,1397778,Libby Voze
+365177,112,Lilith
+365177,55638,Roland
+365177,8944,Tannis
+346685,5081,Rachel Watson
+346685,933238,Anna Watson
+372343,933238,Katrine Bratt
+338766,164094,Debbie Howard
+804095,1812,Mitzi Fabelman
+804095,19274,Benny Loewy
+930564,2034418,Felix Catton
+930564,10882,Elspeth Catton
+614560,64,Herman Mankiewicz
+614560,71070,Marion Davies
+614560,207442,Joseph Mankiewicz
+60935,17628,Kate Lloyd
+60935,33192,Sam Carter
+956,500,Ethan Hunt
+956,11705,Julia
+1581,6941,Amanda Woods
+1581,204,Iris Simpkins
+1581,70851,Miles Dumont
+329996,72466,Holt Farrier
+329996,2232,V. A. Vandevere
+329996,10912,Colette Marchant
+299687,56734,"Cassiopeia ""Cassie"" Sullivan"
+68724,1892,Max
+68724,1038,Delacourt
+68724,52583,Spider
+969492,934,Reaper
+526896,1371297,Martine Bancroft
+1160956,18897,Jackie
+49730,71070,Valerie
+49730,64,Father Soloman
+420814,3061,Christopher Robin
+8960,2888,John Hancock
+8960,6885,Mary
+8960,23532,Ray
+43347,131,Jamie Randall
+43347,1813,Maggie Murdock
+980026,1019,Ludvig Kahlen
+389015,234352,Tonya
+7551,5292,Doug Carlin
+500916,2963,Frank Walsh
+500916,10696,Dr. Ellen Taylor
+41154,2888,Agent J
+41154,2176,Agent K
+41154,16851,Young Agent K
+41154,55936,Boris The Animal
+41154,7056,Agent O
+41154,72873,Griffin
+44264,130640,Mattie Ross
+44264,1892,LaBoeuf
+44264,16851,Tom Chaney
+407451,368,Mrs. Whatsit
+211672,18277,Scarlet Overkill (voice)
+211672,65717,Herb Overkill (voice)
+211672,2232,Walter Nelson (voice)
+44826,2282,Georges Méliès
+44826,56734,Isabelle
+32856,51329,Holden Wilson
+32856,56731,Morley Clarkson
+32856,10860,Kara Monahan
+71880,19292,Jack / Jill
+71880,1158,Al Pacino
+71880,3897,Erin
+71880,239574,Felipe / Felipe's Grandma
+534490,78110,Cain Burgess
+12244,109,#9 (voice)
+12244,6161,#7 (voice)
+116149,477,Mrs. Bird
+420821,62861,Dale (voice)
+138103,16483,Barney Ross
+138103,976,Lee Christmas
+138103,3,Max Drummer
+138103,1100,Trench
+138103,2461,Conrad Stonebanks
+13483,56731,Sam Lockwood
+9693,1231,Julian
+9693,3895,Jasper
+63311,3131,Dr. Robert Ledgard
+1008409,86654,Benny
+1008409,2524,Johnny
+536437,880,Danny Rourke
+264644,3905,Robert
+675445,80602,Gus (voice)
+246403,15033,Wallace Bryton
+246403,589162,Ally Leon
+246403,85,Guy Lapointe
+19901,569,Edward Dalton
+19901,5293,Lionel 'Elvis' Cormac
+39538,1892,Mitch Emhoff
+39538,204,Erin Mears
+76757,38673,Caine Wise
+76757,18973,Jupiter Jones
+58574,3223,Sherlock Holmes
+58574,53714,Irene Adler
+587807,56734,Kayla Forrester
+587807,454,Terence Mendoza
+171274,73421,"Larry ""Doc"" Sportello"
+171274,16851,"Lt. Det. Christian F. ""Bigfoot"" Bjornsen"
+171274,887,Coy Harlingen
+171274,368,Deputy D.A. Penny Kimball
+171274,1121,"Sauncho Smilax, Esq."
+159824,19292,Dracula (voice)
+159824,62861,Johnny Loughran (voice)
+159824,32895,Frankenstein (voice)
+14574,21657,Mother
+14574,11207,Father
+14574,36669,Lieutenant Kotler
+399035,3896,Michael MacCauley
+399035,17178,Alex Murphy
+399035,21657,Joanna
+6637,2963,Benjamin Franklin Gates
+6637,9824,Abigail Chase
+6637,228,Mitch Wilkinson
+6637,15735,Emily Appleton
+539537,454,Mr. Roarke
+431693,2888,Lance Sterling (voice)
+431693,1136406,Walter Beckett (voice)
+739405,976,Orson
+739405,119592,Sarah
+9297,57191,Chowder (voice)
+9297,1579,Zee (voice)
+9297,32895,Officer Landers (voice)
+86834,934,Noah
+86834,6161,Naameh
+86834,4173,Methuselah
+86834,10990,Ila
+86834,33235,Ham
+27581,23659,Detective Allen Gamble
+27581,13240,Detective Terry Hoitz
+27581,2232,Captain Gene Mauch
+109424,31,Captain Richard Phillips
+340102,1448222,Samuel Guthrie
+340102,1181313,Rahne Sinclair
+340102,1397778,Illyana Rasputin
+175574,887,Reggie (voice)
+175574,57755,Jake (voice)
+501170,3061,Danny Torrance
+501170,933238,Rose the Hat
+501170,42376,Crow Daddy
+13027,10959,Jerry Shaw
+13027,11705,Rachel Holloman
+72545,18918,Hank Parsons
+72545,27972,Sean Anderson
+72545,40481,Gabato Laguatan
+72545,3895,Alexander Anderson
+20662,934,Robin Longstride
+20662,112,Marion Loxley
+20662,25072,Prince John
+39513,19274,Paul (voice)
+39513,23532,Special Agent Lorenzo Zoil
+484247,84223,Stephanie Smothers
+484247,36669,Dennis Nylon
+484247,1817,Diana Hyland
+1153714,22226,Elliot
+1153714,974169,Ridley
+1153714,93491,Shepard
+446893,84223,Poppy (voice)
+49797,25002,Kim Soo-hyeon
+107846,16483,Ray Breslin
+107846,1100,Emil Rottmayer
+50780,2461,Walter Black
+50780,1038,Meredith Black
+50780,72129,Norah
+4638,388,Inspector Frank Butterman
+73935,78080,Stacy
+9907,32895,Otis (voice)
+9907,14405,Daisy (voice)
+9907,16431,Ben (voice)
+9907,1533,Etta (voice)
+238713,9827,Raina Boyanov
+238713,976,Rick Ford
+459910,117642,Joe Braven
+459910,32747,Linden
+459910,42376,Hallett
+492188,1245,Nicole Barber
+492188,4784,Nora Fanshaw
+300669,32747,The Blind Man
+132232,83002,Annabel
+131634,72129,Katniss Everdeen
+131634,27972,Peeta Mellark
+131634,57755,Haymitch Abernathy
+131634,9281,Effie Trinket
+131634,1231,President Alma Coin
+395990,62,Paul Kersey
+395990,7132,Frank Kersey
+188161,52139,Albert
+188161,6885,Anna
+188161,71070,Louise
+188161,3896,Clinch
+188161,1771,Edward
+23759,18182,Etain
+752623,18277,Loretta Sage / Angela
+752623,38673,Alan / Dash
+752623,10980,Abigail Fairfax
+752623,287,Jack Trainer
+524369,21657,Livia Soprano
+181283,2524,Leo Demidov
+181283,64,General Mikhail Nesterov
+147441,3894,Moses
+147441,33192,Ramses II
+147441,2282,Nun
+147441,1241,Sethos I
+147441,229932,Nefertari
+646389,17276,Brodie Torrance
+646389,3417,Scarsdale
+7518,62,RJ (voice)
+7518,4495,Hammy (voice)
+7518,1733,Vincent (voice)
+1106739,3292,Justin Kemp
+1106739,18999,Harold
+37834,500,Roy Miller
+37834,6941,June Havens
+37834,19492,CIA Director Isabel George
+400160,6384,Sage
+400160,6574,Mr. Krabs (voice)
+19912,94423,Lori
+718032,2228,Jack Holden
+718032,2887,Rex Blau
+718032,51329,Jon Peters
+718032,227564,Joel Wachs
+38543,51072,Lady Isabel
+38543,1248,Albany
+899112,35029,Santa
+899112,5723,Scrooge
+463272,10730,Johnny English
+463272,18182,Ophelia Bhulatova
+463272,18025,Bough
+463272,7056,Prime Minister
+677179,135651,Adonis Creed
+677179,62561,Bianca Creed
+452832,10297,Baker Dill
+452832,1813,Karen Zariakas
+452832,2882,Constance
+1427,4483,Giuseppe Baldini
+87502,5292,Whip Whitaker
+87502,17521,Nicole
+87502,1230,Harling Mays
+314365,103,Michael Rezendes
+314365,2232,Walter 'Robby' Robinson
+314365,53714,Sacha Pfeiffer
+399404,64,Winston Churchill
+399404,1016168,Elizabeth Layton
+290250,934,Jackson Healy
+290250,30614,Holland March
+290250,66743,John Boy
+290250,1392137,Amelia Kuttner
+290250,60033,Tally
+974453,3896,Thug
+974453,2372,Charlie Conner
+399174,17419,Chief (voice)
+399174,819,Rex (voice)
+9530,2157,Bob Munro
+9530,27972,Carl Munro
+88751,18269,Trevor Anderson
+88751,27972,Sean Anderson
+1230368,1115,Douglas Springsteen
+338967,57755,Tallahassee
+338967,44735,Columbus
+338967,54693,Wichita
+305470,17419,Zordon
+12783,116,"Georgiana Cavendish, Duchess of Devonshire"
+12783,5469,Duke of Devonshire
+256591,2888,Nicky Spurgeon
+256591,234352,Jess Barrett
+617653,1892,Sir Jean de Carrouges
+617653,880,Pierre d'Alençon
+14113,14405,Marsha Holloway
+14113,51072,Summer Jones / Wonder
+22787,3967,Carrie Stetko
+22787,4139,Dr. John Fury
+1079091,88675,Ryle Kincaid
+1079091,1855143,Atlas Corrigan
+68728,17051,Oz
+68728,18973,Theodora / Wicked Witch of the West
+68728,3293,Evanora
+68728,1812,Annie / Glinda
+68728,5367,Frank / Finley
+103663,1019,Lucas
+619730,1373737,Alice
+619730,1052109,Jack
+619730,59315,Bunny
+619730,97576,Shelley
+491418,13240,Pete Wagner
+491418,9827,Ellie Wagner
+491418,1428070,Elizabeth “Lizzy” Viara
+227159,23532,Nick Hendricks
+227159,95101,Dale Arbus
+227159,4491,Julia Harris
+227159,27319,Bert Hanson
+620725,9827,Jexi (voice)
+620725,454,Kai
+9836,109,Mumble (voice)
+9836,2157,Ramon / Lovelace (voice)
+9836,6968,Memphis (voice)
+9836,2227,Norma Jean (voice)
+446807,39189,Frans Balder
+446021,1700685,Miles Miller
+446021,118545,Emily Summerspring
+446021,65717,Laramie Seymour Sullivan / Dwight Broadbeck
+277216,83860,MC Ren
+1372,6193,Danny Archer
+1372,6161,Maddy Bowen
+60599,1205,Robert Miller
+60599,77277,Jimmy Grant
+59859,27428,Dave Lizewski / Kick-Ass
+59859,56734,Mindy Macready / Hit Girl
+59859,206,Colonel Stars and Stripes
+59859,20508,Uncle Ralph
+71676,2963,Johnny Blaze / Ghost Rider
+71676,8785,Roarke
+71676,17605,Moreau
+1249213,1028899,Violet
+1249213,1855143,Henry
+80278,3061,Henry Bennett
+80278,1136406,Lucas Bennett
+203801,73968,Napoleon Solo
+203801,227454,Gaby Teller
+646207,3896,Mike McCann
+11619,6968,Roddy (voice)
+11619,204,Rita (voice)
+11619,1327,The Toad (voice)
+11619,2440,Whitey (voice)
+11619,1333,Spike (voice)
+37735,54693,Olive
+184345,56824,Megan
+310307,2232,Ray Kroc
+310307,1817,Joan Smith
+310307,4784,Ethel Kroc
+22825,6941,Norma Lewis
+22825,11006,Arthur Lewis
+346672,3967,Selene
+346672,587020,David
+44912,10859,Hal Jordan / Green Lantern
+635731,2963,Rob Feld
+1072342,2333351,Izzy Waller
+58233,10730,Johnny English
+58233,12214,Pamela
+58233,10882,Kate
+58233,206919,Tucker
+34544,3896,Hannibal
+34544,51329,Face
+34544,10860,Charisa Sosa
+34544,17178,Lynch
+172385,44735,Blu (voice)
+172385,1813,Jewel (voice)
+172385,134,Nico (voice)
+172385,41087,Linda (voice)
+123553,83356,Jace Wayland
+123553,17286,Jocelyn Fray
+481084,25072,Gomez Addams (voice)
+481084,6885,Morticia Addams (voice)
+481084,56734,Wednesday Addams (voice)
+481084,1442069,Pugsley Addams (voice)
+481084,19767,Cousin Itt (voice)
+41630,524,Emma Kurtzman
+41630,45400,Patrice
+41630,25703,Lucy
+559907,76788,Gawain
+559907,227454,Lady / Essel
+559907,33192,Lord
+294254,527393,Thomas
+294254,25663,Newt
+20453,52763,"Ranchoddas ""Rancho"" Chanchad"
+20453,37233,Pia Sahastrabudhhe
+33217,18324,Frank Heffley
+33217,56734,Angie Steadman
+201085,83002,Lady Lucille Sharpe
+201085,91606,Sir Thomas Sharpe
+201085,56365,Dr. Alan McMichael
+117263,17276,Mike Banning
+117263,192,Alan Trumbull
+291870,380,Dick Kelly
+291870,29222,Jason Kelly
+291870,119592,Lenore
+87516,16851,Joe Doucett
+87516,550843,Marie Sebastian
+87516,2231,Chaney
+254470,84223,Beca Mitchell
+254470,130640,Emily Junk
+531309,9281,Tori Breyer
+258489,27319,Captain Leon Rom
+258489,2231,George Washington Williams
+258489,234352,Jane Porter
+258489,388,Prime Minister
+12222,206,Horton (voice)
+12222,4495,Mayor (voice)
+12222,19274,Morton (voice)
+46529,18082,Henri Smith
+332210,62861,Junior (voice)
+332210,7090,Hunter (voice)
+332210,4491,Sarah Gardner (voice)
+721625,1331457,Sara
+513310,2461,Colonel Clive Ventor
+59440,33192,Brendan Conlon
+59440,2524,Tommy Conlon
+59440,1733,Paddy Conlon
+6972,2227,Lady Sarah Ashley
+6972,6968,The Drover
+45132,27578,Libby
+45132,4724,Jacques
+512,1245,Sondra Pransky
+512,1243,Sid Waterman
+512,6968,Peter Lyman
+512,6972,Joe Strombel
+512,4391,Mr. Malcolm
+429351,74568,Mitch Nelson
+429351,454,Sam Diller
+298,1461,Danny Ocean
+298,287,Rusty Ryan
+298,1158,Willy Bank
+298,1892,Linus Caldwell
+18823,65731,Perseus
+18823,59620,Io
+18823,1019,Draco
+18823,5469,Hades
+187017,21007,Schmidt
+187017,38673,Jenko
+334543,76788,Saroo Brierley
+334543,2227,Sue Brierley
+522162,17178,Rear Admiral Edwin T. Layton
+522162,57755,Admiral Chester W. Nimitz
+760926,29222,Virgil
+760926,75711,Keith
+1272,2037,Capa
+1272,9827,Cassie
+1272,16828,Mace
+1272,1620,Corazon
+1285965,1499908,Zephyr
+390043,10859,Michael Bryce
+390043,2231,Darius Kincaid
+390043,64,Vladislav Dukhovich
+390043,3136,Sonia Kincaid
+390043,78147,Amelia Roussel
+21208,21657,Kate
+901362,84223,Poppy (voice)
+9286,17628,Wendy Christensen
+400650,5081,Mary Poppins
+698508,10696,Duchess
+698508,19961,Mae
+345938,65731,Mack Phillips
+136799,84223,Poppy (voice)
+136799,11664,Bridget (voice)
+13252,2231,Tom Cutler
+13252,228,Eddie Lorenzo
+13252,40481,Det. Jim Vargas
+13252,74688,Rose Cutler
+316002,10860,Alice Eckle
+316002,131,Howard Birdwell
+316002,11006,Scott
+82675,3896,Bryan Mills
+82675,10696,Lenore St. John
+517412,569,Nikola Tesla
+44835,24045,Hesher
+44835,524,Nicole
+856289,143358,Ji Chang
+856289,128026,Jiang Ziya
+338762,12835,Ray Garrison / Bloodshot
+338762,1222992,KT
+338762,66441,Gina Garrison
+570670,83860,James Lanier
+614934,86654,Elvis Presley
+614934,31,Colonel Tom Parker
+913290,15033,AJ
+913290,137905,Keith
+35019,7056,Nanny McPhee
+258230,10205,Grandma
+579047,6968,Nicolas 'Nick' Bannister
+579047,933238,Mae
+38234,78110,Yuri Boyka
+1149504,1392137,Honey O'Donahue
+1149504,119592,MG Falcone
+1149504,16828,Reverend Drew Devlin
+44048,5292,Frank Barnes
+602734,2632,Detective Zeke Banks
+602734,2231,Marcus Banks
+158015,569,James Sandin
+158015,17286,Mary Sandin
+406759,4587,Jocinda Fowler
+406759,17178,Brian Harper
+406759,454,Tom Lopez
+242042,18999,Dr. Bertleman
+2270,6194,Yvaine
+2270,380,Captain Shakespeare
+796499,16808,Ludwig Dieter
+796499,1251069,Gwendoline
+14191,34847,Claire Brown
+515195,1016168,Ellie Appleton
+51828,1813,Emma Morley
+419680,23659,Brad
+419680,13240,Dusty
+419680,2461,Kurt
+419680,1817,Sara
+574060,17286,Scarlet
+574060,1620,Florence
+424139,8944,Laurie Strode
+76726,122889,Andrew Detmer
+76726,135651,Steve Montgomery
+116711,72466,Ronin (voice)
+116711,71070,Mary Katherine (M.K.) (voice)
+116711,27319,Mandrake (voice)
+116711,27972,Nod (voice)
+116711,86626,Mub (voice)
+107985,10882,Sam Chamberlain
+437342,4391,Father Harris
+77931,2039,Victor Doyle
+414419,139,The Bride / Beatrix Kiddo (Black Mamba) / Mommy
+414419,140,O-Ren Ishii (Cottonmouth)
+9339,19292,Michael Newman
+9339,3967,Donna Newman
+763285,131,Danny Sharp
+763285,1222992,Cam Thompson
+309809,53714,The Mother (voice)
+309809,17051,The Fox (voice)
+949423,1137824,Pearl
+499701,1428070,Dora
+499701,239574,Alejandro Gutierrez
+499701,454,Cole - Dora's Father
+44113,380,Jack
+44113,819,Stone
+44113,63,Lucetta
+381289,928906,Elizabeth - Ethan's Mom
+313297,6885,Monkey / Mother (voice)
+8204,1281,Jared Grace / Simon Grace
+8204,1733,Mulgarath
+39486,2882,Penny Chenery
+39486,6949,Lucien Laurin
+109451,1772,Sam Sparks (voice)
+109451,62861,Brent McHale (voice)
+189,56731,Nancy
+189,62,Hartigan
+189,16851,Dwight
+189,24045,Johnny
+189,10912,Ava
+328387,34847,Vee Delmonico
+328387,54697,Ian
+391713,1190668,Kyle Sheible
+12201,2461,Craven
+616820,8944,Laurie
+446354,5064,Kay Graham
+446354,31,Ben Bradlee
+446354,59410,Ben Bagdikian
+9408,10959,Cody Maverick (voice)
+9408,11664,Lani Aliikai (voice)
+39053,21007,Cyrus Fawcett
+39053,3141,Molly Fawcett
+468224,3292,J.R.R. Tolkien
+267935,55936,Fleshlumpeater
+76493,2282,Tamir
+76493,1772,Zoey
+76493,81840,Maroush
+27582,976,Arthur Bishop
+27582,3417,Dean Sanderson
+1136867,118545,Lucy
+1136867,16828,John
+1136867,1253360,Harry
+1136867,164094,Violet
+1082195,3292,Robert Jay Mathews
+1082195,59017,Joanne Carney
+400928,16828,Frank Adler
+400928,1172108,Mary Adler
+10074,62861,Rod Kimble
+10074,62863,Kevin Powell
+10074,52848,Denise
+339988,10990,Mae Holland
+339988,31,Eamon Bailey
+503919,11288,Thomas Howard
+503919,5293,Thomas Wake
+267860,17276,Mike Banning
+267860,192,Alan Trumbull
+1100099,37625,Tobias Durand
+1100099,1373737,Almut Brühl
+3489,1158,Dr. Jack Gramm
+3489,22290,Lauren Douglas
+3489,15851,Shelly Barnes
+592831,1251069,Julia Cicero
+592831,119592,Wow Platinum
+592831,10959,Clodio Pulcher
+232672,19292,Jim
+232672,69597,Lauren
+539681,18918,Krypto the Superdog / Anubis / Black Adam (voice)
+539681,55638,Ace the Bat-Hound (voice)
+539681,17697,Clark Kent / Superman (voice)
+539681,6384,Bruce Wayne / Batman (voice)
+256961,32895,Paul Blart
+256961,2203,Vincent Sofel
+256961,72968,Eduardo Furtillo
+302699,18918,Bob Stone
+302699,55638,Calvin Joyner
+302699,23532,Trevor
+103731,10297,Mud
+103731,368,Juniper
+19724,776,Evan Danielson
+259695,880,Joe Coughlin
+259695,18050,Loretta Figgis
+259695,2039,Thomas Coughlin
+259695,8691,Graciella Suarez
+399057,72466,Steven Murphy
+399057,2227,Anna Murphy
+34016,59860,Molly McCleish
+13811,2963,John Koestler
+13811,9827,Diana Wayland
+16871,15033,Clay Dalton
+52449,6941,Elizabeth Halsey
+381719,9827,Beatrix 'Bea' Potter / Jemima Puddle-Duck (voice)
+381719,93210,Thomas McGregor / Mr. Jeremy Fisher (voice)
+381719,234352,Flopsy Rabbit / Narrator (voice)
+26428,3293,Hypatia
+26428,25072,Orestes
+339967,1813,Gloria
+339967,1462,Garth
+1948,976,Chev
+412656,1136406,Todd Hewitt
+412656,1019,Mayor David Prentiss
+799583,73968,Gus March-Phillips
+799583,1222992,Marjorie Stewart
+799583,64295,Anders Lassen
+80274,130640,Petra Arkanian
+80274,3,Colonel Hyrum Graff
+80274,19492,Major Gwen Anderson
+80274,2282,Mazer Rackham
+117251,38673,Cale
+117251,134,President Sawyer
+117251,1579,Finnerty
+117251,125025,Emily
+4523,9273,Giselle
+4523,11006,Prince Edward
+4257,1772,Cindy Campbell
+4257,7633,President Baxter Harris
+100042,206,Lloyd Christmas
+37686,18050,Alice Dainard
+83666,62,Captain Sharp
+83666,819,Scout Master Ward
+74465,1892,Benjamin Mee
+74465,1245,Kelly Foster
+30618,3416,Alexandra
+30618,57755,The Bartender
+30618,2372,Nicola
+366668,1397778,Marla
+129670,6905,Woody Grant
+129670,59410,Ross Grant
+75638,2037,Tom Buckley
+75638,10205,Margaret Matheson
+75638,380,Simon Silver
+75638,550843,Sally Owen
+369885,287,Max Vatan
+2309,18269,Mo 'Silvertongue' Folchart
+2309,1333,Capricorn
+2309,388,Fenoglio
+668482,7056,Agatha Trunchbull
+668482,1115,Mr. Wormwood
+227700,1248,Sebastian
+227700,13363,Michelle Greene
+230179,2231,US President William Alan Moore
+354279,1136517,Half-Oracle (voice)
+354279,54645,Nemeny Neverwish (voice)
+458423,1016168,Young Donna Sheridan
+458423,71070,Sophie Sheridan
+458423,5064,Donna Sheridan-Carmichael
+458423,1271,Señor Fernando Cienfuegos
+458423,477,Rosie Mulligan
+371638,54697,Greg / 'Mark'
+371638,17051,Tommy / 'Johnny'
+371638,19274,Sandy
+109439,51329,Phil Wenneck
+109439,58225,Alan Garner
+109439,1230,Marshall
+556678,1397778,Emma Woodhouse
+556678,1371041,Frank Churchill
+556678,1137824,Harriet Smith
+68730,37625,Rodrigues
+68730,3896,Ferreira
+68730,8785,Father Valignano
+157845,11288,Rey
+157845,75711,Sgt. Rickofferson
+11802,62861,Ham III (voice)
+11802,9657,Titan (voice)
+301337,1892,Paul Safranek
+301337,27319,Dusan Mirkovic
+294963,6856,Sheriff Franklin Hunt
+294963,17178,Arthur O'Dwyer
+406563,2128,Specs
+604685,17276,Nicholas 'Big Nick' O'Brien
+59436,887,Gil
+59436,53714,Inez
+59436,3490,Salvador Dalí
+293863,3,William Jones
+293863,9560,Flemming
+516329,88124,Paul Meadows
+438650,3896,Nels Coxman
+438650,4784,Grace Coxman
+10184,15033,Alex
+10184,4491,Beth Murphy
+10184,880,Neil
+10184,6161,Janine Gunders
+10184,51329,Ben Gunders
+796185,10912,Milady
+796185,16269,Louis XIII
+453405,2888,Henry Brogen / Junior
+453405,17628,Danny Zakarweski
+453405,30082,Baron
+2359,17087,Self
+308504,192,Bartok
+613504,1753914,Tessa Young
+23398,15033,Alvin (voice)
+330483,109513,Monica
+330483,11824,Ryan McCarthy
+744275,1753914,Tessa Young
+60304,17604,Hansel
+60304,59620,Gretel
+60304,10696,Muriel
+2698,4495,Evan Baxter
+2698,192,God
+456740,35029,Hellboy / Anung Un Rama
+456740,63,"Vivienne Nimue, the Blood Queen"
+456740,6972,"Trevor ""Broom"" Bruttenholm"
+77950,10859,Turbo (voice)
+77950,454,Tito (voice)
+77950,2231,Whiplash (voice)
+77950,40481,Angelo (voice)
+353616,84223,Beca Mitchell
+353616,130640,Emily Junk
+353616,9281,Gail
+578701,11701,Hannah Faber
+578701,19498,Ethan Sawyer
+578701,3292,Patrick Blackwell
+578701,49735,Jack Blackwell
+578701,4177,Owen Casserly
+68737,1231,Mother Malkin
+68737,227454,Alice Deane
+68737,239019,"William ""Billy"" Bradley"
+630004,1281,Thom
+243688,6807,Eric Bowen
+243688,1043693,Griffin Bowen
+31299,11288,Salvador Dalí
+205584,17276,Set
+205584,78147,Hathor
+415842,527393,Mitch Rapp
+415842,2232,Stan Hurley
+415842,78110,Victor
+58595,37917,Snow White
+58595,74568,The Huntsman
+58595,6885,Queen Ravenna
+58595,237455,William
+58595,6972,Beith
+222935,4784,Frannie Lancaster
+222935,5293,Peter van Houten
+97370,1245,
+22947,1461,Ryan Bingham
+22947,21657,Alex Goran
+22947,84223,Natalie Keener
+22947,16431,Maynard Finch
+22947,23532,Craig Gregory
+98357,13240,Billy Taggart
+98357,934,Nicholas Hostetler
+98357,1922,Cathleen Hostetler
+98357,2954,Carl Fairbanks
+818397,3896,Alex Lewis
+818397,28782,Davana Sealman
+42194,10843,Steve Fox
+397243,1248,Tommy Tilden
+45772,5081,Juliet (voice)
+45772,3895,Lord Redbrick (voice)
+45772,477,Lady Montague (voice)
+631842,543530,Leonard
+631842,10989,Redmond
+1979,56731,Sue Richards / Invisible Woman
+1979,16828,Johnny Storm / Human Torch
+13257,879,Jasper Woodcock
+45269,1283,Queen Elizabeth
+51052,2440,Grandsanta (voice)
+51052,388,Santa (voice)
+43539,934,John Brennan
+43539,9281,Lara
+43539,150,Mouss
+43539,59315,Nicole
+455476,10696,Guraad
+376290,83002,Madeline Elizabeth Sloane
+376290,72873,Pat Connors
+366672,2231,Jimbo (voice)
+366672,17835,Ika Chu (voice)
+121856,16940,Alan Rikkin
+121856,2039,Joseph Lynch
+15092,976,Chev Chelios
+97630,83002,Maya
+97630,33192,Patrick - Squadron Team Leader
+7326,27578,Juno MacGuff
+7326,23532,Mark Loring
+7326,18999,Mac MacGuff
+361292,118545,Susie
+361292,1137824,Sara
+361292,56734,Patricia
+57201,85,Tonto
+57201,1283,Red Harrington
+376659,18973,Amy Mitchell
+376659,40462,Kiki
+116977,5958,Sunshine Goodness (voice)
+244506,37917,Amy Cole
+568620,1372369,Scarlett
+157353,85,Dr. Will Caster
+157353,2037,Agent Donald Buchanan
+157353,51072,Bree
+86467,11288,Georges Duroy
+86467,139,Madeleine Forestier
+86467,6886,Clotilde de Marelle
+820525,1753914,Tessa Young
+540901,16866,Ramona Vega
+540901,74688,Mercedes
+1137350,1121,Zsa-zsa Korda
+1137350,31,Leland
+1137350,17419,Reagan
+527641,1286328,Stella Grant
+426543,116,Sugar Plum Fairy
+426543,15735,Mother Ginger
+426543,192,Drosselmeyer
+13809,17276,One-Two
+13809,17605,Mumbles
+13809,2524,Handsome Bob
+32395,517,Allen Brewer
+32395,27428,Bennett Brewer
+13523,11006,Rex Lafferty
+13523,13922,Ezekiel
+521029,1172108,Judy Warren
+521029,21657,Lorraine Warren
+154400,2524,Bob
+154400,4691,Cousin Marv
+13836,18918,Jack Bruno
+13836,8785,Burke
+19959,62,Tom Greer
+19959,10882,Maggie Greer
+19959,113676,JJ the Blonde
+592695,1908347,Joy
+592695,1903886,Ava
+592695,125350,Ashley
+460885,2963,Red Miller
+632357,47296,Gerry Fenn
+632357,221944,Natalie Gates
+256924,1158,Danny Collins
+560016,76788,Kid
+193893,19961,Josie
+193893,19655,Mossi
+50348,10297,Mickey Haller
+50348,11864,Louis Roulet
+50348,3905,Frank Levin
+50348,3141,Maggie McPherson
+50348,6164,Ted Minton
+50348,5723,Val Valenzuela
+896536,5293,Maxim
+896536,1442069,Petro
+503736,543530,Scott Ward
+503736,989325,Kate Ward
+503736,16808,Ludwig Dieter
+11665,4495,Maxwell Smart
+11665,1813,Agent 99
+11665,18918,Agent 23
+738652,17276,Bob Viddick
+227973,1393177,Charlie Brown (voice)
+81005,3292,Jack
+81005,3061,Elmont
+81005,2283,Roderick
+81005,6972,King Brahmwell
+81005,2440,General Fallon
+458305,44735,Tom
+51540,23532,Nick Hendricks
+51540,95101,Dale Arbus
+51540,4491,Julia Harris
+51540,72466,Bobby Pellitt
+77016,131,Brian Taylor
+77016,454,Mike Zavala
+77016,84223,Janet Taylor
+77016,35029,Van Hauser
+72197,3136,Cutlass Liz (voice)
+13532,40462,Zoe
+1062807,221773,Yor Forger (voice)
+385103,13240,Blue Falcon (voice)
+385103,71070,Daphne Blake (voice)
+388,5292,Keith Frazier
+388,1038,Madeleine White
+388,5293,John Darius
+192141,887,Jack Dwyer
+192141,25703,Annie Dwyer
+192141,517,Hammond
+8321,72466,Ray
+8321,2039,Ken
+8321,5469,Harry
+13179,140,Silvermist (voice)
+429422,2524,Al Capone
+429422,1817,Mae Capone
+72331,17628,Mary Todd Lincoln
+440471,16483,Ray Breslin
+440471,543530,Trent DeRosa
+440471,109434,Shu Ren
+270487,16851,Eddie Mannix
+270487,1461,Baird Whitlock
+270487,5469,Laurence Laurentz
+270487,1245,DeeAnna Moran
+4538,887,Francis
+4538,3490,Peter
+4538,17881,Jack
+1164,287,Richard Jones
+1164,112,Susan Jones
+443791,37917,Norah Price
+817758,112,Lydia Tár
+49849,8784,Jake Lonergan
+49849,3,Woodrow Dolarhyde
+49849,59315,Ella Swenson
+49849,6807,Doc
+338952,998225,Queenie Goldstein
+338952,85,Grindelwald
+752564,16927,Jules Maigret
+13885,85,Sweeney Todd
+13885,1283,Mrs. Lovett
+13885,83356,Anthony
+480414,1817,Anna Tate-Garcia
+491283,1498158,Rosalyn Wilder
+522212,135651,Bryan Stevenson
+522212,134,Walter McMillian
+257445,70851,R.L. Stine
+257445,1121786,Hannah Fairchild
+586101,11661,Zu
+109091,955,Laura
+109091,6941,Malkina
+109091,287,Westray
+1452,7517,Lois Lane
+1452,11006,Richard White
+87818,6968,"Davis (segment ""The Catch"")"
+87818,204,"Beth (segment ""The Catch"")"
+644495,1158,Aldo Gucci
+644495,16940,Rodolfo Gucci
+16995,934,Cal McAffrey
+16995,880,Stephen Collins
+16995,53714,Della Frye
+16995,15735,Cameron Lynne
+16995,23532,Dominic Foy
+41402,56734,Abby
+8247,2231,Roland
+8247,2882,Mary Rice
+811941,89153,Singappa
+62214,11514,Mrs. Frankenstein / Weird Girl / Gym Teacher (voice)
+62214,1920,Elsa Van Helsing (voice)
+13197,11006,Tommy
+13197,1771,Joey
+13197,15555,Brandy
+1246,16483,Robert 'Rocky' Balboa
+758323,934,Father Gabriele Amorth
+60747,74568,Jed Eckert
+60747,27972,Robert Kitner
+62764,1204,Evil Queen
+447665,38559,Thomas Moore
+447665,15111,Master Durand
+9029,6941,Joy McNally
+9029,25703,Tipper
+404733,224513,Stephanie
+8456,55085,Baja Miller
+8456,55089,Max Cooperman
+4942,1461,Jimmy 'Dodge' Connelly
+4942,17697,Carter Rutherford
+72387,976,Luke Wright
+5174,18897,Yan Naing Lee
+5174,66,James Carter
+5174,2245,George
+5174,3556,Det. Revi
+4258,58691,Barbara
+130150,204,Adele
+130150,16851,Frank
+130150,2219,Adult Henry
+296099,74568,Stone Crandall
+296099,41087,Audrey Griswold
+9959,2231,Lorenzo Council
+9959,1231,Brenda Martin
+648579,2963,Nick Cage / Nicky
+648579,1253360,Javi Gutierrez
+498402,62531,Aline Dieu
+1991,6856,Stuntman Mike
+55846,976,Tom Brant
+55846,49735,Barry Weiss
+9543,131,Prince Dastan
+9543,59620,Tamina
+9543,2282,Nizam
+9543,658,Sheik Amar
+353575,57755,Lyndon B. Johnson
+353575,10431,Lady Bird Johnson
+64685,31,Thomas Schell
+64685,18277,Linda Schell
+64685,19492,Abby Black
+64685,1230,Stan the Doorman
+64685,2954,William Black
+87421,12835,Riddick
+87421,543530,Diaz
+4588,1337,Mr. Yee
+49517,64,George Smiley
+49517,2524,Ricki Tarr
+1094274,1274508,Eli
+1094274,29783,Fred Durst
+57165,65731,Perseus
+57165,3896,Zeus
+57165,5469,Hades
+57165,10882,Andromeda
+57165,2440,Hephaestus
+12405,76788,Older Jamal
+41283,18918,Driver
+41283,879,Cop
+314095,56365,Percival Fawcett
+314095,11288,Henry Costin
+314095,1136406,Jack Fawcett
+600354,4173,Anthony
+25704,2232,Walter Malby
+22824,63,Dr. Abigail 'Abbey' Tyler
+7980,13240,Jack Salmon
+7980,3293,Abigail Salmon
+7980,2283,George Harvey
+17431,6807,Sam Bell
+267999,1093080,Dániel
+862965,119592,Emily
+1023922,1137824,Maxine Minx
+1023922,11705,Detective Williams
+72570,53714,Paige Collins
+72570,38673,Leo Collins
+28355,6972,Detective Mike Barron
+28355,51329,Douglas J. Ames
+267193,52848,Jodie Figgis
+267193,955,Rhonda George
+1064486,235416,Grace (voice)
+940139,31,Richard
+940139,17521,Rose
+1086747,501,Mina / Lucy
+780609,1498158,Harper
+674324,72466,Pádraic Súilleabháin
+674324,2039,Colm Doherty
+549053,1223786,Kate  Andrich
+549053,1620,Santa
+549053,7056,Petra Andrich
+20766,6885,Mother
+1272149,388,Colin Jones
+14869,25002,Storm Shadow
+14869,24045,The Doctor / Rex
+10483,976,Jensen Ames
+10483,6972,Coach
+1992,16851,Dr. William Block
+310593,3895,Fred Ballinger
+310593,1037,Mick Boyle
+310593,3293,Lena Ballinger
+244534,84223,Jenny
+244534,4451,Kevin
+244534,139135,Carson
+244534,40863,Jeff
+395991,16851,Eric Marsh
+395991,6161,Amanda Marsh
+302401,24045,Edward Snowden
+218043,2963,Rayford Steele
+218043,62747,Buck Williams
+268920,368,Officer Rose 'Coop' Cooper
+268920,63522,Daniella Riva
+278924,976,Arthur Bishop
+278924,56731,Gina
+278924,2176,Max Adams
+278924,1620,Mei
+37430,117642,Conan
+37430,32747,Khalar Zym
+37430,2372,Corin
+439015,125025,Wren
+123103,16847,Gringo
+58224,206,Mr. Popper
+58224,9048,Nat Jones
+5915,20089,Carine McCandless / Additional Narration (voice)
+375262,54693,Abigail
+375262,3293,Lady Sarah
+375262,3292,Harley
+3432,1269,Earl Brooks
+3432,3416,Det. Tracy Atwood
+693827,1037,Meyer Lansky
+693827,65731,David Stone
+14299,3490,Leonard Chess
+14299,2954,Muddy Waters
+83542,31,Dr. Henry Goose / Hotel Manager / Isaac Sachs / Dermot Hoggins / Cavendish Look-a-Like Actor / Zachry
+83542,4587,Native Woman / Jocasta Ayrs / Luisa Rey / Indian Party Guest / Ovid / Meronym
+83542,388,Captain Molyneux / Vyvyan Ayrs / Timothy Cavendish / Korean Musician / Prescient 2
+340666,9273,Susan Morrow
+340666,131,Edward Sheffield / Tony Hastings
+340666,27428,Ray Marcus
+340666,52848,Laura Hastings
+241257,569,Bruce Kenner
+241257,10990,Angela Gray
+241257,11207,Professor Kenneth Raines
+218836,228,Blade Ranger (voice)
+86838,72466,Marty Faranan
+86838,6807,Billy Bickle
+86838,57755,Charlie Costello
+86838,18182,Angela
+86838,2887,Zachariah Rigby
+501907,31,Fred Rogers
+964980,1892,Sonny Vaccaro
+964980,880,Phil Knight
+964980,23532,Rob Strasser
+964980,19492,Deloris Jordan
+10189,19274,Dale Denton
+10189,17051,Saul Silver
+6145,4173,Theodore Crawford
+6145,30614,William Beachum
+6145,10882,Nikki Gardner
+447200,18918,Will Sawyer
+447200,9206,Sarah Sawyer
+38050,1892,David Norris
+38050,5081,Elise Sellas
+239563,1274508,Oliver Bronstein
+193610,6941,Carly Whitten
+193610,41087,Kate King
+249070,36669,Agent 47
+245916,17604,Gary Webb
+245916,17628,Anna Simons
+245916,1271,Norwin Meneses
+205775,74568,Owen Chase
+205775,2037,Matthew Joy
+205775,2039,Old Thomas Nickerson
+136797,17838,Finn
+9992,1281,Arthur Montgomery
+762430,3896,Matt Turner
+504172,190,Earl Stone
+504172,51329,Agent Colin Bates
+504172,454,Agent Treviño
+504172,1271,Latón
+3580,11701,Christine Collins
+3580,6949,Rev. Gustav Briegleb
+56288,56731,Marissa Wilson
+37958,73968,Theseus
+9955,23659,Chazz Michael Michaels
+5125,368,Isabella Fields El-Ibrahimi
+5125,131,Douglas Freeman
+5125,5064,Corrine Whitman
+55301,15033,Alvin (voice)
+26320,26510,Max Yasgur
+13967,3061,Norman Warne
+842675,78871,Liu Peiqiang
+842675,143358,Zhou Zhezhi
+419704,287,Roy McBride
+419704,2176,H. Clifford McBride
+47964,62,John McClane
+10200,6384,Klaatu
+10200,6161,Helen Benson
+10200,120724,Jacob Benson
+10200,65717,Michael Granier
+382597,37627,Eugène Froissard
+382597,2245,Viktor
+41733,3223,Peter Highman
+41733,58225,Ethan Tremblay
+41733,11705,Sarah Highman
+41733,134,Darryl
+2044,6384,Alex Wyler
+2044,18277,Kate Forster
+16996,29222,Mike O'Donnell
+16996,41087,Scarlett O'Donnell
+512895,62561,Lady (voice)
+512895,30082,Bull (voice)
+359790,4173,Lester
+454992,18973,Audrey
+206487,569,The Bartender
+206487,235416,The Unmarried Mother
+429197,3894,Dick Cheney
+429197,9273,Lynne Cheney
+429197,4495,Donald Rumsfeld
+429197,6807,George W. Bush
+201088,74568,Nicholas Hathaway
+201088,19492,Carol Barrett
+188222,16666,Eric Murphy
+50839,16940,John Tuld
+809787,28782,Bianca
+643215,19866,Astérix
+643215,54291,Obélix
+376660,130640,Nadine Franklin
+376660,57755,Mr. Bruner
+376660,1286328,Krista
+283566,77933,Ritsuko Akagi (voice)
+26389,8891,Charlie Wax
+308639,37153,Nakia
+20943,17276,Mike Chadway
+20943,74409,Colin Anderson
+11253,2372,Hellboy
+11253,52139,Johann Krauss (voice)
+11253,10843,Prince Nuada
+137094,116,Cathy Muller
+137094,1269,William Harper
+137094,11181,Viktor Cherevin
+1140535,140,Rebekah
+10661,19292,Zohan Dvir
+10661,1241,Fatoush 'The Phantom' Hakbarah
+10661,60949,Salim Yousfobdal
+839369,524,Elizabeth
+839369,1231,Gracie
+41515,1772,Rachel
+501979,6384,Ted
+501979,1372369,Thea
+127517,23532,Rich Boyd
+112205,380,Fred Blake / Giovanni Manzoni
+112205,2176,FBI Agent Robert Stansfield
+296098,31,James B. Donovan
+773,4495,Frank Ginsberg
+335360,5081,Tempest Shadow / Fizzlepop Berrytwist (voice)
+80271,3416,Anne Williams
+826510,11664,Terry
+826510,55936,Gary
+149870,77921,Jiro Horikoshi (voice)
+425001,380,Ed
+425001,139,Sally
+3021,2231,Gerald Olin
+8848,976,Terry Leather
+58151,72466,Jerry Dandrige
+49018,17178,Josh Lambert
+49018,9827,Renai Lambert
+49018,2128,Specs
+399170,38673,Jimmy Logan
+399170,8784,Joe Bang
+399170,3897,Bobbie Jo Chapman
+602269,5292,Joe 'Deke' Deacon
+602269,17838,Jim Baxter
+460668,1812,Avery LeClair
+523607,51329,Leonard Bernstein
+523607,66743,David Oppenheim
+13223,190,Walt Kowalski
+16866,18918,Capt. Charles 'Chuck' Baker (voice)
+16866,10860,Neera (voice)
+16866,15033,Lem / Rover (voice)
+16866,64,General Grawl (voice)
+2395,16927,Obélix
+2395,24891,Astérix
+370567,85,Sherlock Gnomes (voice)
+370567,5081,Juliet (voice)
+370567,39189,Paris (voice)
+16558,1204,Claire Stenwick
+16558,17867,Jeff Bauer
+64328,9273,Mary
+23202,1248,Mr. Kreeg
+23202,19152,Steven
+744276,1753914,Tessa Young
+10201,206,Carl Allen
+10201,11664,Renee Allison
+10201,51329,Peter
+57212,11207,Lyons
+57212,91606,Capt. James Nicholls
+8065,7517,Jill Taylor
+19585,6807,Darwin the Guinea Pig (voice)
+19585,15277,Hurley the Guinea Pig (voice)
+19585,955,Juarez the Guinea Pig (voice)
+19585,2963,Speckles the Mole (voice)
+10358,19274,Zack
+10358,9281,Miri
+72784,1372,Vincent Stevens
+72784,11006,Chris Vanowen
+38167,1204,Elizabeth 'Liz' Gilbert
+38167,17051,David
+38167,19492,Delia Shiraz
+24420,53714,Clare Abshire
+11321,2888,Ben
+11321,57755,Ezra Turner
+535292,18999,Captain Matt McKenna
+41216,15735,Nyra (voice)
+2268,2227,Marisa Coulter
+2268,8784,Lord Asriel
+2268,1281,Pantalaimon (voice)
+2268,1327,Iorek Byrnison (voice)
+10139,2228,Harvey Milk
+10139,16851,Dan White
+10139,17051,Scott Smith
+23023,18918,Derek Thompson / Tooth Fairy
+23023,39189,Tracy
+23023,52139,Ziggy
+186,192,The Boss
+186,2282,The Rabbi
+186,140,Lindsey
+186,62,Mr. Goodkat
+186,2283,Det. Brikowski
+60308,287,Billy Beane
+60308,21007,Peter Brand
+60308,73457,Scott Hatteberg
+77174,84223,Courtney Babcock (voice)
+77174,41087,Sandra Babcock (voice)
+597208,51329,Stanton Carlisle
+597208,112,Dr. Lilith Ritter
+597208,5293,Clem Hoatley
+8055,5469,Michael Berg
+8055,204,Hanna Schmitz
+401469,19492,Veronica Rawlings
+401469,72466,Jack Mulligan
+16577,1281,Astro / Toby (voice)
+16577,40462,Cora (voice)
+16577,26510,Orrin (voice)
+16577,2440,Dr. Elefun / Robotsky (voice)
+4512,287,Jesse James
+4512,6807,Charley Ford
+4512,17604,Wood Hite
+316154,117642,Miami Man
+316154,6384,The Dream
+316154,1771,The Screamer
+316154,206,The Hermit
+13827,10297,Steve Addington
+13827,57755,Jack
+2253,500,Claus Schenk Graf von Stauffenberg
+2253,11181,Henning von Tresckow
+2253,2440,Friedrich Olbricht
+616747,887,Father Kent
+210860,85,Charlie Mortdecai
+210860,12052,Johanna Mortdecai
+210860,3061,Inspector Alistair Martland
+525661,6885,Megyn Kelly
+525661,234352,Kayla Pospisil
+525661,2227,Gretchen Carlson
+49524,10859,Nick Walker
+49524,4724,Bobby Hayes
+64686,6384,Kai
+258480,112,Carol Aird
+17379,16927,Chef Didier
+9828,532,Bound Man
+527776,78040,John Harrison
+303903,149894,Citron (voice)
+8271,10959,Kale Brecht
+625568,934,Man (Tom Cooper)
+245168,1283,Edith Ellyn
+245168,2039,Arthur Steed
+245168,5064,Emmeline Pankhurst
+533444,1497557,Alexis
+266856,11207,Dennis Sciama
+204922,2227,Christine
+522931,10859,Michael Bryce
+522931,2231,Darius Kincaid
+522931,3136,Sonia Kincaid
+522931,3131,Aristotle Papdopolous
+522931,192,Senior
+38317,32895,Griffin Keyes
+38317,105648,Dave
+819876,121529,Caprice
+819876,37917,Timlin
+819876,1285153,Cope
+819876,20173,Wippet
+12890,27578,Vanessa Wetherhold
+294272,1372,Gavin
+294272,4135,Mr. Meacham
+333348,3092,Charlotte Cooper
+333348,1230,Sam Cooper
+333348,71070,Ruby
+38753,19537,Lily
+119283,976,Parker
+119283,16866,Leslie Rodgers
+391629,1338512,Ranveer Pratap Singh
+590223,527393,Joel Dawson
+287424,1100,Wade Vogel
+274854,12835,Kaulder
+274854,109,Dolan 37th
+274854,3895,Dolan 36th
+40805,19274,Britt Reid / Green Hornet
+40805,6941,Lenore Case
+40805,27319,Chudnofsky
+406761,1038,Jean Thomas / Nurse
+4964,19274,Ben Stone
+4964,22226,Pete
+4964,41087,Debbie
+374461,776,Henry Church
+602223,6164,Dylan Tucker
+297222,52763,PK
+50321,13922,Milo (performance capture)
+35552,54291,Inspecteur Caponi
+10947,29222,Troy Bolton
+52451,33235,D’Artagnan
+52451,63,Milady de Winter
+52451,15576,Athos
+823625,3896,Travis Block
+38745,70851,Lemuel Gulliver
+38745,5081,Princess Mary
+872906,35742,Vikram Rathore / Azad
+872906,53975,Aishwarya Rathore
+2207,62,Jack Mosley
+306819,227454,Gerda
+12133,23659,Brennan Huff
+830784,224197,Alistair Grumps
+7985,6886,Penelope Wilhern
+7985,11514,Jessica Wilhern
+7985,22970,Lemon
+7985,368,Annie
+451915,4495,David Sheff
+451915,1190668,Nic Sheff
+85350,569,Dad
+136400,5292,Robert 'Bobby' Trench
+136400,13240,Michael 'Stig' Stigman
+136400,11006,Quince
+13387,976,Frank Martin
+360814,52763,Mahavir Singh Phogat
+614479,9827,Renai Lambert
+614479,17178,Josh Lambert
+417644,454,Frank 'Ponch' Poncherello
+417644,51298,Jon Baker
+536869,17605,Macavity
+62838,380,Stan Harris
+62838,29222,Paul
+316023,29222,Dave Stangle
+316023,84223,Alice
+316023,119592,Tatiana
+629176,16483,Joe Smith
+792293,19274,Gabe Plotkin
+15255,64856,George Chambers
+15255,78110,Yuri Boyka
+407448,93491,Philip Krauss
+49520,23532,Dave Lockwood
+49520,10859,Mitch Planko
+49520,41087,Jamie Lockwood
+49520,59315,Sabrina McArdle
+972533,57755,Duncan Allcock
+972533,1489211,David Yuasa
+1013850,44735,David Kaplan
+1013850,939337,James
+437557,41087,Lisa Decker
+437557,56446,Mitchell
+424781,62561,Detroit
+345920,2888,Howard Inlet
+345920,819,Whit Yardsham
+345920,204,Claire Wilson
+345920,454,Simon Scott
+345920,15735,Brigitte
+180863,3061,Renton
+923667,62410,Mr. Big
+261392,44735,Mike Howell
+261392,37917,Phoebe Larson
+261392,27740,Laugher
+261392,5723,Rose
+195589,19274,Mac Radner
+195589,29222,Teddy Sanders
+195589,9827,Kelly Radner
+195589,54697,Pete Regazolli
+1120911,527393,Dan Aykroyd
+428045,1110519,Chen Lan
+428045,18897,Master
+428045,1100,James Hook
+334521,2037,Chris
+9513,33259,Liz
+146216,62,Frank Moses
+146216,6949,Marvin Boggs
+146216,4173,Bailey
+146216,15735,Victoria
+400157,18973,Greta (voice)
+86829,25072,Llewyn Davis
+49017,4391,Master Vampire
+13510,17521,Jenny
+13510,85065,Brett
+777245,1498158,Mariche
+44115,17051,Aron Ralston
+44115,51072,Kristi Moore
+47327,2963,Milton
+47327,55085,Piper
+455980,65717,Bob Callahan
+455980,17604,Jerry Pierce
+610253,8944,Laurie Strode
+328425,33192,Gordo Mosley
+328425,23532,Simon Callem
+20856,86654,Jake Pearson
+33974,1812,Ellen Vidales
+33974,17867,Bob Sanders
+5176,934,Ben Wade
+5176,3894,Dan Evans
+2486,16940,Brom
+2486,6949,King Galbatorix
+4944,1461,Harry Pfarrer
+4944,287,Chad Feldheimer
+4944,6949,Osborne Cox
+9986,501,Fern Arable
+9986,1204,Charlotte the Spider (voice)
+1381,6968,Tomás / Tom Creo / Tommy
+1381,3293,Isabel / Izzi Creo
+1381,9560,Dr. Lillian Guzetti
+25195,9273,Anna Brady
+25195,1247,Declan
+1020006,2034418,Elvis
+27022,2963,Balthazar Blake
+27022,658,Maxim Horvath
+457136,234352,Queen Elizabeth I
+457136,97576,Bess of Hardwick
+236751,17521,Sonja Burpo
+26390,1205,Off. Eddie Dugan
+26390,569,Det. Sal Procida
+26390,7132,Bobby 'Carlo' Powers
+254904,517,Peter H. Devereaux
+254904,18182,Alice Fournier
+1029955,54693,Rita / Liz / Emily
+1029955,88124,Robert / Daniel / Andrew
+1029955,5293,Raymond / George / Omi
+1029955,1392137,Vivian / Martha / Ruth / Rebecca
+253412,16851,Beck Weathers
+253412,131,Scott Fischer
+253412,116,Jan Arnold
+253412,65731,Guy Cotter
+38321,1372,Black Hat
+34813,47296,Clay
+34813,8691,Aisha
+34813,16828,Jensen
+34813,17605,Roque
+33909,10959,Jacob Moore
+33909,16851,Bretton James
+65057,1461,Matt King
+38087,119592,Kelly Peters
+75174,3896,John Ottway
+45317,13240,Micky Ward
+45317,3894,Dicky Eklund
+45317,9273,Charlene Fleming
+23629,70456,Babydoll
+23629,20089,Rocket
+9906,1204,Hova (voice)
+9906,5064,Queen (voice)
+9906,2963,Zoc (voice)
+72710,9824,The Seeker / Lacey
+522016,83002,Mason 'Mace' Brown
+522016,1267329,Khadijah Adiyeme
+522016,955,Graciela Rivera
+522016,9824,Marie Schmidt
+522016,64439,Lin Mi Sheng
+8461,55493,Peter
+65759,109,Mumble (voice)
+65759,2157,Ramon / Lovelace (voice)
+14306,887,John Grogan
+14306,4491,Jennifer Grogan
+167073,93210,Jim Farrell
+167073,388,Father Flood
+167073,477,Madge Kehoe
+13680,18918,Joe Kingman
+850165,29222,Kevin Von Erich
+850165,1716493,David Von Erich
+87093,9273,Margaret Keane
+87093,27319,Walter Keane
+87093,78080,Dee-Ann
+87093,17881,Ruben
+36419,6886,Anna Taylor
+36419,3896,Eliot Deacon
+36419,15033,Paul
+259694,118545,Alice Kepley
+259694,41087,Meg
+64807,380,Billy 'The Kid' McDonnen
+64807,16483,Henry 'Razor' Sharp
+64807,19498,B.J. Rose
+64807,55638,"Dante Slate, Jr."
+203834,235416,Jessie
+203834,4451,Preston
+400710,27578,Courtney
+400710,19961,Marlo
+35056,4495,Phil Foster
+35056,13240,Holbrooke
+9655,38673,Duke
+252838,55638,Jimmy Callahan / Bic
+252838,53862,Gretchen Palmer
+1620,18082,Agent 47
+1620,18182,Nika Boronina
+13455,16828,Nick Gant
+13455,501,Cassie Holmes
+13688,57607,Ti Chow
+668640,3131,Félix Rivero
+668640,955,Lola Cuevas
+458576,63,Artemis
+458576,57207,The Hunter
+458576,2372,Admiral
+421658,543530,Michael Knox
+421658,517,Dimitri
+402897,36669,Vasily Stalin
+1491,819,Eisenheim
+1491,10860,Sophie
+1491,27428,Young Eisenheim
+26388,10859,Paul Conroy
+353070,192,Willie Davis
+353070,3895,Joe Harding
+262551,1186076,Franck
+262551,1186075,Sam
+516632,164094,Nora Quail
+192102,1269,Agent Ethan Renner
+192102,55085,Agent Vivi Delay
+192102,130640,Zooey Renner
+192102,935,Christine Renner
+94348,80602,Dr. Alex Cross
+335777,1428070,Heather (voice)
+548473,2963,Nathan Gardner
+313922,1371041,Tiger
+133805,56734,Carrie White
+133805,1231,Margaret White
+254473,8167,Damien Collier
+254473,150,Tremaine
+38357,53714,Becky Fuller
+38357,3,Mike Pomeroy
+38357,3092,Colleen Peck
+38357,17178,Adam Bennett
+10431,1336,Rogue
+10431,976,Special Agent Jack Crawford
+341012,62861,Conner Friel
+341012,62863,Owen Bouchard
+341012,62854,Lawrence Dunn
+50647,4491,Linda
+50647,22226,George
+429200,11288,Connie Nikas
+429200,227564,Nick Nikas
+429200,10431,Corey Ellman
+10053,9048,Ben Johnson
+63493,56365,Gavin Nichols
+63493,17178,Joe Harris
+264999,38673,Mike Lane
+264999,66743,Ken
+375290,35070,Ranjit Katyal
+44943,454,Joe Rincon
+458253,6968,Sir Lionel Frost (voice)
+458253,8691,Adelina Fortnight (voice)
+458253,58225,Mr. Susan Link (voice)
+458253,18082,Willard Stenk (voice)
+458253,7056,Dora the Yeti Elder (voice)
+76285,33235,Percy Jackson
+76285,109513,Annabeth Chase
+80035,7399,Evan
+80035,21007,Franklin
+3093,4430,Catherine Tramell
+3093,11207,Roy Washburn
+16564,83356,Jack
+109431,23532,Sandy Patterson
+109431,15277,Harold Cornish
+109431,589162,Marisol
+14125,25837,Jennifer Tree
+46705,30614,Dean
+46705,1812,Cindy
+368940,16808,Robinson Crusoe (voice)
+224141,84223,Cinderella
+224141,5064,Witch
+224141,5081,Baker's Wife
+224141,85,Big Bad Wolf
+91586,17178,Josh Lambert
+91586,9827,Renai Lambert
+637693,1428070,Lucky Prescott (voice)
+637693,1231,Aunt Cora (voice)
+637693,1172108,Abigail Stone (voice)
+637693,27740,Hendricks (voice)
+637693,131,Jim Prescott (voice)
+523172,7056,Katherine Newbury
+365942,64,Nathaniel Shepherd
+39013,72129,Ree Dolly
+31011,98,Adult Elise
+31011,9824,Adult Anna
+1012201,149894,Kenma Kozume (voice)
+823482,2963,Paul Matthews
+325348,562730,Akan
+10024,6941,Sara Fitzgerald
+102632,35070,Shiva / Vikram Singh Rathore
+266647,6968,Blackbeard
+266647,81840,"Sam ""Smee"" Smiegel"
+1266,6384,Detective Tom Ludlow
+1266,16828,Detective Paul Diskant
+948549,37917,Lou
+948549,228,Lou Sr.
+948549,54697,JJ
+948549,20089,Beth
+1738,2963,Cris Johnson / Frank Cadillac
+1738,1231,Callie Ferris
+1738,10860,Liz Cooper
+521777,1782117,Hannah
+23172,18897,Bob Ho
+122081,17051,Alien
+22843,77933,Ritsuko Akagi (voice)
+8645,13240,Elliot Moore
+8645,11664,Alma Moore
+8645,5723,Julian
+10529,2372,Gunnar
+435615,10431,Girder
+371608,1700685,Luke
+799155,89153,Vadraj Kumar Subramaniam
+503,6164,Dylan Johns
+503,6856,Robert Ramsey
+303991,131,Davis Mitchell
+994143,3607164,Entity (voice) (uncredited)
+798286,73421,Beau Wassermann
+798286,5699,Mona Wassermann
+136418,976,Joey
+136418,30082,Mr Choy
+52520,3967,Selene
+52520,587020,David
+52520,4391,Thomas
+744594,45400,Babette Gladney
+9353,70851,Nacho
+290825,1459885,Colleen Collette
+136835,17605,Colin Evans
+10030,56731,Cam Wexler
+1887,205,Marie Antoinette
+1887,17881,Louis XVI
+1887,18514,Comtesse du Barry
+2976,8891,Edna Turnblad
+2976,11006,Corny Collins
+11260,776,Dave / Captain
+11260,9281,Gina Morrison
+11260,55638,No. 17
+96724,116,Anna Karenina
+96724,27428,Vronsky
+96724,15576,Oblonsky
+15373,22226,Danny Donahue
+15373,9281,Beth
+22164,64856,Isaiah Bone
+68179,18269,Scorch Supernova (voice)
+68179,56731,Lena (voice)
+68179,18324,Hawk (voice)
+68179,17835,Mr Bing (voice)
+660000,143593,Nathan d'Anastazio
+28211,71070,Chloe Sweeney
+28211,1231,Catherine Stewart
+28211,3896,David Stewart
+28211,19961,Anna
+1013601,380,Vito Genovese / Frank Costello
+22215,36669,Chéri
+1268,10730,Mr. Bean
+1268,5293,Carson Clay
+10196,76788,Prince Zuko
+412988,9281,Jenny
+580175,1019,Martin
+333669,17605,Sean Briar
+333669,17521,Karen Dacre
+956842,1245,Kelly Jones
+956842,38673,Cole Davis
+956842,57755,Moe Berkus
+956842,161932,Lance Vespertine
+82654,3292,R
+82654,6949,Colonel Grigio
+82654,54697,Perry Kelvin
+83899,40863,Drake Davison
+413362,5292,Roman J. Israel
+413362,72466,George Pierce
+396461,37625,Sam
+634528,3896,Jim
+634528,26723,Sarah
+290751,2227,Claire
+290751,1204,Jess
+290751,658,Martin Morales
+239571,11705,Amanda Collier
+239571,11006,Dawson Cole
+505262,992869,Ochako Uraraka (voice)
+399366,1397778,Allie
+399366,1448222,Billy Marrowbone
+399366,1137824,Jane Marrowbone
+228970,368,Cheryl Strayed
+228970,4784,Bobbi Grey
+365620,955,Laura Ferrari
+365620,85065,Peter Collins
+321258,62220,Greta Evans
+418078,33192,Paul
+19899,23532,Jason
+19899,15277,Joey
+319888,6968,Bronson Peary
+245703,1274508,Alton Meyer
+245703,33192,Lucas
+245703,205,Sarah Tomlin
+7508,52763,Ram Shankar Nikumbh
+581387,25002,Lee Jun-pyeong
+82,72466,Det. James 'Sonny' Crockett
+82,134,Det. Ricardo 'Rico' Tubbs
+82,8785,FBI Agent John Fujima
+527729,47826,Le centurion Oursenplus / Huiledolix / Blodimérix (voice)
+18533,2524,Michael Peterson / Charles Bronson
+23169,11288,Tyler Hawkins
+23169,517,Charles Hawkins
+296524,13240,Mike Williams
+296524,6856,Jimmy Harrell
+296524,6949,Donald Vidrine
+296524,527393,Caleb Holloway
+296524,11661,Felicia Williams
+37056,71070,Sophie
+37056,119172,Isabella
+220289,71551,Lee
+39691,11006,Diggs (voice)
+39691,1733,Butch (voice)
+9988,52049,Barry / Blind Sikh
+10202,19292,Skeeter Bronson
+10202,14405,Wendy
+799379,1252017,Lee Da-yeon
+134374,13240,Daniel Lugo
+134374,18918,Paul Doyle
+134374,228,Ed DuBois
+497828,1716493,Carl
+497828,57755,The Captain
+37710,85,Frank Tupelo
+37710,11701,Elise Clifton-Ward
+170522,47826,Le centurion Oursenplus (voice)
+63492,1772,Ally Darling
+63492,16828,Colin Shea
+9053,56824,Tina Armstrong
+426563,23659,Sherlock Holmes
+649609,3292,Renfield
+649609,2963,Dracula
+243684,19292,Don Truby
+243684,7056,Narrator (voice)
+416477,18686,Beth Gardner
+806,11207,Keith Jennings
+10362,73421,Leonard Kraditor
+10362,12052,Michelle Rausch
+58244,205,Eden Moore
+62215,205,Justine
+62215,1640,Jack
+321697,204,Joanna Hoffman
+321697,19274,Steve Wozniak
+321697,72873,Andy Hertzfeld
+68722,73421,Freddie Quell
+68722,9273,Peggy Dodd
+68722,17838,Clark
+68722,4784,Helen Sullivan
+68722,88124,Val Dodd
+59965,658,Frank Burton
+59965,10205,Dr. Geraldine 'Geri' Bennett
+197796,121529,Belle
+15137,77933,Ritsuko Akagi (voice)
+15137,81244,Kaworu Nagisa (voice)
+15137,77934,Gendo Ikari (voice)
+959604,4275,Le père de Jackie
+555974,3897,Liza
+97367,30614,Luke Glanton
+97367,51329,Avery Cross
+97367,9827,Jennifer Cross
+97367,122889,Jason Kancam
+3594,206,Walter Sparrow / Fingerling
+3594,33235,Robin Sparrow
+16523,4691,Carol (voice)
+16523,11514,Judith (voice)
+589761,562730,Alexey
+394117,5293,Bobby
+446791,1812,Gail Harris
+446791,13240,Fletcher Chase
+292011,65717,Tom Shaw
+292011,6807,Watson Bryant
+292011,59315,Kathy Scruggs
+82682,16851,John O'Mara
+82682,30614,Sgt. Jerry Wooters
+82682,2228,Mickey Cohen
+82682,1733,Bill Parker
+82682,54693,Grace Faraday
+238215,19292,Max Simkin
+238215,4483,Abraham Simkin
+12162,17604,Staff Sergeant William James
+377264,51072,Lee Weathers
+377264,1397778,Morgan
+377264,1620,Dr. Lui Cheng
+106747,2461,Voz
+106747,55085,Miss San Antonio
+106747,63522,Desdemona
+482373,32747,The Blind Man
+6589,22970,Dr. Simon Barsinister
+6589,9657,Cad
+341006,3417,Barry Norris
+341006,1371297,Leandra Flores
+11671,955,Consuela Castillo
+11671,2282,David Kepesh
+774531,1115,Bill Burgess
+977294,134,The Bokushi
+977294,380,Emmanuel Ashburn
+977294,5723,Luke
+556984,24045,Richard Schultz
+927107,19961,Kate
+927107,1462,O'Malley
+59961,5292,Tobin Frost
+59961,10859,Matt Weston
+59961,21657,Catherine Linklater
+59961,2039,David Barlow
+5123,1281,August Rush
+5123,2157,"Maxwell ""Wizard"" Wallace"
+82650,18324,Frank Heffley
+179826,5293,Wyatt Porter
+716612,37917,Diana
+912908,23659,Reggie (voice)
+912908,134,Bug (voice)
+912908,52848,Maggie (voice)
+912908,224197,Willy
+975511,5469,Odysseus (Ulisse)
+270774,18897,Bennie Chan
+270774,64439,Samatha Bai
+50456,112,Marissa
+42188,116,Ruth C.
+42188,37625,Tommy D.
+42188,989325,Young Ruth
+74643,1230,Al Zimmer
+799876,527393,Richie Boyle
+12437,2440,Viktor
+253331,1269,Elliot Anderson
+449563,77234,Isabella
+1730,4784,Nikki Grace / Susan Blue
+1730,16940,Kingsley Stewart
+76649,239019,Milo
+76649,70456,Cassia
+4141,28782,Donna Quintano
+396806,71070,The Girl
+9035,51797,Bill Pardy
+9035,9281,Starla Grant
+399173,10205,Dr. Rachel Kay
+9920,63,Violet Song Jat Shariff
+209262,29222,Jim Carrico
+209262,879,Forrest Sorrels
+301365,18050,Jesse
+301365,20089,Ruby
+449562,1813,Josephine Chesterfield
+9762,38673,Tyler Gage
+7459,6886,Trixie
+7459,1230,Pops Racer
+13161,60949,Big Stan
+13971,34847,Poppy Moore
+152532,10297,Ron Woodroof
+152532,18324,Tucker
+11322,85,John Dillinger
+11322,3894,Melvin Purvis
+463257,10959,Tyler
+463257,118545,Eleanor
+463257,6905,Carl
+98567,18897,Jackie / Asian Hawk
+98567,1110519,Coco
+9796,59315,Bea
+800939,1204,Georgia Cotton
+800939,1461,David Cotton
+338947,1972166,Riley McKendry
+554241,56446,Jake “Soup” Carson
+554241,5723,Rodrigo
+377985,35742,Gaurav Chandna / Aryan Khanna
+486131,2231,John Shaft
+10781,66743,Eric
+78381,18050,V.
+78381,6905,Sheriff Bobby LaGrange
+18405,3417,John Collingwood
+77930,38673,Mike Lane
+77930,10297,Dallas
+397415,2963,Det. John Dromoor
+4517,112,"Elizabeth I, Queen of England"
+227719,57191,Quinn Goldberg
+387592,91606,Lord Nooth (voice)
+387592,1181313,Goona (voice)
+14560,32895,Paul Blart
+11918,7633,Uncle Albert Adams
+11918,55638,Trey
+20533,16851,Jonah Hex
+20533,6949,Turnbull
+20533,19537,Leila
+11439,3061,The Ghost
+11439,517,Adam Lang
+384680,3894,Captain Joseph J. Blocker
+384680,10882,Rosalee Quaid
+384680,88124,Lieutenant Rudy Kidder
+393345,7906,Tiffany Valentine
+552178,103,Robert Bilott
+552178,1813,Sarah Bilott
+770906,237045,"Devaratha ""Deva"" Raisaar"
+882059,137905,Boy
+882059,224197,Gideon Van Der Koy
+843843,54291,Ben
+41210,4491,Kassie Larson
+41210,23532,Wally Mars
+41210,17178,Roland
+4771,11705,Angie Gennaro
+4771,192,Jack Doyle
+4771,228,Sgt. Det. Remy Bressant
+12620,1772,Shelley
+12620,54693,Natalie
+20048,52848,Rebecca Bloomwood
+20048,78080,Suze
+20048,1230,Graham Bloomwood
+932086,1269,Hayes Ellison
+932086,65731,Trent Gephart
+932086,20089,'Ellen' Harvey
+425505,37153,Milly
+425505,17051,Taylor Balik
+376865,11288,Monte
+376865,1137824,Boyse
+136795,18277,Sarah Ashburn
+136795,4688,Jason Mullins
+18501,17276,Kable
+18501,33235,Simon
+228066,10980,Igor
+228066,4391,Frankenstein
+11699,2963,Terence McDonagh
+329833,7399,Derek Zoolander
+329833,887,Hansel
+329833,23659,Jacobim Mugatu
+329833,955,Valentina Valencia
+440161,73421,Charlie Sisters
+440161,131,John Morris
+290595,74568,The Huntsman
+290595,6885,Queen Ravenna
+290595,5081,Freya
+290595,83002,Sara
+290595,237455,William
+454293,55638,Teddy
+445651,1716493,Liam Stewart
+329440,58502,Sara / Jess Price
+12568,1247,Charles Ryder
+12568,7056,Lady Marchmain
+616651,1892,Bill Baker
+193612,237455,Brian McNeil
+280092,2128,Specs
+440472,55638,Dell Scott
+440472,17419,Phillip Lacasse
+440472,2227,Yvonne Pendleton
+440472,229932,Maggie
+81481,150903,Kang In-ho
+317557,1267329,Nakku Harriet
+14139,118303,El Joven
+766475,6807,Inspector Stoppard
+766475,3490,Leo Köpernick
+766475,1716493,Richard Attenborough
+429471,1230,William Mulligan
+429471,21657,Jane Doe
+4413,1038,Erica Bain
+89492,22226,Pete
+89492,41087,Debbie
+89492,19537,Desi
+256040,237045,"Mahendra ""Sivudu"" Bhubali / Amarendra Bhubali"
+256040,85721,Avanthika
+1059128,8784,William Lee
+1059128,17881,Joe Guidry
+300681,6384,William Foster
+300681,59860,Mona Foster
+676710,1223786,Malicia (voice)
+676710,11207,Boss Man / Rat King (voice)
+676710,59620,Peaches (voice)
+535581,572541,Bobby Wiggins
+535581,2887,Hermit Bob
+347031,10980,Manny
+347031,17628,Sarah
+9036,8167,Jerry Shepard
+13291,2203,Max Archer
+23082,17835,Mark Bellison
+23082,21007,Frank Fawcett
+49021,976,Danny Bryce
+49021,380,Hunter
+49021,63312,Anne
+69668,8784,Will Atenton
+69668,3293,Libby Atenton
+227306,85065,Louis Zamperini
+227306,93210,Russel Allen 'Phil' Phillips
+1729,18897,Old Hop / Lu Yan
+1729,1336,The Silent Monk / The Monkey King
+398173,139,Lady 1
+95610,388,Dad
+95610,7056,Dr Rawlings
+335778,12763,Clavius
+308187,16808,Clemens
+324542,134,Vincent Downs
+324542,11705,Jennifer Bryant
+324542,35029,Doug Dennison
+727340,73249,Park Pyong-ho
+727340,2791233,Cho Yoo-jung
+9767,4491,Brooke Meyers
+9767,23532,Riggleman
+1273,16828,Casey Jones (voice)
+241239,25072,Abel Morales
+241239,83002,Anna Morales
+14435,49624,Tom Hanniger
+77951,1372,Uncle Zack
+77951,15033,Patchi (voice)
+77951,5723,Alex (voice)
+869626,1540069,Dean
+302156,10859,Bill Pope
+302156,1269,Jerico Stewart
+302156,64,Quaker Wells
+302156,2176,Dr. Franks
+302156,90633,Jill Pope
+302156,59860,Marta Lynch
+301351,29222,Cole
+18487,5292,Walter Garber
+18487,8891,Ryder
+18487,1241,Lt. Camonetti
+18487,40481,Phil Ramos
+18487,4691,Mayor
+356305,17419,Ned Fleming
+356305,17051,Laird Mayhew
+12184,524,Anne Boleyn
+12184,1245,Mary Boleyn
+556694,17605,The Djinn
+369192,54693,Billie Jean King
+369192,4495,Bobby Riggs
+531876,572541,Specialist Ty Michael Carter
+333352,15735,Colonel Katherine Powell
+42684,22821,Oliver
+17609,5293,He
+616584,2364949,Cry Baby
+152584,121529,Emma
+22972,1892,Roy Miller
+22972,2039,Martin Brown
+22907,8167,John Rahway
+22907,17605,Gordon Jennings
+257091,23659,James King
+257091,55638,Darnell Lewis
+7350,514,Edward Periman Cole
+7350,192,Carter Chambers
+624484,1118107,Federico Pavone
+65086,10980,Arthur Kipps
+65086,8785,Mr. Daily
+75629,81244,Kaworu Nagisa (voice)
+39451,380,Jack Byrnes
+39451,7399,Greg Focker
+39451,887,Kevin Rawley
+39451,4483,Bernie Focker
+77953,23659,Cam Brady
+77953,58225,Marty Huggins
+444539,2440,Mr. Brundish
+35436,14606,Sidney Thomas
+77866,13240,Chris Farraday
+77866,3967,Kate Farraday
+77866,1771,Tim Briggs
+77866,572541,Andy
+59962,368,Lauren
+59962,2524,Tuck
+59962,1844,Heinrich
+7516,10859,Richard Messner
+7516,1271,Stanley Locke
+514439,6164,Brian Smith
+72431,17419,Colonel William Mortamus
+23047,2963,Behman
+23047,2372,Felson
+23047,1115,Hagamar
+96936,10990,Nicki
+96936,41087,Laurie
+80585,500,Stacee Jaxx
+8836,12214,Dana Scully
+57157,6885,Mavis Gary
+57157,17178,Buddy Slade
+315664,5064,Florence Foster Jenkins
+315664,933238,Kathleen Weatherley
+55341,41229,Gaylen Brandon
+14256,11664,Reese Holden
+14256,23659,Corbit
+14256,228,Don Holden
+7978,1121,Lawrence Talbot
+7978,4173,Sir John Talbot
+7978,5081,Gwen Conliffe
+8277,26510,Noah Levenstein
+227783,18269,Grayson (voice)
+227783,3896,Raccoon (voice)
+227783,32747,King (voice)
+453755,1019,H. Overgård
+1317088,550843,Mia
+1317088,227454,Virginia
+626735,38673,Jackson Briggs
+12819,15033,Humphrey (voice)
+22897,5064,Jane Adler
+22897,17697,Harley
+1079485,1482026,Christopher Robin
+12572,524,Rifka
+12572,51329,Gus
+12572,569,Writer
+12572,10959,Jacob
+12572,1271,Garry
+845111,10912,Milady
+2284,4483,Mr. Edward Magorium
+2284,524,Molly Mahoney
+2284,23532,Henry Weston
+38408,6164,Sam
+157354,135651,Oscar Grant
+157354,62747,Officer Ingram
+539892,6905,Mr. Snowcone
+4148,6193,Frank Wheeler
+4148,204,April Wheeler
+4148,35029,Shep Campbell
+597890,1459885,Sela
+597890,72466,Richard
+7347,52583,Capitão Nascimento
+830788,1251069,Evie Alexander
+830788,28848,Mr. Fields
+974036,64295,Ed Schmitt
+26505,1281,Arthur Montgomery
+303858,1461,Lee Gates
+303858,1204,Patty Fenn
+303858,85065,Kyle Budwell
+27579,1461,Jack / Edward
+957304,1392137,Jamie
+792614,6949,Andrew Blake
+205022,35742,Rahul Mithaiwala
+205022,53975,Meenamma Lochini Azhagusundaram
+431530,18973,Amy Mitchell
+431530,40462,Kiki
+48988,887,Rick Mills
+522924,1269,Enzo (voice)
+522924,71070,"Avery ""Eve"" Swift"
+44865,1337,Ip Man
+60307,18324,Frank Heffley
+277834,18918,Maui (voice)
+277834,55936,Tamatoa (voice)
+280996,1327,Sherlock Holmes
+157851,1231,Havana Segrand
+157851,11288,Jerome Fontana
+283235,37625,Dennis Nash
+283235,4784,Lynn Nash
+155084,4451,Elliot Brindle
+155084,2372,Det. Chilcoat
+14405,69597,Chloe (voice)
+14405,15555,Rachel Ashe Lynn
+14405,1271,Delgado (voice)
+2310,11701,Grendel's Mother
+2310,4173,Hrothgar
+2310,6949,Unferth
+2310,2039,Wiglaf
+12113,6193,Roger Ferris
+12113,934,Ed Hoffman
+12113,229932,Aisha
+12113,25072,Bassam
+13389,380,Turk
+13389,1158,Rooster
+13389,5723,Det. Simon Perez
+13944,1813,Claire Summers
+13944,17178,Eric
+554230,1498158,Young Leda Caruso
+554230,118545,Nina
+554230,228,Lyle
+9788,15033,Bartleby Gaines
+9788,21007,Sherman Schrader
+109410,3,Branch Rickey
+10521,11661,Liv
+10521,1813,Emma
+10521,73457,Fletcher
+405775,27428,Isaac
+405775,56446,Matthews
+222936,51329,Brian Gilcrest
+222936,54693,Captain Allison Ng
+222936,53714,Tracy Woodside
+222936,17697,"John ""Woody"" Woodside"
+301875,3292,Silas
+301875,37917,Nia
+1226406,690,Marvin Gable
+3563,19292,Charles 'Chuck' Levine
+3563,32895,Lawrence 'Larry' Valentine
+3563,10860,Alex McDonough
+119892,1341,Sun Wukong / Monkey King
+466081,10882,Wilcox
+466081,224513,Sofia
+427900,368,Alice Kinney
+427900,25703,Zoey Bell
+169881,2282,Ibn Sina (Avicenna)
+169881,1640,Barber
+4566,1461,Michael Clayton
+532710,29222,Andy McGee
+150117,9827,Nat
+150117,1772,Chloe
+150117,39189,Danny
+970347,1251069,Zee
+970347,65731,Finn
+16538,22226,Peter Klaven
+16538,62861,Robbie Klaven
+16538,18999,Oswald Klaven
+27573,4491,Nicole Hurley
+27573,17276,Milo Boyd
+27573,60074,Sid
+429300,237455,Richard Sharp
+667216,1137824,Gabi Bauer
+667216,72327,Alban Bauer
+72207,5081,Violet Barnes
+72207,73457,Alex Eilhauer
+975773,1498158,Rose Gooding
+445629,1373737,Saraya 'Paige' Knight
+445629,17286,Julia 'Sweet Saraya' Knight
+445629,18918,Dwayne 'The Rock' Johnson
+393457,5292,Troy Maxson
+393457,19492,Rose Maxson
+518068,73249,King Yeomra
+395458,1892,Gardner Lodge
+395458,1231,Margaret Lodge / Rose
+395458,25072,Bud Cooper
+9975,23659,Ted (Man with the Yellow Hat) (voice)
+9975,69597,Maggie (voice)
+9975,26510,Clovis (voice)
+751237,1121786,River
+228194,15735,Madam Mallory
+430231,583479,Aaron Smith
+430231,1074560,Justin Smith
+1088514,1231,Ingrid
+1088514,1241,Damian
+99770,16927,Obélix
+99770,62531,Miss Macintosh
+653851,83271,Thomas J. Hudner Jr.
+15670,80602,Madea / Joe / Brian
+15670,63522,T.T.
+972230,3092,Grace
+972230,1205,Howard
+972230,34847,Michelle
+972230,3905,Sam
+934456,115440,Penny Jo Poplin
+934456,42376,Ghost Eye
+14564,7132,Galen Burke
+351044,4495,Mark Hogancamp
+351044,41087,Nicol
+351044,9824,Deja Thoris
+109443,23659,Ron Burgundy
+109443,4495,Brick Tamland
+109443,22226,Brian Fantana
+109443,19152,Freddie Shapp
+434555,34408,Lisa Roberts
+82700,120724,Kitai Raige
+82700,2888,Cypher Raige
+82700,37153,Senshi Raige
+350312,237045,Amarendra Bhubali / Mahendra Bhubali 'Shivudu'
+523366,25663,Firedrake (voice)
+523366,1281,Ben (voice)
+834,3967,Selene
+834,2440,Viktor
+339259,10882,Lina von Osten
+339259,85065,Jan Kubiš
+339259,1115,Heinrich Himmler
+438674,2461,Brett Ridgeman
+438674,64856,'Biscuit'
+947891,119592,Older Elliott
+15159,1271,Vicenzo
+15159,658,Pepperidge
+59108,7399,Josh Kovacs
+59108,776,Slide
+29150,4688,Philadelphia Phil
+72213,78040,Adam Mitchell
+354859,25072,Mikael Boghosian
+354859,3894,Chris Myers
+249164,56734,Mia Hall
+188207,78110,King Amphitryon
+26022,35742,Rizwan Khan
+26022,55061,Mandira Rathod Khan
+29427,18082,David
+18276,33235,Roy Eberhardt
+18276,1462,Curly
+8054,1810,Tony
+8054,37625,Anton
+8054,2887,Devil
+999243,1442069,Chris
+999243,2682376,Bobby
+487297,83860,Will
+347375,13240,James Silva
+347375,62220,Alice Kerr
+347375,6949,Bishop
+58431,1016168,Elizabeth Bennet
+397567,73249,King Yeomra
+103332,3131,Mort
+45657,55085,Kristen
+292431,14597,Noé - Art Gallery Owner
+326,2231,Neville Flynn
+6973,2176,Hank Deerfield
+6973,6885,Detective Emily Sanders
+6973,17051,Sergeant Carnelli
+758336,77234,Mira Ray
+435800,1574909,White Bone Spirit
+1262,23659,Harold Crick
+1262,1579,Ana Pascal
+1262,4483,Professor Jules Hilbert
+1262,7056,Karen Eiffel
+6575,1524,L'Chaim
+542224,1481238,Gretel
+9708,2963,Edward Malus
+9708,9560,Sister Summersisle
+9708,22290,Sister Honey
+6537,19907,Laura
+411728,2461,James Murray
+411728,2228,Dr. William Chester Minor
+411728,58502,Eliza Merrett
+295884,99388,Christian
+245842,517,King Louis XIV
+245842,64439,Mermaid
+42297,40462,Nikki
+42297,2283,Sean
+12573,72873,Larry Gopnik
+250538,368,Carrie Davis
+146198,204,Irina Vlaslov
+146198,57755,Sergeant Detective Jeffrey Allen
+9726,934,Max Skinner
+1165,15735,The Queen
+390051,1100,Roman Melnyk
+9381,12835,Toorop
+9381,1620,Sister Rebeka
+9381,16927,Gorsky
+284293,1231,Alice Howland
+284293,7517,Anna Howland-Jones
+152603,91606,Adam
+152603,2954,Dr. Watson
+314405,3136,Queen of Longtrellis
+218778,4495,Ben Cooper
+998846,85065,Blake
+227156,5064,Chief Elder
+227156,3897,Mother
+227156,1121786,Fiona
+274479,72129,Joy
+274479,380,Rudy
+274479,51329,Neil Walker
+801688,237045,Bhairava
+801688,53975,"SUM-80 ""Sumathi"""
+724665,65717,Irwin 'Fletch' Fletcher
+6023,17276,Gerry
+6023,47296,William
+398181,73421,Joe
+503616,16866,Maya
+177494,40462,Veronica Mars
+10185,51329,Leon Kaufman
+145135,18999,Edwin Pollard
+14359,5064,Sister Aloysius Beauvier
+14359,9273,Sister James
+14359,19492,Mrs. Miller
+484468,2406,Alfost
+134411,18918,John Matthews
+284536,13240,Jim Bennett
+284536,1230,Frank
+263341,1341,Silent Wolf
+263341,1620,Yu Shu Lien
+23830,116,Joanna Reed
+23830,65731,Michael Reed
+23830,19866,Alex Mann
+23830,2171,Truman
+7183,4587,Rowena Price
+7183,62,Harrison Hill
+7183,1771,Miles Haley
+34769,57755,Arthur Poppington / Defendor
+34769,47640,Roger Fairbanks
+248574,130640,Megan Walsh
+248574,1001657,Heather
+248574,56731,Victoria Knox
+248574,2231,Hardman
+248574,1098962,Liz Larson
+38778,22226,Tim Conrad
+38778,4495,Barry
+38778,55936,Kieran Vollard
+38778,58225,Therman
+618588,13240,Michael
+618588,1489211,Leo
+618588,928906,Helen
+618588,1251069,Olivia
+3683,11864,John 'Doc' Bradley
+276905,60949,Norm (voice)
+276905,2440,Socrates (voice)
+295693,2219,Narrator / Older Tim Templeton (voice)
+37821,15112,Mr. Kornfeldt
+37821,11514,Mrs. Kornfeldt
+37821,26723,Vivian
+7461,10205,Rex Brooks
+4858,2227,Carol Bennell
+4858,8784,Ben Driscoll
+4858,2954,Dr. Stephen Galeano
+4643,1269,Ben Randall
+295964,51329,Adam Jones
+336000,57755,Rex Walls
+336000,235416,Lori Walls
+77948,73968,Will Shaw
+77948,62,Martin
+77948,10205,Jean Carrack
+36865,144655,Kyon (voice)
+1109255,64,John Cheever
+1109255,119172,Greta Cool
+340022,33192,Richard Rusk
+340022,6885,Elaine Markinson
+340022,71070,Sunny
+113947,9994,Cheryl
+113947,3905,Father Brendan
+13022,65731,Neil
+158011,4587,Jordan Turner
+42949,1281,Arthur Montgomery
+489931,55089,Warren Lipka
+102362,72466,Victor
+145220,17835,Dominic Badguy
+266294,5723,Dave
+449985,57207,Payu
+449985,78110,Collins
+449985,64856,Devereaux
+331313,65717,Tim Jones
+331313,52848,Karen Gaffney
+331313,58225,Jeff Gaffney
+331313,90633,Natalie Jones
+48034,54291,Eric
+13856,4688,Les Franken
+82525,27428,Ben
+82525,8891,Dennis
+82525,3136,Elena
+82525,1121,Lado
+62837,192,Dr. McCarthy
+532408,164094,Rita Billings
+325133,19274,Mac Radner
+325133,29222,Teddy Sanders
+325133,9827,Kelly Radner
+325133,56734,Shelby
+325133,54697,Pete
+75900,1812,Marilyn Monroe
+75900,11181,Sir Laurence Olivier
+1440,204,Sarah Pierce
+1440,17178,Brad Adamson
+1440,6161,Kathy Adamson
+681887,62,James Ford
+76489,63522,Lydia
+531499,10959,Creeper
+531499,177231,Favi
+1239655,22226,Austin Carmichael
+1239655,51072,Tami Waterman
+239678,23532,Judd Altman
+239678,9827,Penny Moore
+200505,1269,Sonny Weaver Jr.
+9030,56731,Sydney Wells
+9030,56734,Alicia Millstone
+1202479,6949,Alfred Moretti
+23706,51329,Steve
+23706,18277,Mary Horowitz
+11887,29222,Troy Bolton
+365222,1341,Ip Man
+1280672,74688,Dreux
+9676,1245,Kay Lake
+271969,192,Sheik Ilderim
+32823,21007,Aaron Green
+32823,9827,Jackie Q
+555285,53714,Barbara Simon
+555285,227564,Herbert Simon
+441384,10297,Moondog
+441384,19767,Lingerie
+441384,52848,Minnie
+441384,29222,Flicker
+460555,1816461,Gu Shun
+914206,121529,Gabrielle
+321741,2888,Dr. Bennet Omalu
+12163,3141,Cassidy
+9766,18918,Sean Porter
+1056360,2954,Thelonious 'Monk' Ellison
+664341,1813,Rebecca
+664341,164094,Mrs. Polk
+493551,25072,Peter Malkin
+493551,2282,Adolf Eichmann
+13001,2222,Maj. Gen. Henry Landry
+388399,13240,Sgt. Tommy Saunders
+388399,1230,Commisioner Ed Davis
+388399,18999,Sgt. Jeffrey Pugliese
+388399,4724,Richard DesLauriers
+388399,11705,Carol Saunders
+40807,24045,Adam Lerner
+40807,19274,Kyle Hirons
+40807,84223,Katherine McKay
+809140,13240,Father Stuart 'Stu' Long
+809140,2461,Bill Long
+27569,18269,John Crowley
+27569,3,Dr. Robert Stonehill
+432301,51072,Mary Jo Kopechne
+432301,6905,Joseph Kennedy
+438808,10297,Richard Wershe Sr.
+438808,10431,Alex Snyder
+765897,1028899,Teresa LeRette
+4960,1812,Claire Keen
+766798,955,Janis
+266396,2228,Jim Terrier
+266396,17605,Barnes
+246741,55936,Vladislav
+246741,55934,Viago
+35169,18269,Dan Sanders
+50022,52049,Arcot 'Thorny' Ramathorn
+376866,524,Jackie Kennedy
+376866,45400,Nancy Tuckerman
+22954,192,Nelson Mandela
+22954,1892,Francois Pienaar
+1026436,974169,Cairo Sweet
+164457,3894,Russell Baze
+164457,8691,Lena Taylor
+164457,57755,Harlan DeGroat
+164457,5293,John Petty
+8967,287,Mr. O'Brien
+8967,83002,Mrs. O'Brien
+8967,2228,Jack
+4349,134,Ronald Fleury
+4349,23532,Adam Leavitt
+323675,55638,Ben Barber
+241251,16866,Claire Peterson
+301355,658,Preston
+298382,204,"Myrtle ""Tilly"" Dunnage"
+976576,939337,Kei
+976576,83356,Sir John
+353069,4491,Sandy
+353069,1204,Miranda Collins
+353069,11661,Jesse
+109421,1922,Dr. Victoria Siebert
+109421,38673,Martin Taylor
+328111,55638,Snowball (voice)
+217993,11705,Diana Prince / Wonder Woman (voice)
+217993,1328,Shazam (voice)
+906221,38673,Mike Lane
+906221,3136,Maxandra Mendoza
+501841,135651,Charles King
+203739,562730,Dimitri Belikov
+203739,18182,Headmistress Kirova
+381890,1574909,Mermaid Shan
+381890,26760,Uncle Rich
+383785,18897,Dr. Jack Chan
+9038,7399,Eddie Cantrow
+9038,11705,Miranda
+9870,40462,Sarah Marshall
+9870,18973,Rachel Jansen
+9870,21007,Matthew Van Der Wyk
+87499,27578,Izzy
+87499,83860,Thumbs
+64639,11006,David Sumner
+64639,7517,Amy Sumner
+6877,10297,Tripp
+6877,11664,Kit
+6877,51329,Demo
+44603,1892,George Lonegan
+152760,1461,Lt. Frank Stokes
+152760,1892,Lt. James Granger
+152760,1230,Sgt. Walter Garfield
+152760,112,Claire Simone
+198277,103,Dan Mulligan
+198277,116,Gretta James
+198277,130640,Violet Mulligan
+14047,5292,Melvin B. Tolson
+14047,77277,Henry Lowe
+14047,59017,Samantha Booke
+59861,31,Larry Crowne
+59861,1204,Mercedes Tainot
+59861,17419,Dean Tainot
+168530,55638,Ben Barber
+168530,5723,Santiago
+399796,1782117,Maddie Miles
+513691,78110,French
+513691,54649,Sue
+129139,119592,Brandy Klark
+71688,5064,Margaret Thatcher
+71688,388,Denis Thatcher
+70695,63,Sue-Ann
+70695,3905,Ray
+17335,17605,Derek Charles
+17335,17303,Lisa Sheridan
+285783,24045,Philippe Petit
+285783,2282,Papa Rudy
+9963,18277,Linda Hanson
+284276,4491,Claire Bennett
+284276,84223,Nina Collins
+284276,65731,Roy Collins
+34803,2632,Aaron
+34803,8691,Elaine
+34803,11006,Oscar
+22971,71070,Savannah Lynn Curtis
+22971,38673,John Tyree
+345914,23659,Scott Johansen/The Butcher
+339397,44735,Bobby Dorfman
+339397,37917,Vonnie Sybil
+339397,4495,Phil Stern
+340674,206,Tadek Pietrzak
+392982,11661,Eleanor Strubing
+663870,1019,Markus
+551271,3895,Lord Boreš
+551271,1844,Rožmberk
+354861,887,Kyle Reynolds
+354861,18999,Ronald Hunt
+32740,78749,Krishna Mehra / Krrish / Rohit Mehra
+32740,77234,Priya
+26171,380,Frank Goode
+26171,69597,Rosie
+26171,3967,Amy
+26171,6807,Robert
+583406,206919,Fred Hampton
+583406,88124,Roy Mitchell
+172391,3896,Phango (voice)
+449924,1341,Ip Man
+449924,78110,Barton Geddes
+1029235,1372369,Azrael
+4723,18918,Boxer Santaros / Jericho Cane
+44945,19492,Gail Friedman
+646683,934,Anthony Miller
+646683,65731,Joe
+24418,27972,Steve
+24418,3136,Madame Truska
+340945,2963,Captain McVay
+27586,37917,Joan Jett
+27586,501,Cherie Currie
+316152,10297,Newton Knight
+1247,1892,Edward Bell Wilson
+1247,11701,Margaret Ann Russell
+1247,380,Bill Sullivan
+1247,4517,Joseph Palmi
+579583,3141,Margie Carlin
+480001,44735,Casey
+5038,1245,Cristina
+5038,955,María Elena
+199373,2963,Jack Halcombe
+88794,6193,John Edgar Hoover
+88794,6164,Charles Lindbergh
+12289,1337,Zhou Yu
+8676,10297,Ben 'Finn' Finnegan
+8676,11661,Tess Finnegan
+384682,23532,Josh Parker
+384682,4491,Carol Vanstone
+112336,4173,Alfred Hitchcock
+112336,15735,Alma Reville
+112336,1245,Janet Leigh
+112336,72873,Lew Wasserman
+242090,45407,Ethan
+210479,2524,Ivan Locke
+210479,1136406,Eddie (voice)
+1251,72202,Lieutenant Ito
+282984,73421,Abe
+282984,54693,Jill
+68812,1920,Deborah Kuklinski
+68812,16828,Robert Pronge
+68812,14409,Josh Rosenthal
+68812,17051,Marty Freeman
+458737,569,Pastor Ernst Toller
+458737,71070,Mary Mensana
+335788,18999,Levin
+309886,2461,John Link
+309886,3905,Kirby Curtis
+392572,35070,Rustom Pavri
+245698,2219,Bobby Fischer
+245698,72873,Paul Marshall
+38319,17051,Fabious
+38319,524,Isabel
+38319,11664,Belladonna
+14098,10696,Marnie Watson
+513045,543530,Vic Manning
+97614,59315,Liza
+97614,56365,Jay
+97614,51072,Hanna
+273895,1771,Lee White
+844417,3896,Philip Marlowe
+844417,9824,Clare Cavendish
+370755,229932,Laura
+14756,1341,Yip Man
+2728,18999,Candidate Welles
+10199,4483,Roscuro (voice)
+10199,10990,Princess Pea (voice)
+10199,10205,The Narrator (voice)
+339103,8891,John Gotti
+26963,2039,Abbot Cellach (voice)
+44639,1892,Narrator
+318781,10990,Lena
+55787,11288,Jacob Jankowski
+55787,368,Marlena Rosenbluth
+55787,27319,August Rosenbluth
+293768,4587,Karla Dyson
+6615,30614,Lars Lindstrom
+3509,6384,Bob Arctor
+3509,3223,James Barris
+3509,57755,Ernie Luckman
+3509,1920,Donna Hawthorne
+38356,10959,Sam Witwicky
+38356,1241,Simmons
+13825,8167,Ben Garvey
+13825,15555,Lisa Garvey
+13825,1817,Julie Ingram
+86597,10860,Julia Denning
+416144,76788,Arjun
+72358,776,Jack McCall
+87492,4495,John du Pont
+87492,38673,Mark Schultz
+87492,103,David Schultz
+10316,30614,Stephen Meyers
+10316,1461,Mike Morris
+10316,3141,Ida Horowicz
+300168,18897,Huo Han
+300168,3490,Tiberius
+594718,80999,Colonel Semiradov
+814889,4587,Momma
+15213,3026,Screwie (voice)
+15213,3905,Lefty Maginnis (voice)
+15213,9208,Mr. Robinson (voice)
+144336,1100,"John ""Breacher"" Wharton"
+144336,65731,"James ""Monster"" Murray"
+23514,85,Paul Kemp
+23514,55085,Chenault
+23514,1771,Moberg
+8090,2882,Agent Jennifer Marsh
+271674,1812,Lucille Angellier
+399019,72466,Corporal McBurney
+399019,2227,Miss Martha
+399019,205,Edwina
+399019,18050,Alicia
+49494,38673,Marcus Aquila
+1016084,1144092,Doug Fregin
+338964,879,Willie Soke
+506072,1253360,Ezra
+506072,45405,Damon
+12797,17835,Dr. Bertram Pincus
+958006,139,Patrice
+958006,2231,Gordon
+958006,1903874,Grace
+86825,2227,Evelyn 'Evie' Stoker
+86825,1247,Charlie Stoker
+80389,2461,Driver
+15189,34847,Andi
+1523,12214,Sarah Merrit
+383809,1295604,Self
+151368,109,Nick Chambers
+151368,74251,Jill Goddard
+18162,23659,Dr. Rick Marshall
+18162,62863,Chaka
+16353,57207,Tien
+153158,84714,Armando / Eusebio / Lechuga / Clark (voice)
+345922,95101,Andy Campbell
+100241,63312,Terra
+100241,2440,Naberius
+445954,3131,Frank Valera
+445954,1372,Strode
+37950,29222,Charlie St. Cloud
+37950,326,Louise St. Cloud
+38358,572541,Caleb Sweetzer
+220882,55085,Nicola Six
+220882,587020,Guy Clinch
+220882,879,Samson Young
+220882,85,Chick Purchase
+615904,16866,Kat Valdez
+615904,887,Charlie Gilbert
+9682,40462,Mattie
+9682,19211,Dexter
+290512,17605,Dr. Ben Bass
+290512,204,Alex Martin
+290512,2222,Walter
+10067,3223,Dr. Kozak
+37034,1620,Dr. Yu
+38363,2228,Joseph Wilson
+296360,3967,Lady Susan Vernon
+102207,4275,Dan Geraldo
+13813,8784,Tuvia Bielski
+83686,51329,Rory Jansen
+83686,8691,Dora Jansen
+83686,16940,The Old Man
+83686,59315,Danielle
+83686,18999,Mr. Jansen
+264656,2176,George Briggs
+264656,1462,The Freighter
+43959,9994,Cheri Hamilton
+511322,15735,Betty McLeish
+511322,1327,Roy Courtnay
+567604,10859,Wade Wilson / Deadpool / Juggernaut (voice)
+567604,16851,Cable
+567604,54882,Vanessa
+122857,15111,Luc Deveraux
+122857,78110,John
+122857,16644,Andrew Scott
+72113,1038,Penelope Longstreet
+72113,204,Nancy Cowan
+72113,27319,Alan Cowan
+12177,56731,Jane Bullard
+37495,81840,Faisal
+11199,8891,Woody Stevens
+11199,3905,Dudley Frank
+98548,9281,Frankie Davis
+98548,59315,Hannah
+98548,45407,Ted
+64720,83002,Samantha LaForche
+67660,55638,Cedric Ward
+10748,66441,Annabelle Fritton
+10748,59620,Kelly Jones
+10748,17286,Miss Dickinson
+46528,7517,Lynne
+68817,1533,Vi Moore
+13185,76242,Sam
+13185,3292,Blake
+73567,10297,Killer Joe Cooper
+581032,31,Captain Jefferson Kyle Kidd
+581032,1175743,Almay
+231576,5367,Aidan Bloom
+231576,11661,Sarah Bloom
+231576,125025,Grace Bloom
+397422,1245,Jess
+397422,37153,Blair
+242310,2963,Paul Maguire
+208134,5953,Gloria
+457335,10980,Miles
+457335,1372369,Nix
+629017,1972974,Zoe Hull
+7972,569,Hank Hanson
+7972,3141,Gina Hanson
+67913,2039,Sergeant Gerry Boyle
+266285,1019,Jon Jensen
+266285,10912,Madelaine
+266285,47296,Henry Delarue
+2447,25072,Joseph
+2447,8785,Herod
+49009,228,Mr. Smith
+49009,72466,Valka
+1259,112,Sheba Hart
+1259,2440,Richard Hart
+97430,150,Blacksmith
+97430,934,Jack Knife
+97430,543530,Brass Body
+97430,140,Madame Blossom
+124459,4495,Burt Wonderstone
+124459,59315,Jane
+124459,206,Steve Gray
+124459,4691,Doug Munny
+46261,3897,Kim
+41505,1231,Cara Harding
+140823,7056,P.L. Travers
+140823,31,Walt Disney
+140823,72466,Travers Robert Goff
+140823,17881,Richard Sherman
+87496,4135,Jim Grant
+87496,10959,Ben Shepard
+87496,1733,Donal Fitzgerald
+87496,2039,Henry Osborne
+472451,2227,Nancy Eamons
+472451,934,Marshall Eamons
+472451,33192,Victor Sykes
+472451,1642789,Chloe
+5820,326,Sarah Ballentine
+785663,1462,Henry
+446696,25072,Will Dempsey
+446696,59315,Abby Dempsey
+446696,3131,Vincent Saccione
+446696,2231,Self
+1858,10959,Sam Witwicky
+1858,19537,Mikaela Banes
+76494,16866,Holly
+76494,84223,Rosie Brennan
+76494,6941,Jules Baxter
+76494,9281,Wendy Cooper
+429189,204,Ginny
+243940,45407,Frank Walton
+243940,59315,Zoe McConnell
+243940,55089,Clay
+15616,56457,Private Vicky Castillo
+65650,454,Jimmy
+626872,25002,Park Jae-hyuk
+590995,11705,Helen
+256917,934,Joshua Connor
+256917,18182,Ayshe
+187596,9281,Meghan
+187596,11006,Gordon
+1989,3293,Sue Lynne
+1989,524,Leslie
+82505,72129,Elissa Cassidy
+9966,37917,Jess
+2001,73421,Bobby Green
+2001,13240,Joseph Grusinsky
+16614,44735,James Brennan
+16614,37917,Em Lewin
+16614,10859,Mike Connell
+152737,5064,Violet Weston
+152737,1204,Barbara Weston
+152737,3061,Bill Fordham
+13788,64,Rabbi Joseph Sendak
+13788,17605,Arthur Wyndham
+71864,33192,Jim Green
+71864,1121786,Joni Jerome
+536743,206919,Slim
+182560,6885,Libby Day
+182560,3292,Lyle Wirth
+182560,56734,Young Diondra Wertzner
+87826,32895,Scott Voss
+87826,3136,Bella Flores
+70074,16483,James Bonomo
+70074,164945,Lisa Bonomo
+70074,117642,Keegan
+440597,125025,Clare Shannon
+109491,16940,Macon Ravenwood
+109491,19492,Amma Treadeau
+64689,287,Jackie Cogan
+64689,4691,Mickey
+284564,41229,Venus Virgo
+523781,27740,Paul
+523781,1271,Father Patrick
+48171,4173,Father Lucas Trevant
+48171,8785,Father Xavier
+77883,47296,Clyde Brenek
+864692,35742,Pathaan
+864692,53975,Rubina Mohsin
+8373,10959,Sam Witwicky
+8373,19537,Mikaela Banes
+550231,3897,Miranda Wells
+550231,6164,Bray Johnson
+84329,11006,Hunter
+3902,3894,Jack / Pastor John
+3902,112,Jude
+3902,1205,Billy
+3902,1810,Robbie
+10118,5958,Tanzie Marchetta
+121824,1158,"Valentine ""Val"""
+157834,27319,Qohen Leth
+157834,11207,Joby
+157834,1892,Management
+11835,4724,Nick Hume
+11835,1230,Bones Darley
+294016,17419,Dalton Trumbo
+294016,18050,Niki Trumbo
+294016,1230,Frank King
+346808,18182,Alexis Farraday
+346808,192,Senator
+11652,13240,Vince Papale
+11652,9281,Janet Cantrell
+74534,2440,Douglas Ainslie
+74534,76788,Sonny Kapoor
+380124,80602,"Mabel ""Madea"" Simmons / Uncle Joe Simmons / Brian Simmons"
+11172,69597,Sophie Fisher
+67308,122158,Ruizhu
+13018,3061,Jonathan McQuarry
+13018,6968,Wyatt Bose
+13018,1812,S
+693113,19537,Rebecca Lombardo
+693113,62,Karl Helter
+749274,190,Mike Milo
+48231,116,Sabina Spielrein
+190955,18973,Natalie
+190955,8691,Vanessa
+84341,17628,Kate Hannah
+12193,368,Kate
+524348,65717,Denis McDonough
+84174,205,Regan Crawford
+84174,52848,Katie Lawrence
+84174,11006,Trevor Graham
+377447,18897,Ma Yuan
+257440,130640,Cate Barrow
+101173,5469,Caius Martius Coriolanus
+101173,17276,Tullus Aufidius
+101173,83002,Virgilia
+9900,1817,Samantha
+829051,380,Salvo Maniscalco
+504562,819,Lionel Essrog
+504562,62,Frank Minna
+504562,5293,Paul Randolph
+34653,1231,Charley
+34653,3292,Kenny
+34653,1247,Jim
+44982,976,Jasper
+23742,62,Jimmy Monroe
+777270,8785,Pop
+74387,26510,Dr. Glatt
+359412,62,Hubert
+359412,543530,Stockwell
+18947,2440,Quentin
+18947,7056,Charlotte
+425336,955,Virginia Vallejo
+728949,9273,Mother
+462677,90567,Suneo (voice)
+7874,6886,Rae
+7874,2231,Lazarus
+13576,65310,Self
+581526,73249,Ray
+57431,21007,Noah Griffith
+57431,6807,Karl
+41556,3897,Laura Rosen
+554596,1303064,Caro
+500852,7370,Chief Saucedo
+9044,17051,Tristan
+9044,73968,Melot
+70436,59860,Emily Hamilton
+70436,2039,Colonel Hamilton
+375867,2882,Anne Lockwood
+418879,71580,Thomas Edison
+418879,3292,Nikola Tesla
+418879,1136406,Samuel Insull
+418879,15576,J.P. Morgan
+49022,11661,Darcy
+49022,17697,Ethan
+13275,17051,Jake Huard
+255343,1121,Pablo Escobar
+255343,27972,Nick
+255343,55493,Dylan
+779816,12214,Vivienne Beaumier
+779816,15735,Grandmére
+4953,70851,Jerry
+256474,40481,Chief Ramón Garza
+256474,32747,Casey
+28510,15111,Luc Deveraux
+28510,16644,Andrew Scott
+2266,524,Francine (Faubourg Saint-Denis)
+2266,5293,Le cow-boy (Place des Victoires)
+2266,1579,Liz (Quartier des Enfants Rouges)
+17610,70851,Zed
+8285,2231,Octopus
+8285,1245,Silken Floss
+480042,16483,Ray Breslin
+480042,543530,Trent DeRosa
+1058694,239574,Sergio
+411019,2231,Narrator (voice)
+411019,1100,Self
+105001,1341,Ying
+627290,20089,Elizabeth
+139567,62,Mike Cella
+139567,7132,Neil Hagan
+3638,1922,Kate
+283552,227454,Isabel Sherbourne
+283552,3293,Hannah Roennfeldt
+429203,4135,Forrest Tucker
+429203,2887,Waller
+10488,1038,Alexandra Rover
+10488,17276,Jack Rusoe / Alex Rover
+315064,5081,Zoe Huntington (voice)
+315064,17697,Owen Huntington (voice)
+315064,1327,Horatio P. Huntington (voice)
+315064,16483,Bullet-Man (voice)
+226486,45407,Bobby
+2977,1813,Jane Austen
+2977,477,Mrs. Austen
+10760,16839,Tyler Prince
+88005,4495,Dodge Petersen
+88005,116,"Penelope ""Penny"" Lockhart"
+59981,7090,The Tin Man (voice)
+271714,9281,Melinda Ledbetter
+5375,3293,Wanda Blinkowski
+38117,118545,Sloan Hagen
+103370,80602,Madea / Joe / Brian
+103370,26510,George Needleman
+414453,1286328,Casey
+157841,1043693,T.S. Spivet
+157841,1283,Dr. Clair
+44571,40684,Terry Bogard
+330947,30614,BV
+330947,524,Rhonda
+330947,112,Amanda
+336004,47296,Luke Vaughn
+336004,380,The Pope
+336004,7517,Sydney
+336004,543530,Cox
+57089,9657,The Big Bad Wolf (voice)
+643586,2963,The Janitor
+146238,880,Ivan Block
+146238,59620,Rebecca Shafran
+332979,8785,Angelo Pazienza
+27583,7399,Roger Greenberg
+27583,45400,Florence Marr
+27583,10431,Beth (Beller's Party)
+27583,45407,Eric Beller (Beller's Party)
+38303,40462,Marni
+38303,8944,Gail
+38303,10205,Ramona
+109099,53714,Christine Stanford
+241254,62,Omar
+10761,11705,Hannah
+164558,1052109,Self
+8279,14606,Jean
+73499,1205,Paul Shepherdson
+83770,37917,Marylou / LuAnne Henderson
+83770,9273,Jane / Joan Vollmer
+83770,205,Camille / Carolyn Cassady
+44629,33192,Barry 'Baz' Brown
+12404,29222,Richard Samuels
+12404,6194,Sonja Jones
+137093,380,Patrick 'Paddy' Connors
+137093,192,Archibald 'Archie' Clayton
+869612,33192,Narvel Roth
+869612,10205,Norma Haverhill
+25602,78110,Casey
+353569,84223,Eloise McGarry
+353569,39189,Walter Thimble
+2312,976,Farmer
+2312,22290,Muriella
+1235499,8944,Annette
+1235499,543530,Eddie
+1235499,934289,Jodie
+1006462,54649,Rafe Calderon
+27584,3490,Psycho Ed
+132344,569,Jesse
+132344,1146,Céline
+784651,78749,Shamsher Pathania (Patty)
+784651,53975,Minal Rathore (Minni)
+14434,2632,Richard Cooper
+169209,18918,Detective James Ransome
+169209,34847,Nancy Michaelides
+340676,37917,Maureen Cartwright
+1717,2228,Willie Stark
+1717,4173,Judge Irwin
+1717,204,Anne Stanton
+1717,103,Adam Stanton
+49527,65731,Nick Cassidy
+49527,9281,Lydia Mercer
+49527,589162,Angie
+473149,10843,Red
+340101,59620,Catrin Cole
+340101,237455,Tom Buckley
+340101,2440,Ambrose Hilliard / Uncle Frank
+31203,62531,Nicolas's mother
+253414,11664,Ronnie
+253414,62,Bombay Brian
+253414,11661,Merci
+1683,17605,Ben
+632617,73421,Johnny
+949229,116925,Sathya
+42888,368,Lisa Jorgenson
+42888,22226,George Madison
+42888,887,Matty Reynolds
+42888,514,Charles Madison
+440762,19303,Silent Bob / Kevin Smith
+38843,125025,Ramona Quimby
+15268,55751,Chun-Li
+15268,2203,Bison
+13051,13240,Max Payne
+13051,18973,Mona Sax
+13051,2222,BB Hensley
+55347,3061,Oliver Fields
+257785,227454,Sophia Sandvoort
+257785,122889,Jan Van Loos
+257785,27319,Cornelis Sandvoort
+257785,85065,Willem Brok
+487680,93210,Gabriel O'Malley
+398174,477,Bella Turner
+398174,1115,"Joe Turner, Jr"
+279641,234352,Tanya Vanderpoel
+279641,879,General Hollanek
+279641,658,Ali Massoud Sadiq
+19833,4691,Lt Gen. George Miller
+19833,91493,Toby Wright
+49526,24045,Wilee
+62206,44735,Nick
+62206,86626,Chet
+62206,454,Chango
+34806,16866,Zoe
+519010,3131,Salvador Mallo
+519010,955,Jacinta
+12837,501,Lily Owens
+529485,880,Jack Cunningham
+1051891,9048,Alan
+115348,3,Jock Goddard
+115348,64,Nicholas Wyatt
+115348,55085,Emma Jennings
+22820,6807,Bronco / Brutus
+22820,55936,Ronald Chevalier
+10197,955,Carla
+10197,2227,Claudia
+294652,3061,Brendan Lynch
+294652,227454,Tasha
+137321,72466,Peter Lake
+137321,934,Pearly Soames
+137321,6161,Virginia Gamely
+137321,2888,Judge
+9718,23659,Ricky Bobby
+239562,80602,T.K.
+399121,16269,Alfred Dreyfus
+619592,2461,Ray
+619592,7517,Troy
+619592,22821,John the Baptist
+456048,2963,Noah Kross
+363579,150903,Kim Woo-jin
+8457,887,Drillbit Taylor
+8457,41087,Lisa
+18925,78040,Grant Taylor
+18925,135798,Brooke Taylor
+10288,19152,Bill Robinson
+10288,1462,Mr. Theopolis
+24803,5064,Julia Child
+24803,9273,Julie Powell
+24803,2283,Paul Child
+6538,31,Charlie Wilson
+6538,1204,Joanne Herring
+6538,9273,Bonnie Bach
+6538,5081,Jane Liddle
+87567,380,Don Griffin
+87567,3092,Ellie Griffin
+87567,71070,Missy O'Connor
+323677,16940,Avery Brundage
+9952,3894,Dieter Dengler
+9952,18324,Duane
+16873,1248,General Hemmer (voice)
+16873,16828,Stewart Stanton (voice)
+13195,3416,Laura Quinn
+13195,3895,Mr. Hobbs
+13249,3896,Carver
+13249,517,Gideon
+112949,71189,Jo
+730047,22970,Cyrano de Bergerac
+323676,40462,Claire
+323676,22970,Renault
+382322,2,The Joker (voice)
+850028,84223,Alice
+423899,81840,Mohammed
+451184,955,Olga
+451184,224513,Ana Margarita
+451184,52583,Roque
+375794,1303064,Caro
+239566,19492,Susie Brown
+256962,4688,James Busbee
+43923,34847,Noelle
+43923,58225,Bobby
+43923,19492,Dr. Eden Minerva
+9957,60949,Gus
+246860,37917,Valentine
+246860,56734,Jo-Ann Ellis
+246860,55493,Piers Roaldson
+45658,23659,Nick Halsey
+45658,454,Frank Garcia
+696157,2283,Clive Davis
+823452,33192,Coach Al Ulbrickson
+823452,1371041,Joe Rantz
+590706,2963,Wylie
+590706,57207,Kueng
+416234,15735,Sarah Winchester
+416234,235416,Marian Marriott
+212716,10980,Wallace
+212716,55615,Dalia
+184341,380,Ray Arcel
+184341,224513,Felicidad Iglesias
+25196,1579,Jean Craddock
+25196,72466,Tommy Sweet
+340487,4784,Laura
+340487,37917,Elizabeth Travis
+340487,1812,Gina
+12435,1245,Annie Braddock
+12435,16828,Hayden “Harvard Hottie”
+329981,1448222,Stephen Portman
+87825,190,Gus Lobel
+87825,9273,Mickey Lobel
+87825,1230,Pete Klein
+66125,6164,John
+1312157,1588444,Lara
+119675,1892,Scott Thorson
+20829,19292,George Simmons
+20829,19274,Ira Wright
+20829,41087,Laura
+20829,21007,Leo Koenig
+20829,17881,Mark Taylor Jackson
+492611,1442069,Miles
+22798,27578,Bliss Cavendar
+22798,69597,Smashley Simpson
+2179,70851,JB
+10294,3967,Amy Fox
+342737,18050,Julie
+342737,45400,Abbie
+20083,18897,Steelhead
+44129,880,Bobby Walker
+44129,2176,Gene McClary
+44129,1269,Jack Dolan
+19556,84833,Eugene Bell
+19556,84834,Tucker Cleigh
+416186,16269,Jean-Luc Godard
+289222,83002,Antonina abiska
+17436,879,William Sloan
+17436,326,Laura Sloan
+17436,55085,Christie
+17436,1920,Cheryl Moore
+1152014,1562548,Paul 'Paulo' Mounier / Sylvain
+1152014,24891,Lucien 'la Fraise' Mounier / Orpi
+977262,380,Stan Bernal
+977262,9827,Jenna
+977262,21657,Grace
+35854,1341,Ma
+35854,64439,Judy
+976584,964679,Mary Magdalene
+11152,20089,Amy
+11152,11023,Eric
+664300,1782117,Maya
+8885,56198,Self (voice)
+21861,1957,Anne
+293767,66,Albert
+293767,37917,Kathryn Lynn
+293767,12835,Shroom
+9703,2282,Ambrosinus
+82687,19274,Andy Brewster
+82687,63312,Jessica
+45610,17276,Sam Childers
+45610,11705,Lynn
+293646,3131,Mario Sepúlveda
+1093237,974169,Anima
+13150,819,Ray Tierney
+13150,72466,Jimmy Eagan
+16781,80602,Madea / Brian / Joe
+162903,71580,Julian Assange
+162903,11207,Nick Davies
+162903,227454,Anke Domscheit-Berg
+383709,1231,Lillian Mayhew / Rose
+383709,1812,Elaine
+76544,6384,Donaka Mark
+13090,9273,Rose Lorkowski
+13090,5081,Norah Lorkowski
+13090,18324,Mac
+304357,15735,Maria Altmann
+304357,10859,Randol Schoenberg
+304357,3897,Pam Schoenberg
+304357,4391,Sherman
+429202,524,Celeste Montgomery
+585268,78749,Kabir Dhaliwal
+585268,1338512,Khalid Rahmani
+7457,62,Sonny Truelove
+7457,71070,Julie Beckley
+30596,1341,Sum Chung-Yang
+596161,2882,Margaret Blackledge
+596161,1269,George Blackledge
+74513,9824,Elsa Casanova
+8880,1121,Ernesto Che Guevara
+310133,4724,Sheriff Kretzer
+38073,69597,Erin Rankin Langford
+38073,15033,Garrett Scully
+38073,95101,Dan Grant
+290864,1341,Hahou Mo
+270938,64856,John 'Falcon' Chapman
+270938,2203,Manny Ridley
+225565,29222,Jason
+225565,135651,Mikey
+476335,11006,Warren Strobel
+476335,57755,Jonathan Landay
+476335,3026,John Walcott
+476335,10860,Lisa Mayr
+476335,63,Vlatka Landay
+476335,2176,Joe Galloway
+56812,10847,Padre-Payaso tonto
+13279,2231,Abel Turner
+13279,17178,Chris Mattson
+47607,139135,Aura
+413765,5602,Self
+44147,2440,Victor Maynard
+44147,5081,Rose
+44147,10989,Tony
+573164,970753,Di (voice)
+9794,51298,Vince
+407887,73249,Jang Hak-soo
+407887,3896,Douglas MacArthur
+429416,1241,Jesus Quintana
+429416,65717,Paul Dominique
+15384,1337,Zhou Yu
+15577,3,Max Brogan
+15577,59860,Claire Shepard
+103620,109,Frank Zito
+477489,18182,Anna
+13596,11661,Alexis
+64586,70456,Lucy
+127493,2963,Will Montgomery
+127493,6164,Vincent Kinsey
+9978,3061,Ian Rider
+477428,1640,Hans
+373314,4173,Arthur Denning
+373314,1158,Charles Abrams
+373314,83271,Doug Fields
+373314,59860,Charlotte Cahill
+760099,2440,Williams
+54054,5723,Jimmy Alpha
+9754,3,Jack Stanfield
+12569,23532,Joel
+12569,18973,Cindy
+12569,880,Dean
+12569,18999,Brian
+508664,77700,Major Harry Smith
+292483,168349,Scott
+13260,23659,Jackie Moon
+13260,57755,Monix
+24684,10882,Helen
+24684,658,Jack Mellor
+84348,98631,"Brad (segment ""Tape 56"")"
+94047,64439,Shirai
+25643,4491,Eloise Chandler
+74998,2963,Will Gerard
+1969,955,Maria Alvarez
+1969,3136,Sara Sandoval
+1969,18324,Quentin
+73937,70851,Brad Harris
+73937,887,Kenny Bostick
+78698,69597,Rachel Kramer
+78698,17697,Adam Carlson
+78698,40462,Jill Jerard
+195590,3292,Casey Stein
+195590,4173,Hagen Kahl
+195590,2282,Geran
+22640,4451,Jeremy
+22640,74688,Jemma
+4515,5064,Janine Roth
+4515,500,Senator Jasper Irving
+4515,4135,Dr. Stephen Malley
+4515,37625,Todd Hayes
+4515,454,Ernest Rodriguez
+197950,54291,Gaëtan 'Tany' Zampa
+552269,13240,Joe Bell
+9270,24045,Brendan Frye
+276902,6949,Sheriff Vogel
+276902,6905,Georgie Wits
+276902,879,Stan Steeley
+276902,72873,Derby Milton
+9809,51298,John Lyshitski
+9809,19152,Warden
+430424,14606,Albert Maillard
+857598,108215,Pushpa Raj
+160588,112,Jasmine
+84355,5081,Iris
+84355,45407,Jack
+1544,15555,Rachel
+1544,17286,Luce
+1544,1247,Heck
+520900,76788,David Copperfield
+10313,1461,Lyn Cassady
+10313,3061,Bob Wilton
+10313,32747,Brigadier General Dean Hopgood
+49012,15735,Hobson
+49012,45400,Naomi Quinn
+49012,40481,Bitterman
+407439,73421,Jesus
+858485,1752058,Kaadubettu Shiva / Shiva's Father
+339408,77277,Nat Turner
+82390,29222,Jack Jansen
+82390,10297,Ward Jansen
+82390,2227,Charlotte Bless
+277355,3136,Everly
+333385,6807,Mr. Right
+333385,84223,Martha McKay
+71677,15111,Vincent Brazil
+71677,78110,Roland Flint
+602211,2461,Chris
+602211,27740,Skinny Man
+61891,83356,Young Earl of Oxford
+61891,11207,William Cecil
+57586,2231,Narrator (voice)
+219572,18897,Zhong Wen
+55292,64439,Madam Hou
+55292,18897,Wudao
+55292,78871,Chingneng
+601844,32895,Dominick
+2959,17697,Ben Murphy
+2959,2157,Reverend Frank
+10822,1231,Barbara Baekeland
+443009,73421,John Callahan
+443009,21007,Donny
+443009,70851,Dexter
+286567,1271,Dr. Miles Edwards
+567690,9273,Cynthia Murphy
+567690,1231,Heidi Hansen
+227707,17286,Monica
+12690,228,Virgil Cole
+12690,16940,Randall Bragg
+302688,54645,Toula Portokalos-Miller
+239573,54697,Mike Pancake
+239573,11006,Jim Spinch
+245846,2227,Catherine Parker
+245846,12763,Matthew Parker
+777831,17286,Gypsy Moon
+777831,65731,Jack
+272435,59620,Gemma Bovery
+8944,380,Ben
+8944,2228,Sean Penn
+8944,62,Bruce Willis
+8944,2283,Scott Solomon
+8944,1241,Dick Bell
+76758,3894,John Miller
+295699,83271,Finnegan
+171372,93210,Jon Burroughs
+171372,1579,Clara
+10523,16851,George W. Bush
+10523,2954,Colin Powell
+43552,5723,Paul
+476764,6968,Gary Hart
+476764,21657,Lee Hart
+476764,18999,Bill Dixon
+19904,55085,Kelly Porter
+535845,83860,Brian Banks
+41517,35742,Shekhar Subramaniam / G.One
+41517,37233,Sonia S. Subramanium
+192145,3896,Michael
+192145,18973,Julia
+192145,3490,Sean
+192145,17051,Rick
+192145,59315,Anna
+382614,1274508,Henry Carpenter
+147773,4495,Trent Ramsey
+147773,6807,Owen
+514277,18182,Kate
+81025,3061,Dr. Alfred Jones
+81025,5081,Harriet Chetwode-Talbot
+14148,1205,Erroll Babbage
+14148,6194,Allison Lowry
+232175,18269,Tom Fitzpatrick
+812635,1372369,Marie-Josephine
+779029,78871,Wu Qianli
+8988,11864,Brandon King
+8988,24045,Tommy Burgess
+8988,38673,Steve Shriver
+8988,18082,Lieutenant Colonel Boot Miller
+434355,1077537,Sylvain Marot
+13668,18082,Fritz Messing
+13668,19303,Sam
+77878,1620,Aung San Suu Kyi
+77878,11207,Michael Aris
+77878,30082,Karma Phuntsho
+452507,2203,Harlan Cotterie
+309242,10859,Curtis
+11170,10297,Jack Lengyel
+11170,6972,Paul Griffen
+11170,51072,Annie Cantrell
+567598,52848,Samantha McCreadie
+51017,80602,Madea / Joe / Self
+51017,58197,Byron
+33511,27428,John Lennon
+33511,25663,Paul McCartney
+50204,1333,William Hare
+50204,52848,Ginny
+117691,86225,Durga
+8952,206,Steven Russell
+8952,3061,Phillip Morris
+8952,41087,Debbie
+300693,112,Mary Mapes
+300693,4135,Dan Rather
+157849,5293,Tommy Brue
+157849,53714,Annabel Richter
+15357,78147,Tao
+719256,7090,Chuck Smith
+62046,1462,Peanut Butter
+492452,1204,Holly Burns
+244539,103,Cameron
+244539,8691,Maggie
+252512,7399,Josh Schrebnick
+252512,71070,Darby Massey
+345923,63312,Karen
+12556,10297,Connor Mead
+340485,10959,Jake
+301348,55089,Dwight Chapin
+300667,18050,Ray
+1819,887,Dupree
+1819,11661,Molly
+1819,19274,Neil
+333667,18999,Khampa (voice)
+401545,955,Laura
+414001,3293,Clare Crowhurst
+414001,11207,Rodney Hallworth
+414001,80860,Ian Wheeler
+10758,51797,Dr. Jim Pomatter
+10758,66496,Dawn Williams
+265712,90567,Suneo (voice)
+39210,18050,Cleo
+467952,22226,Moe Berg
+467952,935,Koranda
+75761,6574,Dr. Albert Marconi
+184098,55638,Cedric Ward
+104755,41229,Margaret Morgan
+13256,2372,Brother Samuel
+13256,28848,Capt. Nathan Rooker
+13256,6949,Constantine
+348892,42802,"Pawan Kumar ""Bajarangi"" Chaturvedi"
+348892,37233,Rasika
+452557,78871,Leng Feng
+17332,3223,Steve Lopez
+17332,134,Nathaniel Ayers
+275601,5064,Ricki Rendazzo
+9697,2954,Mr. Dury
+9075,39847,Ronnie
+291328,6449,Howard Hughes
+593395,1097436,Eva Kant
+25941,3895,Harry Brown
+25941,20508,SI Childs
+48838,72466,Harry Mitchel
+48838,116,Charlotte
+48838,11207,Jordan
+80591,19655,Edward
+80591,25072,Evgeni
+80591,35029,Ernest
+211954,239574,Valentín
+53172,6384,Henry Torne
+53172,21657,Julie Ivanova
+53172,26473,Eddie Vibes
+433694,33235,Robert Conroy (voice)
+433694,1283,Margaret Conroy (voice)
+433694,16927,Gaston Baptiste (voice)
+432068,54291,James
+96399,1271,Enrique Gorostieta Velarde
+96399,25072,Victoriano 'El Catorce' Ramirez
+2355,19292,Charlie Fineman
+442065,228,Ray Mott
+442065,2231,Takoda
+921452,64210,Jeanne Du Barry
+921452,85,Louis XV
+13184,2963,Joe
+2239,8785,Julius Foe
+659991,3896,Robert
+24438,16431,Clay Wheeler
+306745,1231,Laurel Hester
+306745,27578,Stacie Andree
+306745,4495,Steven Goldstein
+164251,51329,George Pemberton
+164251,72129,Serena Pemberton
+419709,4495,Larry 'Doc' Shepherd
+419709,17419,Sal Nealon
+39781,1231,Jules
+39781,103,Paul
+39781,27972,Laser
+39781,60033,Tanya
+257345,4724,Peter Taylor
+526019,9827,Mel Paige
+526019,3136,Claire Luna
+84199,527393,Dave Hodgman
+398929,1186076,Grégory Van Huffel
+398929,1186075,Mehdi
+502682,3092,Diane
+502682,1271,Mitchell
+11323,1892,Mark Whitacre
+644083,3895,Fagin
+644083,17286,Sikes
+27585,2227,Becca Corbett
+199575,235416,Mandy's Mum
+38407,47296,Conner
+963765,569,Jake
+963765,1253360,Silva
+59968,22226,Nedrick 'Ned' Rochlin
+59968,9281,Miranda Rochlin
+59968,11664,Natalie Rochlin
+406429,1336,Jiang Ziya
+406429,64439,Daji
+406429,109434,Yang Jian
+406429,150899,Blue Butterfly
+48289,15735,Rachel Singer
+48289,65731,Young David Peretz
+48289,8785,David Peretz
+48289,83002,Young Rachel Singer
+10317,18277,'Calamity' Jane Bodine
+10317,879,Pat Candy
+335462,78871,Leng Feng
+335462,78110,Tom Cat
+370665,35742,Raj/Kaali
+370665,55061,Meera Malik
+20178,2157,Lance Clayton
+44564,32895,Nick Brannen
+44564,1920,Geneva Brannen
+44564,6161,Beth
+44564,38673,Zip
+49014,11288,Eric Packer
+935906,1716493,Jason
+8915,1205,George Putnam
+8915,3061,Gene Vidal
+13092,205,Alison Olsen
+13092,19537,Sophie Maes
+13092,12214,Eleanor Johnson
+296100,24045,Ethan
+296100,19274,Isaac
+58232,2440,Richard Madsen
+192136,17605,Nelson Mandela
+539651,658,Howard Keleshian
+291351,10297,Arthur Brennan
+14202,819,Dr. Walter Fane
+333596,1328,Hank
+146227,569,Brent Magna
+61202,78749,Arjun Saluja
+61202,78916,Imran Qureshi
+50725,1772,Wendy Franklin
+338189,121529,Suzanne
+333386,57755,Abraham Brant
+174751,524,Jane Hammond
+174751,33192,Dan Frost
+174751,3061,John Bishop
+205588,3061,Perry Makepeace
+205588,1640,Dima
+88273,227454,Caroline Mathilde
+88273,1019,Johann Friedrich Struensee
+204435,78749,Krishna Mehra / Krrish / Rohit Mehra
+204435,77234,Priya Mehra
+442064,2203,Walter
+146239,71189,Emma
+146239,73457,Brett
+7211,4495,Dan
+429733,1372369,Melanie Cross
+13751,74688,Akeelah Anderson
+284296,2632,Andre Allen
+437103,93999,Detective Jo Han-kyung
+395993,131,Jeff Bauman
+326285,3061,Swede Levov
+326285,6161,Dawn Levov
+326285,501,Merry Levov
+13477,40462,Beth Harper
+1088096,2232,Andy
+1088096,18973,Grace
+27004,74568,Sam Phelan
+2196,15576,Daniel
+2196,22970,Peter
+264419,970753,Di (voice)
+566927,120724,Jaden Smith
+89691,59860,Emily Brandt
+615952,1813,Esther Graff
+615952,4173,Aaron Rabinowitz
+44638,15735,Prospera
+209189,4491,Mickey Dawson
+209189,52848,Melanie Ralston
+16710,63522,Cheryl
+1407,16927,Louis Leplée
+2274,6972,Merriman Lyon
+2274,20814,Max
+244566,119592,Beth Slocum
+244566,122889,Zach Orfman
+222899,55638,Bernie
+376453,1144092,Matt Johnson
+199420,8167,Raw Dog
+199420,109,Johnny Shaw
+199420,18269,Ricky
+199420,7132,Alton
+77987,30614,Julian
+489929,1920,Lindsay
+489929,6384,Frank
+37861,1019,One-Eye
+270010,31,Alan Clay
+270010,4139,Ron Clay
+244264,116,Megan Burch
+244264,56734,Annika Hunter
+244264,6807,Craig Hunter
+244264,4451,Anthony
+50837,550843,Martha
+50837,55493,Watts
+291270,11207,Michael Stone (voice)
+291270,10431,Lisa Hesselman (voice)
+402298,3293,Deborah Lipstadt
+77875,17276,George
+77875,10860,Stacie
+77875,139,Patti
+77875,1922,Denise
+17202,80602,Terry
+70868,517,Jack Abelhammer
+70868,7090,Clark Cooper
+986054,1782117,Rebecca-Diane
+14799,11514,Marilyn Hack
+14799,26510,Morley Orfkin
+14637,3967,Rachel Armstrong
+14637,21657,Erica van Doren
+14637,14409,Ray Armstrong
+133694,1892,Steve Butler
+133694,17697,Dustin Noble
+4169,11864,Eric O'Neill
+81446,59671,Brick Oodie
+81446,77700,McQueen Oodie
+81446,25663,Rob
+241771,77277,Kazaam Nicol
+10253,56457,Brandy
+76349,18897,Huang Xing
+464504,80602,"Mabel ""Madea"" Simmons / Joe / Brian / Heathrow"
+852247,1659144,Alejandro
+852247,150,Bobby
+252178,85065,Gary Hook
+13243,56731,Lucy
+13243,9281,Jess
+13243,33235,The Kid
+13243,18082,Chip Johnson
+734253,237045,Raghava
+960876,35742,Hardayal 'Hardy' Singh Dhillon
+169813,17838,Nate
+157544,454,Père Lozano
+557950,37625,Link
+557950,1903874,Frankie
+557950,17881,Mark Schwartz
+557950,1497557,Isabelle Roberts
+157370,10980,Allen Ginsberg
+157370,122889,Lucien Carr
+432527,53975,Queen Padmavati
+432527,224223,Sultan Alauddin Khilji
+602545,4483,Dottor Green
+15019,22226,Adam
+44977,52763,Sahir/Samar
+63207,989325,Mia Farrow
+70590,89153,Jaikant Shikre
+232572,4135,Bill Bryson
+232572,1733,Stephen Katz
+232572,7056,Catherine Bryson
+11499,4724,Jack Brennan
+11499,6807,James Reston Jr.
+11499,15576,John Birt
+477510,19961,Elizabeth Daniels
+8998,4491,Olivia
+82696,5064,Kay
+82696,2176,Arnold Soames
+82696,4495,Dr. Bernie Feld
+82696,164094,"Molly, Their Daughter"
+92591,70851,Bernie Tiede
+92591,10297,Danny Buck Davidson
+45094,6807,Kenny Waters
+219,955,Raimunda
+337844,17051,Mac McLeod
+337844,7132,Al Anderson
+337844,228,Joy
+58428,139135,Barista
+121677,11661,Erica
+1016346,64856,Duke
+48572,1230,Joseph Keenan
+81836,1243,Jerry
+81836,955,Anna
+81836,44735,Jack
+1534,1372,Ghost
+1534,6574,Gunnar
+53487,2228,Cheyenne
+75622,57755,Dave Brown
+75622,10205,Joan Confrey
+21755,3490,Bloom
+21755,3293,Penelope Stamp
+21755,103,Stephen
+18176,62,Principal Jared T. Kirkpatrick
+14424,1920,Death Nell / Gillian De Raisx (#101)
+8398,2203,Lieutenant Esteridge
+9664,17051,Blaine Rawlings
+7737,63,Alice
+7737,17303,Claire Redfield
+7737,20508,Dr. Isaacs
+28089,57755,Tony Stone
+28089,20089,Kelly
+339419,33192,Richard Loving
+17134,56446,Danny Fisher
+17134,49735,Miles Jackson
+37414,11661,Amy Stanton
+37414,56731,Joyce Lakeland
+268238,76788,Sonny Kapoor
+268238,1205,Guy Chambers
+268238,2440,Douglas Ainslie
+253235,3092,Leah
+297725,1640,The Boss
+977506,37627,Fernand Palmarède
+758891,1627287,Jia Xiaoling
+198185,65717,J. B. Bernstein
+198185,25703,Brenda Paauwe
+273899,1552148,Ray / Ramona
+273899,125025,Phoebe Winters
+273899,572541,Orphan Annie
+308638,70851,Dan Landsman
+308638,11006,Oliver Lawless
+14043,34847,Nancy Drew
+185008,53975,Naina Talwar
+37565,66441,Annabelle Fritton
+37565,59620,Kelly Jones
+229297,54693,Sophie Baker
+492565,569,Sheriff Pat Garrett
+492565,122889,Billy 'The Kid' Bonney
+492565,73457,Grant Cutler
+397722,1397778,Lily
+73873,27428,Joe Mackins
+192134,1223786,Evelyn
+373449,35070,Pakshi Rajan
+416160,17051,Ed Mass
+8079,35742,Om Prakash Makhija / Om Kapoor
+8079,53975,Shantipriya / Sandy
+152747,4135,Our Man
+52505,524,Emilia Greenleaf
+10186,54693,Amelia
+10186,60074,Stan
+204436,1186852,Jack (voice)
+204436,1186858,Joe (voice)
+17606,3896,Peter
+17606,3131,Ralph
+592508,35070,Veer Sooryavanshi
+254905,1158,A.J. Manglehorn
+254905,18686,Dawn
+254905,51918,Gary
+44754,103,Maretti
+5172,879,Charles Farmer
+9615,58197,Twinkie
+45839,56446,Fred's Dad
+88042,3141,Alice Simmons
+314385,11701,Vanessa
+314385,287,Roland
+12763,3131,Pierre Dulaine
+12763,60033,LaRhette
+102780,59620,Clara Webb
+102780,572541,Frank
+24804,64856,Black Dynamite
+60420,72129,Sam
+81870,1336,Chow Wai-on
+85985,42802,Avinash Singh 'Tiger' Rathore
+94901,76788,Andrew
+94901,17051,Francis
+76170,6968,Logan / Wolverine
+76170,10696,Jean Grey / Phoenix
+22805,139,Eliza Welsh
+690957,108215,Pushpa Raj
+157847,2963,Joe Ransom
+426613,56734,Cameron
+426613,164094,Bethany
+332718,6972,Umayya (voice)
+384737,62,Eddie
+109513,51298,Charles Bronson/Yul Perrkins
+109513,40462,Annie Bean
+109513,51329,Alex Dmitri
+510298,37917,Jean Seberg
+510298,85065,Jack Solomon
+510298,1392137,Linette Solomon
+510298,2245,Romain Gary
+234212,55615,Jules
+8270,24045,Chris Pratt
+8270,1247,Gary Spargo
+8270,52848,Luvlee
+24432,3905,Brian (voice)
+342521,291263,Rell Williams / Oil Dresden
+342521,6384,Keanu (voice)
+481879,109513,Mary
+481879,77700,Wayne
+13177,57755,Dale
+13177,6885,Ella
+407890,77700,Ray
+209403,23532,Guy Trilby
+209403,170820,Pete Fowler
+8780,51298,Carl Loomis
+8780,10205,Chaffee Bicknell
+127373,1231,Susanna
+17501,35742,"Mark ""Don"" Donald  / Vijay Pal"
+17501,77234,Roma Bhagat
+42296,142276,Self
+42296,142272,Self
+152259,228,Demi
+517991,141548,Ri Myeong-woon
+153795,11864,Scott
+538207,15111,Daniel
+325789,17419,Robert Mazur
+325789,9824,Kathy Ertz
+325789,5723,Emir Abreu
+602666,57207,Jack Jaa
+164331,115440,Emily
+58882,6968,Arthur
+14326,2882,Adrienne
+14326,1205,Paul
+14326,19492,Jean
+38850,65717,Tom Adkins Sr.
+38850,6164,Matthew Wakefield
+38850,19210,Diploma / Roggiani
+38850,83002,Sally Ann
+7304,8167,Joey Gazelle
+7304,21657,Teresa Gazelle
+1441,192,Frank Carden
+23988,7633,Kay
+553147,95101,Latte Pronto
+553147,3967,Christiana Dior
+553147,3490,Chad Luxt
+84332,119592,Darius
+84332,45407,Kenneth
+84332,40462,Belinda
+325346,17697,John Hollar
+325346,84223,Rebecca
+325346,95101,Jason
+8975,56446,John Triton
+14976,1813,Kym Buchman
+655082,2201315,Adrienne Bourgès
+19255,17697,Burt Farlander
+19255,11514,Gloria Farlander
+859235,62531,Camille Moreau
+12834,819,Bill Kincaid / Brady Kincaid
+9022,55085,Mandy Lane
+982271,3092,Diane
+982271,1271,Mitchell
+283587,17605,Commandant
+7511,5367,Michael
+37080,2231,Paul
+331836,1186076,Franck
+331836,1186075,Sam
+10090,59413,Deputy Travis Junior
+347026,10882,Ruth Williams-Khama
+8265,37627,Antoine Bailleul
+628241,108215,Devaraj / Bantu
+38150,76242,A.J.
+9262,3131,Tommy Martinez
+9672,18277,Nelle Harper Lee
+9672,8784,Perry Smith
+722778,119172,Patrizia
+157829,83002,Eleanor Rigby
+157829,19492,Professor Lillian Friedman
+157829,8785,Spencer Ludlow
+84305,62,Dink Heimowitz
+84305,1922,Tulip Heimowitz
+84305,11866,Jeremy
+84305,18974,Holly
+18320,5081,Queen Victoria
+18320,36669,Prince Albert
+18320,388,King William IV
+152599,73421,Bruno Weiss
+152599,17604,"""Orlando the Magician"" / Emil"
+336029,524,Fania Oz
+454292,237045,Ashok
+38031,3131,Greg
+38031,16851,Roy
+38031,4173,Alfie
+41479,3416,Kate Jones
+41479,55085,Jenn Jones
+20825,54645,Genevieve Gernier
+22074,17087,Self
+297806,91606,Hank Williams
+297806,550843,Audrey Mae Williams
+14223,5081,Girl
+613377,1186075,Rayane
+613377,1186076,Tony
+339927,55638,Himself
+339927,4587,Money Berry
+92182,550843,Sarah
+127560,2227,Patti
+127560,1640,Finlay
+405882,16644,Jebediah Woodley
+16409,4483,Harvey Shine
+16409,7056,Kate Walker
+97512,47296,Courier
+67911,6886,Kathy McGee
+6687,57755,Roy
+6687,51072,Abby
+6687,2282,Grinko
+398177,192,Duke
+398177,2176,Leo
+398177,532,Joey
+84336,12214,Kate Fletcher
+84336,49735,Gerry
+84336,93210,Connor
+512263,10959,James Lort
+512263,1212,Dr. Moreno
+29963,25663,Samuel
+883502,62747,Balzary
+883502,62,Robert
+1852,2963,John McLoughlin
+258216,1640,Seligman
+258216,10959,Jerôme
+258216,139,Mrs. H
+41109,35742,"Mark ""Don"" Donald"
+41109,77234,Roma Bhagat
+49010,20814,Slick
+44009,388,Tom
+253450,572086,Lady Nie Tian
+466411,8891,Ben Aronoff (Don Aronow)
+466411,26723,Emily Gowen
+211067,40863,Jake
+23049,54645,Georgia Ianakopolis
+28053,1271,Vince Rizzo
+508791,5723,Jeremy Martinez
+52077,37627,Mathias Ducatel
+50601,36669,Thomas Anders
+329805,16269,Solal
+4351,16866,Lauren Adrian
+4351,3131,Alfonso Diaz
+299824,128026,Wang Kaixuan
+299824,150899,Ding Shitian
+8088,955,Lena
+209185,2039,Murray French
+53174,1844,Henry
+51241,143593,Francis
+27936,37627,Bazil
+124461,17881,Kirby Star
+124461,26723,Ivana
+124461,119592,Marnie
+44877,34847,Joanne
+44877,76242,Tee
+291984,239019,John F. Donovan
+291984,524,Sam Turner
+635891,19303,Silent Bob
+357940,1287732,Liu Ye (Lao Pao Er)
+232679,4784,Bev Ladouceur
+232679,6574,Mickey Ryan
+431017,72320,Vincent
+18897,1957,Jeanne
+18897,28782,Jeanne
+18897,40541,Teo / Gianni
+9782,2157,Gabriel Noone
+308453,1286328,Maggie Townsend
+1026227,133214,Delia
+70586,11864,Vincent
+70586,62,Biggs
+111479,10989,Cheetah Chrome
+111479,34408,Genya Ravan
+182,1461,Jake Geismar
+182,112,Lena Brandt
+182,2219,Tully
+182,2222,Colonel Muller
+46829,4483,Izzy Panofsky
+46829,10882,Miriam Grant-Panofsky
+459202,80602,Madea/Joe/Brian
+61667,69488,Dott. Brezzi
+13067,37917,Lucy Hardwicke
+1116,2037,Damien
+126250,517,Philip
+145197,76624,Jeff
+16991,19274,Ronnie Barnhardt
+16991,1772,Brandi
+16991,454,Dennis
+16991,88124,Charles
+451955,14061,Mme Schenker / Chloé's Mother
+252680,198927,Allyson
+252680,1328,Sean
+46138,10882,Lisa Hopkins
+14070,52763,Sanjay Singhania
+26367,80602,Madea
+343795,7517,Eva Piper
+595975,19866,Antoine
+7353,10859,Michael Waechter
+7353,5293,Charles Waechter
+7353,1204,Lisa Waechter
+399031,2406,Thomas Laurent
+318850,80860,Herod
+244049,549602,Rani
+397538,10959,John McEnroe
+397538,1640,Lennart Bergelin
+7916,1844,Jack Carver
+449927,1341,Crippled Ho
+340402,60561,Aunt May
+10425,8167,Tim Kearney
+10425,59315,Elizabeth
+127501,77234,Jhilmil Chatterjee
+652004,1416383,John Marshall
+362045,224223,Peshwa Bajirao Ballaad
+362045,53975,Mastani
+362045,77234,Kashibai
+13973,6807,Victor Mancini
+13973,9048,Lord High Charlie
+59963,4587,Kate Mathieson
+1025491,4173,Sigmund Freud
+1025491,1247,C. S. Lewis
+607430,30082,Kyo
+17680,74251,Chelsea / Christine
+13191,5958,Yonica Babyyeah
+13191,3141,Natalie Hegalhuzen
+13635,16927,Guido
+13635,54291,Paul
+9950,12835,Jackie DiNorscio
+9950,21399,Sidney Finestein
+9950,22970,Ben Klandis
+9526,5064,Yolanda Johnson
+9526,57755,Dusty
+338065,77234,Ayesha Mehra
+338065,224223,Kabir Mehra
+2295,19303,Silent Bob
+13948,7090,General George S. Patton
+13948,7633,Osama Bin Nielsen / Grandpa
+441909,42802,Avinash Singh 'Tiger' Rathore
+63574,74688,Olivia Hill
+14536,18999,Stu Kopenhafer
+49852,18050,Mary
+49852,1241,The Rat King
+12645,9824,Diane Stanton
+433356,2282,Woodruff
+6639,5723,Lorenzo Daza
+376166,16269,André Sauvage
+157360,25703,Carol Solomon
+157360,77089,Gustav Warner
+380111,562730,Alexey Gushchin
+8316,1146,Erzsébet Báthory
+312669,45400,Maggie Hardin
+312669,569,John Harding
+312669,1231,Georgette Nørgaard
+312669,77700,Guy Childers
+121642,955,Gemma
+121642,1118107,Pietro
+1252,8891,Elmer Robinson
+1252,4691,Det. Charles Hilderbrandt
+1252,3136,Martha Beck
+1252,4784,Rene Fodie
+14171,2231,William Marsh
+14171,10860,Vanessa Price
+14171,6886,Sarah Schivino
+109729,124097,Christian
+109729,5216,Dr. Campbell
+2357,192,'Him'
+2357,21007,Packy
+624779,32747,Fred
+26820,33235,George Devereaux
+26820,4724,Dan Devereaux
+38448,72466,Syracuse
+310121,16431,Bill
+1229349,1627287,Le Ying
+15772,85450,Manik Dasgupta
+325173,78110,Colton MacReady
+13258,93491,Lee Carter
+5857,2203,Daniel Fleming
+146381,1281,Justin (voice)
+146381,3131,Sir Clorex (voice)
+146381,477,Gran (voice)
+12165,6885,Sylvia / Mariana
+12165,326,Gina
+12165,72129,Young Mariana
+7859,30614,Dan Dunne
+14396,140,Gina
+36939,12214,Jean Maclestone
+286521,192,Alex Carver
+286521,3092,Ruth Carver
+175555,80602,Madea
+35026,82304,Billy The Kid
+97006,59017,Judith
+7913,52763,Daljit 'DJ' Singh
+5951,5081,Prudie
+5951,15851,Sylvia
+18615,2227,Diane Arbus
+18615,3223,Lionel Sweeney
+90369,501,Tessa Scott
+1035806,62,Det. James Knight
+45272,12052,Kelly Canter
+434358,24891,Joseph
+10187,1269,Bud Johnson
+10187,7090,President Andrew Boone
+309425,1328,Dr. Farell
+9895,2157,Tom Dobbs
+1950,69597,Billie Offer
+1950,3223,Telephone Jack
+447856,35070,Lakshmikant Chauhan
+230266,83002,Miss Julie
+230266,72466,John
+66195,59671,John Taylor
+16555,17605,Monty James
+668742,10847,Javier García
+1590,228,Ludwig van Beethoven
+1590,9824,Anna Holtz
+1590,1247,Martin Bauer
+24528,91730,Jet Bean (voice)
+337154,9827,Lori Minervini
+337154,18999,Randall Zipper
+24271,192,Charles Peterson
+24271,3905,George McLendon
+157827,44735,Jonah Reed
+601165,78110,Martin Baxter
+204668,1073985,Lieutenant Peter
+331190,51072,Ashley Smith
+13501,12052,Dora Epstein
+13501,955,Anna / Melodia
+9842,879,Dr. P
+35688,80602,Terry
+77221,3131,Emir Nesib
+464458,87328,Dev Sharma
+509853,8891,Moose
+38568,17051,Allen Ginsberg
+38568,65717,Jake Ehrlich
+919573,16269,Abel Lefranc
+8349,16808,Baron Manfred von Richthofen
+8349,1844,Werner Voss
+8349,17286,Käthe
+8349,12763,Captain Roy Brown
+11515,524,Inés Bilbatúa / Alicia
+11515,1640,Francisco Goya
+376812,42802,Sultan Ali Khan
+300153,11288,Dennis Stock
+300153,122889,James Dean
+300153,33192,John Morris
+300153,2282,Jack Warner
+60422,9560,Doris Baker
+60422,3416,Patty
+60422,7517,Alice
+11798,1115,Combo
+78206,229932,Irâne
+20359,35070,Raju
+4787,72466,Terry Blaine
+4787,3061,Ian Blaine
+13803,26723,Tabitha
+55890,109513,Allison
+14655,2231,Louis Hinds
+13158,74339,Meatwad / Carl / Ignignokt / Video Game Voice (voice)
+9520,27428,Prosper
+14194,78749,Mr. A
+15749,326,Della
+9310,5293,Chief of Staff
+215211,2227,Grace Kelly
+326284,15111,Deacon
+326284,234990,Nardo
+14220,18324,Peter
+14220,21007,Cooker
+14220,60074,Ed Lawson
+74536,38673,Jonathan 'Milk' White
+74536,1158,Detective Charles Stanford
+74536,3897,Kerry White
+62008,80602,Wesley Deeds
+41382,58197,Kevin Carson
+13173,22226,Jeff Reigert
+13173,65717,Chris Knarl
+13173,1920,Kelly La Fonda
+13173,77089,Glenn Richie
+14073,78749,Jalaluddin Mohammad Akbar
+13508,2461,Self
+13508,31,Self (archive footage)
+1988,11701,Mariane Pearl
+491625,224223,Murad Ahmed / Gully Boy
+51497,12835,Dominic Toretto
+51497,8167,Brian O'Conner
+38542,59620,Alice Creed
+50987,7707,Giancarlo Siani
+747803,77700,Will
+747803,4724,Fred Sr.
+735697,4275,Alain
+441889,52763,Shakti Kumar
+300,4275,Guy
+25597,93999,Deacon-byun
+91070,78080,Kim
+91070,7517,Deena
+84858,78749,Vijay Deenanath Chauhan
+84858,77234,Kaali Gawde
+201749,3895,Matthew Morgan
+201749,12214,Karen Morgan
+8942,1812,Wendy Carroll
+25968,11207,Dr. Blake
+7510,1248,Dr. Finch
+7510,12052,Hope Finch
+7510,12763,Neil Bookman
+22556,37917,Martine
+244783,1813,Franny Ellis
+8669,3223,Nathan Gardner
+836202,229932,Faunia Vuillard
+455558,40481,Eddie
+8883,1019,Citronen
+206296,84223,Cathy Hiatt
+280690,42802,Devi Lal Singh (Devil)
+280690,85450,Ratan Lal Singh
+13251,57755,Carter Page III
+392794,1459885,Isadora Duncan
+253279,3967,Cate McCall
+253279,1733,Bridges
+253279,6574,Brinkerhoff
+14474,22226,Jack Chase
+694919,89888,Jack Reese
+694919,7090,Darius 'The Rumble' Grouch
+694919,16479,Iggy
+61404,54291,Samuel Pierret
+8453,52763,Rehan Qadri
+8453,55061,Zooni Ali Beg
+79464,110721,Ustad Jameel Khan
+135718,35070,Krishna
+135718,85450,Leeladhar Swamy
+89584,937348,Ulubatl Hasan
+13196,9994,April Epner
+238811,128026,Underling
+13728,14606,Roland
+150202,62747,Andy Wyrick
+150202,123725,Lisa Wyrick
+206324,78916,Milkha Singh
+206324,89153,Army Officer
+16911,80999,Prosecutor
+98339,2231,Foley
+214086,228,Garret Mathis / Tom Young
+214086,2157,Roger Stillman
+214086,15851,Ann
